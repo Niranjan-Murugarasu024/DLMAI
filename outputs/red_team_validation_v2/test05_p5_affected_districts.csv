@@ -1,0 +1,149 @@
+lgd_district_code,district_name,state_name,mca21_pharma_density_raw,p5_saturation_score,saturation_penalty_deducted,baseline_rank_with_p5,rank_without_p5,rank_penalty_shift,competition_impact_category
+700,Medchal Malkajgiri,Telangana,12.727,100.0,15.0,132,83,49,Heavy Saturation Penalty
+507,Hyderabad,Telangana,10.66,83.36,12.504,128,87,41,Heavy Saturation Penalty
+568,Chennai,Tamil Nadu,6.237,47.76,7.164,71,12,59,Heavy Saturation Penalty
+574,Kancheepuram,Tamil Nadu,5.0,37.81,5.671,86,57,29,Heavy Saturation Penalty
+552,South Goa,Goa,5.0,37.81,5.671,96,73,23,Heavy Saturation Penalty
+551,North Goa,Goa,4.634,34.86,5.229,99,79,20,Heavy Saturation Penalty
+525,Bengaluru Urban,Karnataka,3.638,26.84,4.026,148,139,9,Moderate Penalty
+600,Puducherry,Puducherry,2.632,18.75,2.812,136,129,7,Moderate Penalty
+520,Visakhapatnam,Andhra Pradesh,2.214,15.38,2.307,107,100,7,Moderate Penalty
+555,Ernakulam,Kerala,1.982,13.51,2.027,41,27,14,Heavy Saturation Penalty
+569,Coimbatore,Tamil Nadu,1.59,10.36,1.554,84,84,0,Minimal Impact
+545,Mysuru,Karnataka,1.4,8.83,1.324,135,132,3,Moderate Penalty
+598,Karaikal,Puducherry,0.5,1.59,0.238,81,86,-5,Minimal Impact
+527,Belagavi,Karnataka,0.397,0.76,0.113,131,133,-2,Minimal Impact
+511,Kurnool,Andhra Pradesh,0.395,0.74,0.111,101,104,-3,Minimal Impact
+578,Madurai,Tamil Nadu,0.395,0.74,0.111,67,69,-2,Minimal Impact
+565,Thiruvananthapuram,Kerala,0.394,0.73,0.11,30,29,1,Minimal Impact
+506,Guntur,Andhra Pradesh,0.389,0.69,0.104,120,122,-2,Minimal Impact
+562,Malappuram,Kerala,0.389,0.69,0.104,57,59,-2,Minimal Impact
+584,Salem,Tamil Nadu,0.374,0.57,0.086,76,78,-2,Minimal Impact
+591,Tiruchirappalli,Tamil Nadu,0.368,0.52,0.078,18,19,-1,Minimal Impact
+593,Tiruvannamalai,Tamil Nadu,0.364,0.49,0.074,20,21,-1,Minimal Impact
+566,Thrissur,Kerala,0.364,0.49,0.074,17,18,-1,Minimal Impact
+586,Thanjavur,Tamil Nadu,0.364,0.49,0.074,19,20,-1,Minimal Impact
+690,Bhadradri Kothagudem,Telangana,0.364,0.49,0.074,14,15,-1,Minimal Impact
+559,Kollam,Kerala,0.364,0.49,0.074,15,16,-1,Minimal Impact
+596,Viluppuram,Tamil Nadu,0.364,0.49,0.074,12,13,-1,Minimal Impact
+729,Kallakurichi,Tamil Nadu,0.364,0.49,0.074,12,13,-1,Minimal Impact
+595,Vellore,Tamil Nadu,0.364,0.49,0.074,6,6,0,Minimal Impact
+585,Sivaganga,Tamil Nadu,0.364,0.49,0.074,11,11,0,Minimal Impact
+733,Tenkasi,Tamil Nadu,0.364,0.49,0.074,9,9,0,Minimal Impact
+592,Tirunelveli,Tamil Nadu,0.364,0.49,0.074,9,9,0,Minimal Impact
+732,Tirupathur,Tamil Nadu,0.364,0.49,0.074,6,6,0,Minimal Impact
+731,Ranipet,Tamil Nadu,0.364,0.49,0.074,6,6,0,Minimal Impact
+572,Dindigul,Tamil Nadu,0.364,0.49,0.074,5,5,0,Minimal Impact
+699,Kumuram Bheem Asifabad,Telangana,0.364,0.49,0.074,4,4,0,Minimal Impact
+563,Palakkad,Kerala,0.364,0.49,0.074,2,2,0,Minimal Impact
+583,Ramanathapuram,Tamil Nadu,0.364,0.49,0.074,3,3,0,Minimal Impact
+687,Jayashankar Bhupalapally,Telangana,0.364,0.49,0.074,1,1,0,Minimal Impact
+567,Wayanad,Kerala,0.364,0.49,0.074,16,17,-1,Minimal Impact
+556,Idukki,Kerala,0.364,0.49,0.074,36,38,-2,Minimal Impact
+682,Peddapalli,Telangana,0.364,0.49,0.074,37,39,-2,Minimal Impact
+560,Kottayam,Kerala,0.364,0.49,0.074,39,41,-2,Minimal Impact
+695,Jogulamba Gadwal,Telangana,0.364,0.49,0.074,38,40,-2,Minimal Impact
+686,Hanumakonda,Telangana,0.364,0.49,0.074,28,31,-3,Minimal Impact
+582,Pudukkottai,Tamil Nadu,0.364,0.49,0.074,29,32,-3,Minimal Impact
+685,Kamareddy,Telangana,0.364,0.49,0.074,23,24,-1,Minimal Impact
+597,Virudhunagar,Tamil Nadu,0.364,0.49,0.074,21,23,-2,Minimal Impact
+735,Mayiladuthurai,Tamil Nadu,0.364,0.49,0.074,24,25,-1,Minimal Impact
+501,Adilabad,Telangana,0.364,0.49,0.074,26,28,-2,Minimal Impact
+554,Alappuzha,Kerala,0.364,0.49,0.074,27,30,-3,Minimal Impact
+561,Kozhikode,Kerala,0.364,0.49,0.074,21,22,-1,Minimal Impact
+594,Thoothukkudi,Tamil Nadu,0.364,0.49,0.074,52,53,-1,Minimal Impact
+557,Kannur,Kerala,0.364,0.49,0.074,51,52,-1,Minimal Impact
+681,Jagitial,Telangana,0.364,0.49,0.074,50,51,-1,Minimal Impact
+513,Medak,Telangana,0.364,0.49,0.074,49,50,-1,Minimal Impact
+514,Nalgonda,Telangana,0.364,0.49,0.074,48,49,-1,Minimal Impact
+693,Wanaparthy,Telangana,0.364,0.49,0.074,47,48,-1,Minimal Impact
+590,Thiruvarur,Tamil Nadu,0.364,0.49,0.074,55,56,-1,Minimal Impact
+581,Perambalur,Tamil Nadu,0.364,0.49,0.074,53,54,-1,Minimal Impact
+688,Mahabubabad,Telangana,0.364,0.49,0.074,60,62,-2,Minimal Impact
+509,Khammam,Telangana,0.364,0.49,0.074,61,63,-2,Minimal Impact
+564,Pathanamthitta,Kerala,0.364,0.49,0.074,63,65,-2,Minimal Impact
+508,Karimnagar,Telangana,0.364,0.49,0.074,62,64,-2,Minimal Impact
+730,Chengalpattu,Tamil Nadu,0.364,0.49,0.074,56,57,-1,Minimal Impact
+580,Namakkal,Tamil Nadu,0.364,0.49,0.074,58,60,-2,Minimal Impact
+683,Rajanna Sircilla,Telangana,0.364,0.49,0.074,59,61,-2,Minimal Impact
+610,Ariyalur,Tamil Nadu,0.364,0.49,0.074,53,54,-1,Minimal Impact
+691,Sangareddy,Telangana,0.364,0.49,0.074,68,70,-2,Minimal Impact
+516,Nizamabad,Telangana,0.364,0.49,0.074,66,68,-2,Minimal Impact
+697,Yadadri Bhuvanagiri,Telangana,0.364,0.49,0.074,65,67,-2,Minimal Impact
+518,Ranga Reddy,Telangana,0.364,0.49,0.074,64,66,-2,Minimal Impact
+694,Nagarkurnool,Telangana,0.364,0.49,0.074,40,42,-2,Minimal Impact
+721,Narayanpet,Telangana,0.364,0.49,0.074,41,43,-2,Minimal Impact
+512,Mahabubnagar,Telangana,0.364,0.49,0.074,41,43,-2,Minimal Impact
+575,Kanniyakumari,Tamil Nadu,0.364,0.49,0.074,44,45,-1,Minimal Impact
+589,Thiruvallur,Tamil Nadu,0.364,0.49,0.074,45,46,-1,Minimal Impact
+696,Suryapet,Telangana,0.364,0.49,0.074,46,47,-1,Minimal Impact
+576,Karur,Tamil Nadu,0.364,0.49,0.074,31,33,-2,Minimal Impact
+720,Mulugu,Telangana,0.364,0.49,0.074,32,34,-2,Minimal Impact
+522,Warangal,Telangana,0.364,0.49,0.074,32,34,-2,Minimal Impact
+573,Erode,Tamil Nadu,0.364,0.49,0.074,34,36,-2,Minimal Impact
+689,Jangoan,Telangana,0.364,0.49,0.074,35,37,-2,Minimal Impact
+579,Nagapattinam,Tamil Nadu,0.364,0.49,0.074,24,25,-1,Minimal Impact
+743,Parvathipuram Manyam,Andhra Pradesh,0.364,0.49,0.074,82,88,-6,Minimal Impact
+521,Vizianagaram,Andhra Pradesh,0.364,0.49,0.074,82,88,-6,Minimal Impact
+558,Kasaragod,Kerala,0.364,0.49,0.074,79,82,-3,Minimal Impact
+588,Theni,Tamil Nadu,0.364,0.49,0.074,80,85,-5,Minimal Impact
+587,The Nilgiris,Tamil Nadu,0.364,0.49,0.074,78,81,-3,Minimal Impact
+577,Krishnagiri,Tamil Nadu,0.364,0.49,0.074,77,80,-3,Minimal Impact
+692,Siddipet,Telangana,0.364,0.49,0.074,74,76,-2,Minimal Impact
+571,Dharmapuri,Tamil Nadu,0.364,0.49,0.074,75,77,-2,Minimal Impact
+698,Vikarabad,Telangana,0.364,0.49,0.074,69,71,-2,Minimal Impact
+570,Cuddalore,Tamil Nadu,0.364,0.49,0.074,70,72,-2,Minimal Impact
+684,Mancherial,Telangana,0.364,0.49,0.074,73,75,-2,Minimal Impact
+634,Tiruppur,Tamil Nadu,0.364,0.49,0.074,72,74,-2,Minimal Impact
+502,Ananthapuramu,Andhra Pradesh,0.364,0.49,0.074,91,95,-4,Minimal Impact
+755,Nandyal,Andhra Pradesh,0.364,0.49,0.074,90,94,-4,Minimal Impact
+746,Kakinada,Andhra Pradesh,0.364,0.49,0.074,87,91,-4,Minimal Impact
+680,Nirmal,Telangana,0.364,0.49,0.074,85,90,-5,Minimal Impact
+515,Sri Potti Sriramulu Nellore,Andhra Pradesh,0.364,0.49,0.074,100,103,-3,Minimal Impact
+523,West Godavari,Andhra Pradesh,0.364,0.49,0.074,97,101,-4,Minimal Impact
+753,Annamayya,Andhra Pradesh,0.364,0.49,0.074,102,105,-3,Minimal Impact
+504,Y.S.R.,Andhra Pradesh,0.364,0.49,0.074,102,105,-3,Minimal Impact
+517,Prakasam,Andhra Pradesh,0.364,0.49,0.074,104,107,-3,Minimal Impact
+548,Tumakuru,Karnataka,0.364,0.49,0.074,105,108,-3,Minimal Impact
+539,Hassan,Karnataka,0.364,0.49,0.074,106,109,-3,Minimal Impact
+749,Ntr,Andhra Pradesh,0.364,0.49,0.074,108,110,-2,Minimal Impact
+510,Krishna,Andhra Pradesh,0.364,0.49,0.074,108,110,-2,Minimal Impact
+754,Sri Sathya Sai,Andhra Pradesh,0.364,0.49,0.074,91,95,-4,Minimal Impact
+752,Tirupati,Andhra Pradesh,0.364,0.49,0.074,94,98,-4,Minimal Impact
+745,Alluri Sitharama Raju,Andhra Pradesh,0.364,0.49,0.074,93,97,-4,Minimal Impact
+503,Chittoor,Andhra Pradesh,0.364,0.49,0.074,94,98,-4,Minimal Impact
+748,Eluru,Andhra Pradesh,0.364,0.49,0.074,97,101,-4,Minimal Impact
+505,East Godavari,Andhra Pradesh,0.364,0.49,0.074,87,91,-4,Minimal Impact
+747,Dr. B.R. Ambedkar Konaseema,Andhra Pradesh,0.364,0.49,0.074,87,91,-4,Minimal Impact
+599,Mahe,Puducherry,0.364,0.49,0.074,116,118,-2,Minimal Impact
+534,Dakshina Kannada,Karnataka,0.364,0.49,0.074,115,117,-2,Minimal Impact
+744,Anakapalli,Andhra Pradesh,0.364,0.49,0.074,114,116,-2,Minimal Impact
+550,Uttara Kannada,Karnataka,0.364,0.49,0.074,113,115,-2,Minimal Impact
+519,Srikakulam,Andhra Pradesh,0.364,0.49,0.074,112,114,-2,Minimal Impact
+750,Bapatla,Andhra Pradesh,0.364,0.49,0.074,110,112,-2,Minimal Impact
+751,Palnadu,Andhra Pradesh,0.364,0.49,0.074,110,112,-2,Minimal Impact
+535,Davangere,Karnataka,0.364,0.49,0.074,121,123,-2,Minimal Impact
+538,Kalaburagi,Karnataka,0.364,0.49,0.074,124,126,-2,Minimal Impact
+544,Mandya,Karnataka,0.364,0.49,0.074,123,125,-2,Minimal Impact
+549,Udupi,Karnataka,0.364,0.49,0.074,122,124,-2,Minimal Impact
+541,Kodagu,Karnataka,0.364,0.49,0.074,125,127,-2,Minimal Impact
+546,Raichur,Karnataka,0.364,0.49,0.074,127,130,-3,Minimal Impact
+532,Chikkamagaluru,Karnataka,0.364,0.49,0.074,117,119,-2,Minimal Impact
+533,Chitradurga,Karnataka,0.364,0.49,0.074,118,120,-2,Minimal Impact
+547,Shivamogga,Karnataka,0.364,0.49,0.074,119,121,-2,Minimal Impact
+531,Chamarajanagara,Karnataka,0.364,0.49,0.074,140,141,-1,Minimal Impact
+543,Koppal,Karnataka,0.364,0.49,0.074,130,134,-4,Minimal Impact
+635,Yadgir,Karnataka,0.364,0.49,0.074,126,128,-2,Minimal Impact
+601,Yanam,Puducherry,0.364,0.49,0.074,134,136,-2,Minimal Impact
+528,Ballari,Karnataka,0.364,0.49,0.074,137,137,0,Minimal Impact
+738,Vijayanagar,Karnataka,0.364,0.49,0.074,137,137,0,Minimal Impact
+530,Vijayapura,Karnataka,0.364,0.49,0.074,139,140,-1,Minimal Impact
+524,Bagalkote,Karnataka,0.364,0.49,0.074,133,135,-2,Minimal Impact
+536,Dharwad,Karnataka,0.364,0.49,0.074,144,145,-1,Minimal Impact
+540,Haveri,Karnataka,0.364,0.49,0.074,141,142,-1,Minimal Impact
+630,Chikkaballapura,Karnataka,0.364,0.49,0.074,143,144,-1,Minimal Impact
+542,Kolar,Karnataka,0.364,0.49,0.074,142,143,-1,Minimal Impact
+537,Gadag,Karnataka,0.364,0.49,0.074,146,147,-1,Minimal Impact
+529,Bidar,Karnataka,0.364,0.49,0.074,145,146,-1,Minimal Impact
+631,Ramanagara,Karnataka,0.364,0.49,0.074,147,148,-1,Minimal Impact
+526,Bengaluru Rural,Karnataka,0.303,0.0,0.0,129,131,-2,Minimal Impact

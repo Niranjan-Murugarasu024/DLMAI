@@ -1,0 +1,5 @@
+strategic_component,pearson_r_with_dlmai_score,spearman_rho_with_rank,alignment_interpretation
+need_score,0.6321,-0.6431,Primary Opportunity Driver
+access_score,0.6553,-0.5763,Primary Opportunity Driver
+growth_score,0.4086,-0.4899,Secondary Driver
+competition_score,-0.2049,0.1595,Dampener / Orthogonal

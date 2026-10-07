@@ -1,0 +1,26 @@
+indicator,documentation,configuration,code,data,scored,descriptive,pillar,status
+nfhs_hypertension_combined_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P1,RECONCILED
+nfhs_diabetes_combined_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P1,RECONCILED
+nfhs_stunting_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P1,RECONCILED
+nfhs_wasting_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P1,RECONCILED
+nfhs_underweight_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P1,RECONCILED
+census_urban_population_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P1,RECONCILED
+census_population_age_0_6_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P1,RECONCILED
+nfhs_insurance_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P2,RECONCILED
+nfhs_clean_fuel_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P2,RECONCILED
+nfhs_sanitation_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P2,RECONCILED
+nfhs_oope_delivery_rs,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P2,RECONCILED
+rhs_phc_density_per_100k,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P3,RECONCILED
+rhs_chc_density_per_100k,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P3,RECONCILED
+rhs_subcentre_density_per_100k,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P3,RECONCILED
+rhs_hospital_presence,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P3,RECONCILED
+jan_aushadhi_density_per_100k,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P4,RECONCILED
+mca21_pharma_density_per_100k,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P5,RECONCILED
+niti_aspirational_district_flag,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P6,RECONCILED
+census_decadal_growth_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P7,RECONCILED
+census_literacy_rate_pct,Yes (Data Dict v2.0),Yes (indicators.yaml),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),YES,NO,P7,RECONCILED
+census_total_population,Yes (Data Dict v2.0 Section 3),Yes (indicators.yaml contextual),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),NO,YES,None (Contextual Scale),RECONCILED
+jan_aushadhi_raw_count,Yes (Data Dict v2.0 Section 3),Yes (indicators.yaml contextual),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),NO,YES,None (Contextual Scale),RECONCILED
+mca21_raw_company_count,Yes (Data Dict v2.0 Section 3),Yes (indicators.yaml contextual),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),NO,YES,None (Contextual Scale),RECONCILED
+census_density_per_sqkm,Yes (Data Dict v2.0 Section 3),Yes (indicators.yaml contextual),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),NO,YES,None (Contextual Scale),RECONCILED
+census_sex_ratio,Yes (Data Dict v2.0 Section 3),Yes (indicators.yaml contextual),Yes (src/pipeline.py),Yes (dlmai_south_india_combined_output.csv),NO,YES,None (Contextual Scale),RECONCILED

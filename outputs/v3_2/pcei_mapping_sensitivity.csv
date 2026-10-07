@@ -1,0 +1,3 @@
+comparison,spearman_rho,verdict
+Scenario_A_Strict vs Scenario_B_Inclusive,0.9847,HIGH_INVARIANCE (>0.95)
+Scenario_A_Strict vs Scenario_C_Conservative,0.9114,SENSITIVE

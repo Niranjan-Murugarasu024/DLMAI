@@ -1,0 +1,4 @@
+role_formulation,formula,spearman_rho_vs_core,top_10_preservation,conceptual_interpretation,recommendation
+Option_A_Negative_Dampener,DLMAI = Core_Drivers - 0.15*P7,0.9868,100.0,Penalizes high corporate headquarter concentration to prioritize underserved markets,VIABLE_FOR_NEW_MARKET_ENTRY
+Option_B_Positive_Driver,DLMAI = Core_Drivers + 0.08*P7,0.9978,90.0,Rewards existing pharma industrial hubs (supply chain & B2B synergy),VIABLE_FOR_CO_MARKETING_EXPANSION
+Option_C_Two_Axis_Decoupled,"[X: DLMAI_Core, Y: Corporate_Concentration]",1.0,100.0,Separates intrinsic patient market attractiveness from corporate saturation into a 4-quadrant strategic matrix,RECOMMENDED_DLMAI_V3_ENTERPRISE

@@ -1,0 +1,5 @@
+normalization_method,experimental_condition,spearman_rho,kendall_tau,pearson_r,top_5_overlap_pct,top_10_overlap_pct,top_20_overlap_pct,top_30_overlap_pct,tier_agreement_pct,mean_abs_rank_change,median_abs_rank_change,max_rank_change
+1_MinMax_Baseline,Family B: Recomputed Entropy Weights,1.0,1.0,1.0,100.0,100.0,100.0,100.0,100.0,0.0,0.0,0
+2_Robust_IQR,Family B: Recomputed Entropy Weights,1.0,1.0,1.0,100.0,100.0,100.0,100.0,100.0,0.0,0.0,0
+3_Percentile_Rank,Family B: Recomputed Entropy Weights,0.7247,0.5441,0.7295,60.0,60.0,55.0,53.3,49.3,25.63,23.0,83
+4_Winsorized_5_95,Family B: Recomputed Entropy Weights,0.7316,0.5867,0.6495,0.0,0.0,40.0,63.3,58.1,21.63,13.0,126

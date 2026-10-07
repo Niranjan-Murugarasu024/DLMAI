@@ -1,0 +1,16 @@
+{
+  "test_name": "TEST 1 \u2014 FULLY INDEPENDENT MODEL RECOMPUTATION",
+  "status": "PASSED",
+  "total_districts": 148,
+  "max_absolute_score_error": 0.0,
+  "mean_absolute_score_error": 0.0,
+  "root_mean_squared_error": 0.0,
+  "max_rank_difference": 0,
+  "districts_with_rank_diff_gt_0": 0,
+  "districts_with_rank_diff_gt_1": 0,
+  "districts_with_rank_diff_gt_5": 0,
+  "tier_mismatches": 0,
+  "ahp_lambda_max": 7.1215652554328654,
+  "ahp_consistency_ratio": 0.015349148413240588,
+  "cr_below_0_10": true
+}

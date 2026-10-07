@@ -1,0 +1,23 @@
+lgd_code,state_lgd_code,state_name,current_name,historical_names,parent_lgd_code,effective_from
+SAMPLE-KA-01,SAMPLE-S-KA,Karnataka,Bengaluru Urban,Bangalore Urban,,2011-01-01
+SAMPLE-KA-02,SAMPLE-S-KA,Karnataka,Bengaluru Rural,Bangalore Rural,,2011-01-01
+SAMPLE-UP-01,SAMPLE-S-UP,Uttar Pradesh,Prayagraj,Allahabad,,2011-01-01
+SAMPLE-UP-02,SAMPLE-S-UP,Uttar Pradesh,Ayodhya,Faizabad,,2011-01-01
+SAMPLE-MH-01,SAMPLE-S-MH,Maharashtra,Mumbai City,,,2011-01-01
+SAMPLE-MH-02,SAMPLE-S-MH,Maharashtra,Mumbai Suburban,,,2011-01-01
+SAMPLE-MH-03,SAMPLE-S-MH,Maharashtra,Pune,,,2011-01-01
+SAMPLE-AP-01,SAMPLE-S-AP,Andhra Pradesh,Kurnool,,,2011-01-01
+SAMPLE-AP-02,SAMPLE-S-AP,Andhra Pradesh,Nandyal,,SAMPLE-AP-01,2022-04-04
+SAMPLE-AP-03,SAMPLE-S-AP,Andhra Pradesh,Guntur,,,2011-01-01
+SAMPLE-AP-04,SAMPLE-S-AP,Andhra Pradesh,Palnadu,,SAMPLE-AP-03,2022-04-04
+SAMPLE-AP-05,SAMPLE-S-AP,Andhra Pradesh,Bapatla,,SAMPLE-AP-03,2022-04-04
+SAMPLE-AP-06,SAMPLE-S-AP,Andhra Pradesh,YSR Kadapa,Kadapa,,2011-01-01
+SAMPLE-AP-07,SAMPLE-S-AP,Andhra Pradesh,Annamayya,,SAMPLE-AP-06,2022-04-04
+SAMPLE-TN-01,SAMPLE-S-TN,Tamil Nadu,Coimbatore,,,2011-01-01
+SAMPLE-TN-02,SAMPLE-S-TN,Tamil Nadu,Chennai,Madras,,2011-01-01
+SAMPLE-TS-01,SAMPLE-S-TS,Telangana,Hyderabad,,,2011-01-01
+SAMPLE-GJ-01,SAMPLE-S-GJ,Gujarat,Ahmedabad,Ahmadabad,,2011-01-01
+SAMPLE-WB-01,SAMPLE-S-WB,West Bengal,Kolkata,Calcutta,,2011-01-01
+SAMPLE-RJ-01,SAMPLE-S-RJ,Rajasthan,Jaipur,,,2011-01-01
+SAMPLE-BR-01,SAMPLE-S-BR,Bihar,Patna,,,2011-01-01
+SAMPLE-MP-01,SAMPLE-S-MP,Madhya Pradesh,Bhopal,,,2011-01-01

@@ -1,0 +1,6 @@
+model_id,feature_set,in_sample_r,in_sample_rho,in_sample_r2,oos_5fold_r2,oos_rmse_cr,oos_mae_cr,oos_rho,benchmark_winner
+Baseline_A,Population Only,0.8666,0.4736,0.751,0.5275,139.23,99.31,0.4951,YES (Outperforms DLMAI due to Scale)
+Baseline_B,Population + Urbanization Share,0.8701,0.4754,0.757,0.4816,158.15,103.43,0.495,YES (Best Absolute Sales Predictor)
+Baseline_C,Population + Health Infrastructure,0.8931,0.5298,0.7976,0.5922,140.39,93.66,0.5383,YES
+Baseline_D,Population + Socioeconomic Covariates,0.8705,0.2636,0.7578,0.4828,158.3,104.41,0.2066,YES
+Model_E,DLMAI Composite Score (Rate/Intensity Index),0.0693,-0.1236,0.0048,-0.2201,263.55,154.64,-0.1639,"NO (DLMAI measures Intensity/Attractiveness, not Absolute Aggregate Volume)"

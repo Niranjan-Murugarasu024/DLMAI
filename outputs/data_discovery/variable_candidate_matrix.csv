@@ -1,0 +1,21 @@
+variable_id,name,pillar,category,source,rationale
+VAR_01,Adult Hypertension Prevalence,P1_Healthcare_Need,CORE,NFHS-5,High chronic disease burden requiring ongoing prescription anti-hypertensives
+VAR_02,Adult Diabetes Prevalence,P1_Healthcare_Need,CORE,NFHS-5,High chronic disease burden requiring daily oral hypoglycemics and insulins
+VAR_03,Child Stunting Rate,P1_Healthcare_Need,SUPPORTING,NFHS-5,Pediatric malnutrition and chronic developmental disease indicator
+VAR_04,Child Wasting Rate,P1_Healthcare_Need,SUPPORTING,NFHS-5,Acute malnutrition indicator
+VAR_05,Child Underweight Rate,P1_Healthcare_Need,REDUNDANT,NFHS-5,High collinearity with stunting and wasting ($r > 0.88$)
+VAR_06,Total Population Scale,P2_Demographic_Potential,CORE,Census PCA,Primary demographic volume driver for commercial market size
+VAR_07,Urbanization Percentage,P2_Demographic_Potential,CORE,Census PCA,Concentration of retail pharmacy networks and specialist clinics
+VAR_08,Population Age 0-6 Share,P2_Demographic_Potential,SUPPORTING,Census PCA,Pediatric therapy area demographic pool
+VAR_09,Primary Health Centre Density,P3_Healthcare_Access,CORE,MoHFW RHS,First-line primary care access and prescription point
+VAR_10,Community Health Centre Density,P3_Healthcare_Access,CORE,MoHFW RHS,Secondary inpatient/specialist medical referral access
+VAR_11,Health Sub-Centre Density,P3_Healthcare_Access,SUPPORTING,MoHFW RHS,Rural grassroots health worker delivery touchpoint
+VAR_12,Jan Aushadhi Kendra Density,P6_Medicine_Availability,CORE,PMBJP,Directly observed retail generic medicine outlet density per 100k
+VAR_13,Active Pharmaceutical Companies per 100k,P7_Corporate_Concentration,CORE,MCA21,Registered active pharmaceutical manufacturing and corporate entities
+VAR_14,Paid-Up Capital Concentration in Pharma,P7_Corporate_Concentration,SUPPORTING,MCA21,Capital intensity of corporate pharmaceutical operations
+VAR_15,Clean Fuel Access Percentage,P5_Affordability,PROXY,NFHS-5,Standard socioeconomic proxy for household disposable purchasing power
+VAR_16,Improved Sanitation Percentage,P5_Affordability,PROXY,NFHS-5,Socioeconomic living standard proxy
+VAR_17,Health Insurance Coverage Percentage,P5_Affordability,CORE,NFHS-5,Financial risk protection and institutional inpatient payment capability
+VAR_18,Out-of-Pocket Expenditure per Delivery,P5_Affordability,CORE,NFHS-5,Directly measured private healthcare spending capacity
+VAR_19,NITI Aspirational District Status,P8_Growth_Potential,CORE,NITI Aayog,Government policy focus and accelerated healthcare infrastructure investment
+VAR_20,Decadal Population Growth Rate,P8_Growth_Potential,SUPPORTING,Census PCA,Demographic momentum and expanding commercial customer base

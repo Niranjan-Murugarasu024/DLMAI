@@ -1,0 +1,4 @@
+model_architecture,pillars_count,indicators_count,mca_treatment,mean_spearman_stability,data_observability_pct,strengths,weaknesses,status
+Architecture_A_v2_7Pillar_Proxy,7,20,Calibrated Proxy Density,0.9922,86.4,"Simple baseline, established red-team validation","P5 is a proxy estimate, slight redundancy in underweight",LEGACY_BASELINE
+Architecture_B_Statistically_Pruned_6Pillar,6,16,Omitted / Excluded,0.989,91.2,"Strict statistical parsimony, zero collinearity ($r < 0.75$)",Ignores corporate pharmaceutical presence entirely,CANDIDATE_ALTERNATIVE
+Architecture_C_DLMAI_v3_8Pillar_Empirical_TwoAxis,8,21,Empirical MCA21 Corporate Master (943k records) + Strategic Decoupling,0.9945,92.8,"100% empirical P7, prunes underweight redundancy, 2-axis strategic decision matrix (Demand vs Saturation), highest Monte Carlo stability",Requires 943k MCA21 processing pipeline (automated in v3),RECOMMENDED_DLMAI_V3_PRODUCTION_CANDIDATE

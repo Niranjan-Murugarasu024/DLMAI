@@ -1,0 +1,21 @@
+{
+  "total_records_scanned": 943267,
+  "pharma_records_identified": 28613,
+  "direct_pharma_manufacturers": 11170,
+  "classification_breakdown": {
+    "NIC_2100_PHARMA_CORE_MFG": 10033,
+    "NIC_21001_ALLOPATHIC_MFG": 665,
+    "NIC_21002_AYURVEDIC_MFG": 240,
+    "NIC_21009_OTHER_PHARMA_MFG": 232,
+    "NIC_RELATED_CHEMICAL_MEDTECH": 133,
+    "VERIFIED_PHARMA_NAME_CORPORATE": 9384,
+    "SECONDARY_HEALTHCARE_NAME": 7926,
+    "EXCLUDED_NON_PHARMA": 914654
+  },
+  "spatial_resolution_audit": {
+    "EXACT_DISTRICT_IN_ADDRESS": 19946,
+    "PINCODE_DETERMINISTIC_MATCH": 7929,
+    "ALIAS_CROSSWALK_MATCH": 0,
+    "STATE_CAPITAL_FALLBACK": 738
+  }
+}

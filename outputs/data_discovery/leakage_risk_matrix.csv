@@ -1,0 +1,4 @@
+variable,role,leakage_type,risk_level,safeguard
+dlmai_score,Final Composite Index,TARGET_LEAKAGE,CRITICAL_IF_USED_AS_PREDICTOR,Never use DLMAI score to construct indicators or target benchmarks
+total_population,Demographic Input & Normalization Denominator,COVARIATE_CIRCULARITY,MODERATE_IN_TEST8,Do not evaluate DLMAI against top-down population-allocated sales benchmarks as 'empirical validation'
+urban_population_pct,Market Potential Input,COVARIATE_CIRCULARITY,MODERATE_IN_TEST8,Explicitly disclose when baseline models use urbanization

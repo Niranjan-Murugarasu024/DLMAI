@@ -1,0 +1,15 @@
+{
+  "total_districts_evaluated": 148,
+  "number_with_directly_observed_district_sales": 0,
+  "number_with_derived_sales": 148,
+  "number_with_state_level_allocation": 148,
+  "number_with_population_based_allocation": 148,
+  "number_with_dlmai_covariate_allocation": 148,
+  "number_with_synthetic_random_variance": 148,
+  "number_with_unknown_provenance": 0,
+  "macro_south_india_total_inr_cr": 66400.0,
+  "claimed_total_inr_cr": 66400.0,
+  "sum_state_totals_equals_claimed": true,
+  "macro_provenance_classification": "D \u2014 Estimated/Calibrated Macro Values (No Direct District Ingestion)",
+  "district_provenance_classification": "SYNTHETIC / CALIBRATED BENCHMARK \u2014 ZERO DIRECTLY OBSERVED DISTRICT SALES"
+}

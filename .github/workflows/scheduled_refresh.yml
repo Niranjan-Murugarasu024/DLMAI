@@ -1,0 +1,49 @@
+name: Scheduled DLMAI refresh
+
+# Quarterly automated refresh: re-runs the full pipeline against whatever
+# is currently in data/raw/ (see docs/DLMAI_Publishing_Deployment_Guide.md
+# for how that gets populated with real source files) and commits the
+# updated scores back to the repo. The Streamlit dashboard reads directly
+# from outputs/dlmai_scores.csv, so a successful commit here is what
+# actually "publishes" a new quarter's numbers -- there's no separate
+# deploy step if you're using Streamlit Community Cloud, which redeploys
+# automatically on every push to main.
+#
+# IMPORTANT, read before relying on this: most of the underlying sources
+# (NFHS, Census) do NOT actually publish new editions every quarter --
+# this workflow re-running quarterly does not mean quarterly NEW data. It
+# means: whatever real source files are checked in get reprocessed
+# quarterly, picking up anything you've manually added since the last
+# run (e.g. newly-collected Jan Aushadhi state exports). Treat the
+# schedule as a "make sure nothing's stale" cadence, not a promise of new
+# underlying data every quarter.
+
+on:
+  schedule:
+    - cron: "0 0 1 1,4,7,10 *"   # 1st of Jan/Apr/Jul/Oct, 00:00 UTC
+  workflow_dispatch: {}            # allows manually triggering a refresh from the Actions tab
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements-lock.txt
+
+      - name: Run the full pipeline and scoring
+        run: python build_index.py
+
+      - name: Commit updated outputs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Scheduled DLMAI refresh: $(date -u +%Y-%m-%d)"
+          file_pattern: "outputs/*.csv outputs/*.json"

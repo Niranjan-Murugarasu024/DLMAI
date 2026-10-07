@@ -1,0 +1,6 @@
+weight_scheme,spearman_rho_vs_baseline,top_10_preservation_pct,top_20_preservation_pct,interpretability,statistical_rigor,recommendation
+W1_Equal_Weights,0.7792,80.0,85.0,HIGH,MODERATE,BENCHMARK_ONLY
+W2_Shannon_Entropy,0.9241,90.0,90.0,MODERATE,VERY_HIGH,OBJECTIVE_INTRA_PILLAR
+W3_Saaty_AHP,0.7626,90.0,95.0,VERY_HIGH,HIGH,EXPERT_INTER_PILLAR
+W4_Hybrid_AHP_Entropy,1.0,100.0,100.0,VERY_HIGH,VERY_HIGH,RECOMMENDED_DLMAI_V3
+W5_PCA_First_Component,0.3917,70.0,75.0,LOW_BLACKBOX,HIGH,DIAGNOSTIC_ONLY

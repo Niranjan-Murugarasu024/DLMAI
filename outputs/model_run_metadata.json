@@ -1,0 +1,195 @@
+{
+  "model_version": "DLMAI v2.0.0",
+  "geographic_scope": "South India (7 States/UTs, 148 Canonical Districts)",
+  "run_info": {
+    "execution_duration_seconds": 63.47,
+    "total_canonical_districts": 148,
+    "total_indicators_scored": 20,
+    "nfhs_factsheets_mapped": 124,
+    "rhs_facility_records_mapped": 97
+  },
+  "quality_gate_summary": {
+    "total_gates": 15,
+    "passed_gates": 15,
+    "failed_gates": 0,
+    "critical_failures": 0,
+    "is_production_ready": true,
+    "model_mode": "DEGRADED_P5_PROXY",
+    "gate_results": [
+      {
+        "gate_id": "GATE_01",
+        "gate_name": "Canonical Geography Integrity",
+        "passed": true,
+        "severity": "CRITICAL",
+        "details": "Canonical districts: 148 / 148. Exact match: True.",
+        "metrics": {
+          "district_count": 148,
+          "expected": 148
+        }
+      },
+      {
+        "gate_id": "GATE_02",
+        "gate_name": "Zero Sample Identifier Contamination",
+        "passed": true,
+        "severity": "CRITICAL",
+        "details": "Sample IDs found: 0.",
+        "metrics": {
+          "sample_id_count": 0
+        }
+      },
+      {
+        "gate_id": "GATE_03",
+        "gate_name": "No Unknown Geography in Processing Matrix",
+        "passed": true,
+        "severity": "CRITICAL",
+        "details": "Unknown geography codes: 0.",
+        "metrics": {
+          "unknown_count": 0
+        }
+      },
+      {
+        "gate_id": "GATE_04",
+        "gate_name": "Required Source Files Existence",
+        "passed": true,
+        "severity": "CRITICAL",
+        "details": "Missing source files: None.",
+        "metrics": {
+          "missing_source_count": 0
+        }
+      },
+      {
+        "gate_id": "GATE_05",
+        "gate_name": "Source Coverage and Completeness Tracking",
+        "passed": true,
+        "severity": "HIGH",
+        "details": "Total cells: 5032. Observed: 4346 (86.4%), Inherited: 346 (6.9%), Imputed: 340 (6.8%).",
+        "metrics": {
+          "total_cells": 5032,
+          "observed": 4346,
+          "inherited": 346,
+          "imputed": 340
+        }
+      },
+      {
+        "gate_id": "GATE_06",
+        "gate_name": "Zero Output District Duplication",
+        "passed": true,
+        "severity": "CRITICAL",
+        "details": "Duplicate district rows: 0.",
+        "metrics": {
+          "duplicate_count": 0
+        }
+      },
+      {
+        "gate_id": "GATE_07",
+        "gate_name": "Indicator Domain and Unit Range Integrity",
+        "passed": true,
+        "severity": "HIGH",
+        "details": "Domain errors: 0.",
+        "metrics": {
+          "domain_error_count": 0
+        }
+      },
+      {
+        "gate_id": "GATE_08",
+        "gate_name": "Final DLMAI Score Domain [0, 100] and Non-NaN Assertion",
+        "passed": true,
+        "severity": "CRITICAL",
+        "details": "NaNs: 0, Infs: 0, Min score: 24.4636, Max score: 56.1698.",
+        "metrics": {
+          "min_score": 24.4636,
+          "max_score": 56.1698,
+          "nan_count": 0
+        }
+      },
+      {
+        "gate_id": "GATE_09",
+        "gate_name": "Population Denominator Universal Availability",
+        "passed": true,
+        "severity": "CRITICAL",
+        "details": "Districts with missing population denominator: 0.",
+        "metrics": {
+          "missing_pop_count": 0
+        }
+      },
+      {
+        "gate_id": "GATE_10",
+        "gate_name": "Cell-Level Provenance Status Classification",
+        "passed": true,
+        "severity": "HIGH",
+        "details": "Unclassified provenance cells: 0.",
+        "metrics": {
+          "unclassified_cells": 0
+        }
+      },
+      {
+        "gate_id": "GATE_11",
+        "gate_name": "Seven-Pillar Completeness in Output",
+        "passed": true,
+        "severity": "CRITICAL",
+        "details": "Missing pillars: None.",
+        "metrics": {
+          "missing_pillar_count": 0
+        }
+      },
+      {
+        "gate_id": "GATE_12",
+        "gate_name": "Pillar 5 Source Availability and Mode Declaration",
+        "passed": true,
+        "severity": "INFO",
+        "details": "P5 Status: DEGRADED_P5_PROXY. Raw MCA21 bulk data present: False. Operating in transparent calibrated proxy mode.",
+        "metrics": {
+          "mca21_raw_file_present": false,
+          "p5_mode": "DEGRADED_P5_PROXY"
+        }
+      },
+      {
+        "gate_id": "GATE_13",
+        "gate_name": "Zero Silent Fallback Assertion",
+        "passed": true,
+        "severity": "HIGH",
+        "details": "All fallbacks explicitly logged with method in provenance mask: True.",
+        "metrics": {
+          "is_auditable": true
+        }
+      },
+      {
+        "gate_id": "GATE_14",
+        "gate_name": "Zero Target Leakage and Circularity Classification",
+        "passed": true,
+        "severity": "INFO",
+        "details": "Direct score leakage: ABSENT. Target commercial benchmark: Class D (Synthetic/Calibrated). Not labeled empirical validation.",
+        "metrics": {
+          "direct_score_leakage": false,
+          "target_benchmark_class": "Class D"
+        }
+      },
+      {
+        "gate_id": "GATE_15",
+        "gate_name": "Full Provenance Metadata Export Completeness",
+        "passed": true,
+        "severity": "HIGH",
+        "details": "Districts with full cell-level provenance: 148 / 148.",
+        "metrics": {
+          "districts_tracked": 148
+        }
+      }
+    ]
+  },
+  "target_commercial_benchmark_class": "Class D: Calibrated/Synthetic Benchmark (Method Development Sanity Check Only)",
+  "p5_status": "DEGRADED_P5_PROXY (Corporate Concentration Proxy, Not Field Competition)",
+  "provenance_classification": {
+    "directly_observed_input_data": [
+      "NFHS-5 Factsheets (124 Districts)",
+      "Rural Health Statistics (97 Districts)",
+      "NITI Aspirational Registry"
+    ],
+    "inherited_input_data": [
+      "Post-2019 Bifurcated Child Districts from Parents"
+    ],
+    "statistically_imputed_input_data": [
+      "Hierarchical State-Mean & Population kNN"
+    ],
+    "target_commercial_sales_data": "SYNTHETIC_CALIBRATED (Zero directly observed sales invoices in Test 8)"
+  }
+}

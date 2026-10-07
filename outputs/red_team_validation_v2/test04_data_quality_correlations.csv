@@ -1,0 +1,5 @@
+quality_metric,pearson_r_with_dlmai_score,pearson_p_value,spearman_rho_with_rank,spearman_p_value,bias_interpretation
+observed_pct,-0.0831,0.3156,0.2034,0.0131,No significant positive score bias
+inherited_pct,0.1143,0.1666,-0.1769,0.0315,No significant positive score bias
+imputed_pct,0.0418,0.6142,-0.0802,0.3326,No significant positive score bias
+data_quality_score,-0.0647,0.4348,0.1943,0.018,No significant positive score bias

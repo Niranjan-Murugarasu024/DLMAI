@@ -1,0 +1,3 @@
+raw_name,lgd_code,note
+Bombay City,SAMPLE-MH-01,Pre-1995 name for Mumbai City; string is too different from current name for fuzzy matching to catch reliably -- this is exactly what this file is for
+Bombay,SAMPLE-MH-01,Colloquial/old name, same district as above

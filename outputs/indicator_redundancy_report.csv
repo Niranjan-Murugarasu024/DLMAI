@@ -1,0 +1,137 @@
+indicator_a,indicator_b,spearman_correlation,absolute_correlation,conceptual_overlap,recommendation
+nfhs_stunting_pct,nfhs_underweight_pct,0.7458,0.7458,HIGH (Potential collinear redundancy),Review indicator pairing; ensure one is rate/density or distinct clinical domain
+rhs_phc_density_per_100k,rhs_subcentre_density_per_100k,0.6828,0.6828,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_diabetes_combined_pct,nfhs_underweight_pct,-0.663,0.663,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_diabetes_combined_pct,nfhs_stunting_pct,-0.6477,0.6477,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_underweight_pct,census_literacy_rate_pct,-0.6053,0.6053,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_wasting_pct,nfhs_underweight_pct,0.5987,0.5987,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_diabetes_combined_pct,census_literacy_rate_pct,0.5763,0.5763,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_hypertension_combined_pct,census_literacy_rate_pct,0.5502,0.5502,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+census_urban_population_pct,mca21_pharma_density_per_100k,0.5405,0.5405,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_stunting_pct,census_literacy_rate_pct,-0.5028,0.5028,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_insurance_pct,nfhs_oope_delivery_rs,-0.4894,0.4894,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_underweight_pct,nfhs_sanitation_pct,-0.4726,0.4726,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_diabetes_combined_pct,nfhs_wasting_pct,-0.4692,0.4692,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+rhs_chc_density_per_100k,rhs_subcentre_density_per_100k,0.4621,0.4621,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_diabetes_combined_pct,nfhs_sanitation_pct,0.4476,0.4476,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+rhs_phc_density_per_100k,census_literacy_rate_pct,-0.4348,0.4348,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_hypertension_combined_pct,rhs_chc_density_per_100k,0.4336,0.4336,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_stunting_pct,nfhs_sanitation_pct,-0.4121,0.4121,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+rhs_chc_density_per_100k,census_literacy_rate_pct,0.4003,0.4003,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_wasting_pct,census_literacy_rate_pct,-0.4002,0.4002,MODERATE (Complementary domain signal),Retain; entropy weighting handles variance weighting
+nfhs_hypertension_combined_pct,nfhs_diabetes_combined_pct,0.3915,0.3915,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,nfhs_underweight_pct,-0.3842,0.3842,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_insurance_pct,rhs_chc_density_per_100k,0.3768,0.3768,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_hospital_presence,census_literacy_rate_pct,0.3762,0.3762,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_subcentre_density_per_100k,census_literacy_rate_pct,-0.3551,0.3551,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_diabetes_combined_pct,rhs_chc_density_per_100k,0.3396,0.3396,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,rhs_phc_density_per_100k,-0.339,0.339,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_insurance_pct,rhs_subcentre_density_per_100k,0.3343,0.3343,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,nfhs_stunting_pct,-0.3107,0.3107,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,rhs_chc_density_per_100k,-0.3028,0.3028,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_diabetes_combined_pct,rhs_phc_density_per_100k,-0.2996,0.2996,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_phc_density_per_100k,mca21_pharma_density_per_100k,-0.2995,0.2995,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_insurance_pct,nfhs_sanitation_pct,-0.2948,0.2948,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_underweight_pct,jan_aushadhi_density_per_100k,-0.2939,0.2939,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_subcentre_density_per_100k,mca21_pharma_density_per_100k,-0.2831,0.2831,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,nfhs_insurance_pct,0.2821,0.2821,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,jan_aushadhi_density_per_100k,0.2607,0.2607,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,nfhs_wasting_pct,0.2388,0.2388,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_underweight_pct,rhs_chc_density_per_100k,-0.23,0.23,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_sanitation_pct,rhs_hospital_presence,-0.2249,0.2249,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,nfhs_sanitation_pct,-0.2228,0.2228,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_diabetes_combined_pct,nfhs_insurance_pct,0.2225,0.2225,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_sanitation_pct,nfhs_oope_delivery_rs,0.2208,0.2208,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_underweight_pct,rhs_phc_density_per_100k,0.22,0.22,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_diabetes_combined_pct,mca21_pharma_density_per_100k,0.2199,0.2199,LOW (Independent information),Retain as orthogonal domain indicator
+jan_aushadhi_density_per_100k,mca21_pharma_density_per_100k,0.216,0.216,LOW (Independent information),Retain as orthogonal domain indicator
+census_urban_population_pct,jan_aushadhi_density_per_100k,-0.2133,0.2133,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,rhs_hospital_presence,-0.212,0.212,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_underweight_pct,rhs_subcentre_density_per_100k,0.2091,0.2091,LOW (Independent information),Retain as orthogonal domain indicator
+census_urban_population_pct,rhs_phc_density_per_100k,-0.207,0.207,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_underweight_pct,rhs_hospital_presence,-0.2065,0.2065,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_sanitation_pct,mca21_pharma_density_per_100k,0.2059,0.2059,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_sanitation_pct,jan_aushadhi_density_per_100k,0.2056,0.2056,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,niti_aspirational_district_flag,0.2054,0.2054,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_sanitation_pct,niti_aspirational_district_flag,-0.2051,0.2051,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_hospital_presence,niti_aspirational_district_flag,-0.2008,0.2008,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_diabetes_combined_pct,niti_aspirational_district_flag,-0.1993,0.1993,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_diabetes_combined_pct,jan_aushadhi_density_per_100k,0.198,0.198,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,nfhs_wasting_pct,-0.1919,0.1919,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,niti_aspirational_district_flag,0.1904,0.1904,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_underweight_pct,niti_aspirational_district_flag,0.1846,0.1846,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_insurance_pct,census_literacy_rate_pct,0.1825,0.1825,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,jan_aushadhi_density_per_100k,-0.1804,0.1804,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,rhs_chc_density_per_100k,-0.1781,0.1781,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_underweight_pct,mca21_pharma_density_per_100k,-0.1766,0.1766,LOW (Independent information),Retain as orthogonal domain indicator
+census_urban_population_pct,census_literacy_rate_pct,0.1738,0.1738,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_phc_density_per_100k,rhs_chc_density_per_100k,0.1702,0.1702,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,rhs_hospital_presence,-0.1684,0.1684,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_oope_delivery_rs,rhs_phc_density_per_100k,0.1675,0.1675,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,mca21_pharma_density_per_100k,-0.1649,0.1649,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_hospital_presence,jan_aushadhi_density_per_100k,-0.1634,0.1634,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_sanitation_pct,census_literacy_rate_pct,0.1538,0.1538,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_subcentre_density_per_100k,rhs_hospital_presence,-0.1496,0.1496,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,rhs_phc_density_per_100k,0.1466,0.1466,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_insurance_pct,rhs_phc_density_per_100k,-0.146,0.146,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,nfhs_sanitation_pct,0.1456,0.1456,LOW (Independent information),Retain as orthogonal domain indicator
+jan_aushadhi_density_per_100k,census_literacy_rate_pct,0.1455,0.1455,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_phc_density_per_100k,jan_aushadhi_density_per_100k,-0.1435,0.1435,LOW (Independent information),Retain as orthogonal domain indicator
+census_urban_population_pct,rhs_subcentre_density_per_100k,-0.1407,0.1407,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,rhs_phc_density_per_100k,0.1394,0.1394,LOW (Independent information),Retain as orthogonal domain indicator
+census_urban_population_pct,rhs_hospital_presence,0.1379,0.1379,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_subcentre_density_per_100k,jan_aushadhi_density_per_100k,-0.1344,0.1344,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_chc_density_per_100k,mca21_pharma_density_per_100k,-0.1259,0.1259,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_phc_density_per_100k,niti_aspirational_district_flag,-0.1206,0.1206,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_insurance_pct,mca21_pharma_density_per_100k,-0.1173,0.1173,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,niti_aspirational_district_flag,-0.1164,0.1164,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_oope_delivery_rs,rhs_subcentre_density_per_100k,-0.1162,0.1162,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,mca21_pharma_density_per_100k,0.1147,0.1147,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,nfhs_insurance_pct,-0.1116,0.1116,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_diabetes_combined_pct,rhs_subcentre_density_per_100k,-0.1095,0.1095,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,nfhs_oope_delivery_rs,0.1084,0.1084,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_diabetes_combined_pct,census_urban_population_pct,0.1072,0.1072,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,rhs_subcentre_density_per_100k,0.1063,0.1063,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_sanitation_pct,rhs_chc_density_per_100k,-0.0994,0.0994,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_hospital_presence,mca21_pharma_density_per_100k,-0.0956,0.0956,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,nfhs_oope_delivery_rs,-0.0945,0.0945,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_chc_density_per_100k,rhs_hospital_presence,0.0943,0.0943,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_oope_delivery_rs,jan_aushadhi_density_per_100k,0.0894,0.0894,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_oope_delivery_rs,niti_aspirational_district_flag,-0.0869,0.0869,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,jan_aushadhi_density_per_100k,-0.0866,0.0866,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,rhs_subcentre_density_per_100k,0.0855,0.0855,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,nfhs_insurance_pct,-0.0852,0.0852,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_chc_density_per_100k,niti_aspirational_district_flag,-0.0786,0.0786,LOW (Independent information),Retain as orthogonal domain indicator
+jan_aushadhi_density_per_100k,niti_aspirational_district_flag,-0.0785,0.0785,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_insurance_pct,jan_aushadhi_density_per_100k,-0.0764,0.0764,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_oope_delivery_rs,census_literacy_rate_pct,0.0756,0.0756,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_underweight_pct,nfhs_insurance_pct,-0.0717,0.0717,LOW (Independent information),Retain as orthogonal domain indicator
+mca21_pharma_density_per_100k,census_literacy_rate_pct,0.0697,0.0697,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_sanitation_pct,rhs_subcentre_density_per_100k,-0.0674,0.0674,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_oope_delivery_rs,rhs_chc_density_per_100k,-0.0635,0.0635,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_subcentre_density_per_100k,niti_aspirational_district_flag,-0.0588,0.0588,LOW (Independent information),Retain as orthogonal domain indicator
+niti_aspirational_district_flag,census_literacy_rate_pct,-0.0585,0.0585,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_diabetes_combined_pct,rhs_hospital_presence,0.056,0.056,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,mca21_pharma_density_per_100k,-0.0505,0.0505,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_chc_density_per_100k,jan_aushadhi_density_per_100k,0.049,0.049,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,rhs_hospital_presence,0.0432,0.0432,LOW (Independent information),Retain as orthogonal domain indicator
+census_urban_population_pct,nfhs_sanitation_pct,0.0418,0.0418,LOW (Independent information),Retain as orthogonal domain indicator
+mca21_pharma_density_per_100k,niti_aspirational_district_flag,-0.0417,0.0417,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_insurance_pct,niti_aspirational_district_flag,0.0403,0.0403,LOW (Independent information),Retain as orthogonal domain indicator
+rhs_phc_density_per_100k,rhs_hospital_presence,-0.0375,0.0375,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,nfhs_oope_delivery_rs,-0.0358,0.0358,LOW (Independent information),Retain as orthogonal domain indicator
+census_urban_population_pct,rhs_chc_density_per_100k,-0.0323,0.0323,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,census_urban_population_pct,-0.0311,0.0311,LOW (Independent information),Retain as orthogonal domain indicator
+census_urban_population_pct,nfhs_insurance_pct,-0.031,0.031,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_stunting_pct,census_urban_population_pct,-0.0297,0.0297,LOW (Independent information),Retain as orthogonal domain indicator
+census_urban_population_pct,nfhs_oope_delivery_rs,0.0279,0.0279,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_diabetes_combined_pct,nfhs_oope_delivery_rs,0.0193,0.0193,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_sanitation_pct,rhs_phc_density_per_100k,-0.0185,0.0185,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_insurance_pct,rhs_hospital_presence,-0.0178,0.0178,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_oope_delivery_rs,mca21_pharma_density_per_100k,-0.0167,0.0167,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_wasting_pct,census_urban_population_pct,0.0167,0.0167,LOW (Independent information),Retain as orthogonal domain indicator
+census_urban_population_pct,niti_aspirational_district_flag,0.0132,0.0132,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_underweight_pct,nfhs_oope_delivery_rs,0.0096,0.0096,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_hypertension_combined_pct,rhs_subcentre_density_per_100k,0.0074,0.0074,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_oope_delivery_rs,rhs_hospital_presence,0.0055,0.0055,LOW (Independent information),Retain as orthogonal domain indicator
+nfhs_underweight_pct,census_urban_population_pct,-0.0005,0.0005,LOW (Independent information),Retain as orthogonal domain indicator

@@ -1,0 +1,149 @@
+canonical_lgd_code,district_name,state_name,state_lgd_code,census_2011_code,is_canonical,geographic_level,is_split_child,parent_lgd_code,parent_district_name,mapping_status
+745,Alluri Sitharama Raju,Andhra Pradesh,28,0,True,DISTRICT,True,520.0,Visakhapatnam,CANONICAL_CONFIRMED
+744,Anakapalli,Andhra Pradesh,28,0,True,DISTRICT,True,520.0,Visakhapatnam,CANONICAL_CONFIRMED
+502,Ananthapuramu,Andhra Pradesh,28,553,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+753,Annamayya,Andhra Pradesh,28,0,True,DISTRICT,True,504.0,Y.S.R.,CANONICAL_CONFIRMED
+750,Bapatla,Andhra Pradesh,28,0,True,DISTRICT,True,506.0,Guntur,CANONICAL_CONFIRMED
+503,Chittoor,Andhra Pradesh,28,554,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+747,Dr. B.R. Ambedkar Konaseema,Andhra Pradesh,28,0,True,DISTRICT,True,505.0,East Godavari,CANONICAL_CONFIRMED
+505,East Godavari,Andhra Pradesh,28,545,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+748,Eluru,Andhra Pradesh,28,0,True,DISTRICT,True,523.0,West Godavari,CANONICAL_CONFIRMED
+506,Guntur,Andhra Pradesh,28,548,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+746,Kakinada,Andhra Pradesh,28,0,True,DISTRICT,True,505.0,East Godavari,CANONICAL_CONFIRMED
+510,Krishna,Andhra Pradesh,28,547,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+511,Kurnool,Andhra Pradesh,28,552,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+755,Nandyal,Andhra Pradesh,28,0,True,DISTRICT,True,511.0,Kurnool,CANONICAL_CONFIRMED
+749,Ntr,Andhra Pradesh,28,0,True,DISTRICT,True,510.0,Krishna,CANONICAL_CONFIRMED
+751,Palnadu,Andhra Pradesh,28,0,True,DISTRICT,True,506.0,Guntur,CANONICAL_CONFIRMED
+743,Parvathipuram Manyam,Andhra Pradesh,28,0,True,DISTRICT,True,521.0,Vizianagaram,CANONICAL_CONFIRMED
+517,Prakasam,Andhra Pradesh,28,549,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+515,Sri Potti Sriramulu Nellore,Andhra Pradesh,28,550,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+754,Sri Sathya Sai,Andhra Pradesh,28,0,True,DISTRICT,True,502.0,Ananthapuramu,CANONICAL_CONFIRMED
+519,Srikakulam,Andhra Pradesh,28,542,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+752,Tirupati,Andhra Pradesh,28,0,True,DISTRICT,True,503.0,Chittoor,CANONICAL_CONFIRMED
+520,Visakhapatnam,Andhra Pradesh,28,544,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+521,Vizianagaram,Andhra Pradesh,28,543,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+523,West Godavari,Andhra Pradesh,28,546,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+504,Y.S.R.,Andhra Pradesh,28,551,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+551,North Goa,Goa,30,585,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+552,South Goa,Goa,30,586,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+524,Bagalkote,Karnataka,29,556,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+528,Ballari,Karnataka,29,565,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+527,Belagavi,Karnataka,29,555,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+526,Bengaluru Rural,Karnataka,29,583,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+525,Bengaluru Urban,Karnataka,29,572,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+529,Bidar,Karnataka,29,558,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+531,Chamarajanagara,Karnataka,29,578,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+630,Chikkaballapura,Karnataka,29,582,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+532,Chikkamagaluru,Karnataka,29,570,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+533,Chitradurga,Karnataka,29,566,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+534,Dakshina Kannada,Karnataka,29,575,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+535,Davangere,Karnataka,29,567,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+536,Dharwad,Karnataka,29,562,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+537,Gadag,Karnataka,29,561,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+539,Hassan,Karnataka,29,574,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+540,Haveri,Karnataka,29,564,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+538,Kalaburagi,Karnataka,29,579,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+541,Kodagu,Karnataka,29,576,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+542,Kolar,Karnataka,29,581,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+543,Koppal,Karnataka,29,560,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+544,Mandya,Karnataka,29,573,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+545,Mysuru,Karnataka,29,577,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+546,Raichur,Karnataka,29,559,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+631,Ramanagara,Karnataka,29,584,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+547,Shivamogga,Karnataka,29,568,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+548,Tumakuru,Karnataka,29,571,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+549,Udupi,Karnataka,29,569,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+550,Uttara Kannada,Karnataka,29,563,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+738,Vijayanagar,Karnataka,29,0,True,DISTRICT,True,528.0,Ballari,CANONICAL_CONFIRMED
+530,Vijayapura,Karnataka,29,557,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+635,Yadgir,Karnataka,29,580,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+554,Alappuzha,Kerala,32,598,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+555,Ernakulam,Kerala,32,595,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+556,Idukki,Kerala,32,596,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+557,Kannur,Kerala,32,589,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+558,Kasaragod,Kerala,32,588,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+559,Kollam,Kerala,32,600,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+560,Kottayam,Kerala,32,597,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+561,Kozhikode,Kerala,32,591,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+562,Malappuram,Kerala,32,592,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+563,Palakkad,Kerala,32,593,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+564,Pathanamthitta,Kerala,32,599,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+565,Thiruvananthapuram,Kerala,32,601,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+566,Thrissur,Kerala,32,594,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+567,Wayanad,Kerala,32,590,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+598,Karaikal,Puducherry,34,637,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+599,Mahe,Puducherry,34,636,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+600,Puducherry,Puducherry,34,635,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+601,Yanam,Puducherry,34,634,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+610,Ariyalur,Tamil Nadu,33,616,True,DISTRICT,True,581.0,Perambalur,CANONICAL_CONFIRMED
+730,Chengalpattu,Tamil Nadu,33,0,True,DISTRICT,True,574.0,Kancheepuram,CANONICAL_CONFIRMED
+568,Chennai,Tamil Nadu,33,603,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+569,Coimbatore,Tamil Nadu,33,632,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+570,Cuddalore,Tamil Nadu,33,617,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+571,Dharmapuri,Tamil Nadu,33,630,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+572,Dindigul,Tamil Nadu,33,612,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+573,Erode,Tamil Nadu,33,610,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+729,Kallakurichi,Tamil Nadu,33,0,True,DISTRICT,True,596.0,Viluppuram,CANONICAL_CONFIRMED
+574,Kancheepuram,Tamil Nadu,33,604,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+575,Kanniyakumari,Tamil Nadu,33,629,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+576,Karur,Tamil Nadu,33,613,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+577,Krishnagiri,Tamil Nadu,33,631,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+578,Madurai,Tamil Nadu,33,623,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+735,Mayiladuthurai,Tamil Nadu,33,0,True,DISTRICT,True,579.0,Nagapattinam,CANONICAL_CONFIRMED
+579,Nagapattinam,Tamil Nadu,33,618,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+580,Namakkal,Tamil Nadu,33,609,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+581,Perambalur,Tamil Nadu,33,615,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+582,Pudukkottai,Tamil Nadu,33,621,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+583,Ramanathapuram,Tamil Nadu,33,626,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+731,Ranipet,Tamil Nadu,33,0,True,DISTRICT,True,595.0,Vellore,CANONICAL_CONFIRMED
+584,Salem,Tamil Nadu,33,608,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+585,Sivaganga,Tamil Nadu,33,622,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+733,Tenkasi,Tamil Nadu,33,0,True,DISTRICT,True,592.0,Tirunelveli,CANONICAL_CONFIRMED
+586,Thanjavur,Tamil Nadu,33,620,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+587,The Nilgiris,Tamil Nadu,33,611,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+588,Theni,Tamil Nadu,33,624,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+589,Thiruvallur,Tamil Nadu,33,602,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+590,Thiruvarur,Tamil Nadu,33,619,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+594,Thoothukkudi,Tamil Nadu,33,627,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+591,Tiruchirappalli,Tamil Nadu,33,614,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+592,Tirunelveli,Tamil Nadu,33,628,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+732,Tirupathur,Tamil Nadu,33,0,True,DISTRICT,True,595.0,Vellore,CANONICAL_CONFIRMED
+634,Tiruppur,Tamil Nadu,33,633,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+593,Tiruvannamalai,Tamil Nadu,33,606,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+595,Vellore,Tamil Nadu,33,605,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+596,Viluppuram,Tamil Nadu,33,607,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+597,Virudhunagar,Tamil Nadu,33,625,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+501,Adilabad,Telangana,36,532,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+690,Bhadradri Kothagudem,Telangana,36,0,True,DISTRICT,True,509.0,Khammam,CANONICAL_CONFIRMED
+686,Hanumakonda,Telangana,36,0,True,DISTRICT,True,522.0,Warangal,CANONICAL_CONFIRMED
+507,Hyderabad,Telangana,36,536,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+681,Jagitial,Telangana,36,0,True,DISTRICT,True,508.0,Karimnagar,CANONICAL_CONFIRMED
+689,Jangoan,Telangana,36,0,True,DISTRICT,True,522.0,Warangal,CANONICAL_CONFIRMED
+687,Jayashankar Bhupalapally,Telangana,36,0,True,DISTRICT,True,522.0,Warangal,CANONICAL_CONFIRMED
+695,Jogulamba Gadwal,Telangana,36,0,True,DISTRICT,True,512.0,Mahabubnagar,CANONICAL_CONFIRMED
+685,Kamareddy,Telangana,36,0,True,DISTRICT,True,516.0,Nizamabad,CANONICAL_CONFIRMED
+508,Karimnagar,Telangana,36,534,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+509,Khammam,Telangana,36,541,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+699,Kumuram Bheem Asifabad,Telangana,36,0,True,DISTRICT,True,501.0,Adilabad,CANONICAL_CONFIRMED
+688,Mahabubabad,Telangana,36,0,True,DISTRICT,True,522.0,Warangal,CANONICAL_CONFIRMED
+512,Mahabubnagar,Telangana,36,538,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+684,Mancherial,Telangana,36,0,True,DISTRICT,True,501.0,Adilabad,CANONICAL_CONFIRMED
+513,Medak,Telangana,36,535,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+700,Medchal Malkajgiri,Telangana,36,0,True,DISTRICT,True,518.0,Ranga Reddy,CANONICAL_CONFIRMED
+720,Mulugu,Telangana,36,0,True,DISTRICT,True,522.0,Warangal,CANONICAL_CONFIRMED
+694,Nagarkurnool,Telangana,36,0,True,DISTRICT,True,512.0,Mahabubnagar,CANONICAL_CONFIRMED
+514,Nalgonda,Telangana,36,539,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+721,Narayanpet,Telangana,36,0,True,DISTRICT,True,512.0,Mahabubnagar,CANONICAL_CONFIRMED
+680,Nirmal,Telangana,36,0,True,DISTRICT,True,501.0,Adilabad,CANONICAL_CONFIRMED
+516,Nizamabad,Telangana,36,533,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+682,Peddapalli,Telangana,36,0,True,DISTRICT,True,508.0,Karimnagar,CANONICAL_CONFIRMED
+683,Rajanna Sircilla,Telangana,36,0,True,DISTRICT,True,508.0,Karimnagar,CANONICAL_CONFIRMED
+518,Ranga Reddy,Telangana,36,537,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+691,Sangareddy,Telangana,36,0,True,DISTRICT,True,513.0,Medak,CANONICAL_CONFIRMED
+692,Siddipet,Telangana,36,0,True,DISTRICT,True,513.0,Medak,CANONICAL_CONFIRMED
+696,Suryapet,Telangana,36,0,True,DISTRICT,True,514.0,Nalgonda,CANONICAL_CONFIRMED
+698,Vikarabad,Telangana,36,0,True,DISTRICT,True,518.0,Ranga Reddy,CANONICAL_CONFIRMED
+693,Wanaparthy,Telangana,36,0,True,DISTRICT,True,512.0,Mahabubnagar,CANONICAL_CONFIRMED
+522,Warangal,Telangana,36,540,True,DISTRICT,False,,,CANONICAL_CONFIRMED
+697,Yadadri Bhuvanagiri,Telangana,36,0,True,DISTRICT,True,514.0,Nalgonda,CANONICAL_CONFIRMED

@@ -1,0 +1,5 @@
+normalization_method,spearman_rho_vs_baseline,top_10_overlap_count,top_10_overlap_pct,top_20_overlap_count,top_20_overlap_pct,tier_agreement_pct
+Min-Max (Baseline),1.0,10,100.0,20,100.0,100.0
+Robust Scaling (IQR),1.0,10,100.0,20,100.0,100.0
+Percentile Transformation,0.7179,6,60.0,12,60.0,51.4
+Winsorized Min-Max (5-95%),0.7309,0,0.0,8,40.0,58.8

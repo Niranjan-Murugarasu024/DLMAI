@@ -1,0 +1,44 @@
+name: CI
+
+# Runs the full per-module test suite on every push and pull request.
+# This is deliberately separate from scheduled_refresh.yml below -- CI
+# verifies the CODE is correct against its own mock data; the scheduled
+# refresh runs the pipeline against REAL data and publishes results.
+# Conflating the two means a flaky data source could fail your CI, and a
+# code bug could quietly slip into a published refresh -- keeping them
+# apart is the whole point.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements-lock.txt
+
+      - name: Run every per-module validation test
+        run: |
+          for f in test_crosswalk_demo.py test_parser_validation.py \
+                   test_jan_aushadhi_demo.py test_census_parser_demo.py \
+                   test_imputation_demo.py test_rhs_parser_demo.py \
+                   test_mca21_demo.py test_niti_demo.py \
+                   test_scoring_demo.py test_sensitivity_demo.py \
+                   test_scoring_missing_data_demo.py \
+                   test_entropy_and_montecarlo_missing_data_demo.py \
+                   test_multilevel_inheritance_demo.py; do
+            echo "=== $f ==="
+            python "$f"
+          done
+
+      - name: Run the production entrypoint end-to-end
+        run: python build_index.py

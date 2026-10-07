@@ -1,0 +1,786 @@
+state_code,state_name_english,state_name_local,state_census2011_code,district_code,district_name_english,district_name_local,district_census2011_code
+32,Kerala,"KERALA                                            ",32,554,Alappuzha,ആലപ്പുഴ,598
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,121,"Ambedkar Nagar","AMBEDKAR NAGAR                                    ",178
+3,Punjab,"PUNJAB                                            ",03,27,Amritsar,"AMRITSAR                                          ",049
+24,Gujarat,"GUJARAT                                           ",24,672,Arvalli,,000
+10,Bihar,"BIHAR                                             ",10,611,Arwal,अरवल,240
+10,Bihar,"BIHAR                                             ",10,189,Aurangabad,औरंगाबाद,235
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,125,Bahraich,"BAHRAICH                                          ",180
+22,Chhattisgarh,छत्तीसगढ़,22,646,Balod,बालोद,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,127,Balrampur,"BALRAMPUR                                         ",182
+22,Chhattisgarh,छत्तीसगढ़,22,649,Balrampur-Ramanujganj,बलरामपुर-रामानुजगंज,000
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,623,Bandipora,"BANDIPORA                                         ",009
+27,Maharashtra,महाराष्ट्र,27,470,Beed,बीड,523
+22,Chhattisgarh,छत्तीसगढ़,22,650,Bemetara,बेमेतरा,000
+29,Karnataka,ಕರ್ನಾಟಕ,29,525,"Bengaluru Urban",ಬೆಂಗಳೂರು,572
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,179,Bhadohi,BHADOHI,198
+27,Maharashtra,महाराष्ट्र,27,471,Bhandara,भंडारा,506
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,395,Bhind,भिण्ड,420
+22,Chhattisgarh,छत्तीसगढ़,22,636,Bijapur,बीजापुर,417
+24,Gujarat,"GUJARAT                                           ",24,676,Botad,BOTAD,000
+5,Uttarakhand,UTTARAKHAND,05,47,Chamoli,"CHAMOLI                                           ",057
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,135,Chandauli,"CHANDAULI                                         ",196
+14,Manipur,"MANIPUR                                           ",14,253,Chandel,"CHANDEL                                           ",280
+27,Maharashtra,महाराष्ट्र,27,473,Chandrapur,चंद्रपूर,509
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,398,Chhatarpur,छ्तरपुर,425
+24,Gujarat,"GUJARAT                                           ",24,668,Chhotaudepur,CHHOTAUDEPUR,000
+24,Gujarat,"GUJARAT                                           ",24,445,Dahod,DAHOD,485
+19,"West Bengal","WEST BENGAL                                       ",19,310,"Dakshin Dinajpur","DAKSHIN DINAJPUR",331
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,400,Damoh,दमोह,428
+24,Gujarat,"GUJARAT                                           ",24,444,Dangs,DANGS,489
+19,"West Bengal","WEST BENGAL                                       ",19,309,Darjeeling,"DARJEELING                                        ",327
+29,Karnataka,ಕರ್ನಾಟಕ,29,535,Davangere,ದಾವಣಗೆರೆ,567
+16,Tripura,ত্রিপুরা,16,269,Dhalai,ধলাই,291
+21,Odisha,ODISHA,21,352,Dhenkanal,"DHENKANAL                                         ",383
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,404,Dindori,डिंडोरी,453
+8,Rajasthan,"RAJASTHAN                                         ",08,769,Dudu,दूदू,NA
+17,Meghalaya,"MEGHALAYA                                         ",17,657,"East Jaintia Hills","EAST JAINTIA HILLS",000
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,748,Eluru,Eluru,000
+33,"Tamil Nadu","TAMIL NADU                                        ",33,573,Erode,"ERODE                                             ",610
+3,Punjab,"PUNJAB                                            ",03,651,Fazilka,,000
+3,Punjab,"PUNJAB                                            ",03,31,Ferozepur,FEROZEPUR,043
+24,Gujarat,"GUJARAT                                           ",24,446,Gandhinagar,"GANDHINAGAR                                       ",473
+20,Jharkhand,झारखंड,20,328,Garhwa,गढ़वा,346
+22,Chhattisgarh,छत्तीसगढ़,22,645,Gariyaband,गरियाबंद,000
+10,Bihar,"BIHAR                                             ",10,196,Gaya,गया,236
+16,Tripura,ত্রিপুরা,16,654,Gomati,গোমতি,000
+20,Jharkhand,झारखंड,20,331,Gumla,गुमला,366
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,17,Hamirpur,"HAMIRPUR                                          ",028
+36,Telangana,తెలంగాణ,00,686,Hanumakonda,హనుమకొండ,000
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,408,Harda,हरदा,448
+5,Uttarakhand,UTTARAKHAND,05,50,Haridwar,"HARIDWAR                                          ",068
+29,Karnataka,ಕರ್ನಾಟಕ,29,539,Hassan,ಹಾಸನ,574
+21,Odisha,ODISHA,21,355,Jagatsinghapur,"JAGATSINGHAPUR                                    ",380
+8,Rajasthan,"RAJASTHAN                                         ",08,102,Jaipur,"JAIPUR                                            ",110
+8,Rajasthan,"RAJASTHAN                                         ",08,104,Jalore,"JALORE                                            ",116
+19,"West Bengal","WEST BENGAL                                       ",19,314,Jalpaiguri,"JALPAIGURI                                        ",328
+36,Telangana,తెలంగాణ,00,687,"Jayashankar Bhupalapally","జయశంకర్ భూపాలపల్లి",000
+8,Rajasthan,"RAJASTHAN                                         ",08,105,Jhalawar,"JHALAWAR                                          ",129
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,153,Jhansi,"JHANSI                                            ",166
+21,Odisha,ODISHA,21,357,Jharsuguda,"JHARSUGUDA                                        ",371
+22,Chhattisgarh,छत्तीसगढ़,22,382,Kabeerdham,कबीरधाम,407
+19,"West Bengal","WEST BENGAL                                       ",19,702,Kalimpong,KALIMPONG,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,156,"Kanpur Dehat","KANPUR DEHAT                                      ",163
+8,Rajasthan,"RAJASTHAN                                         ",08,108,Karauli,"KARAULI                                           ",107
+36,Telangana,తెలంగాణ,00,508,Karimnagar,కరీంనగర్,534
+10,Bihar,"BIHAR                                             ",10,201,Katihar,कटिहार,212
+21,Odisha,ODISHA,21,360,Kendrapara,"KENDRAPARA                                        ",379
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,414,"Khargone (West Nimar)","खरगोन (पश्चिम निमाड़)",440
+24,Gujarat,"GUJARAT                                           ",24,450,Kheda,"KHEDA                                             ",483
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,159,Kheri,KHERI,153
+16,Tripura,ত্রিপুরা,16,652,Khowai,খোয়াই,000
+20,Jharkhand,झारखंड,20,606,Khunti,खूंटी,365
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,620,Kishtwar,,018
+15,Mizoram,"MIZORAM                                           ",15,263,Kolasib,"KOLASIB                                           ",282
+19,"West Bengal","WEST BENGAL                                       ",19,315,Kolkata,"KOLKATA                                           ",342
+32,Kerala,"KERALA                                            ",32,559,Kollam,കൊല്ലം,600
+8,Rajasthan,"RAJASTHAN                                         ",08,109,Kota,"KOTA                                              ",127
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,160,Kushinagar,KUSHINAGAR,189
+31,Lakshadweep,"LAKSHADWEEP                                       ",31,553,"Lakshadweep District","LAKSHADWEEP DISTRICT                              ",587
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,161,Lalitpur,"LALITPUR                                          ",167
+20,Jharkhand,झारखंड,20,335,Latehar,लातेहार,359
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,234,Lohit,"LOHIT                                             ",259
+13,Nagaland,"NAGALAND                                          ",13,615,Longleng,,268
+10,Bihar,"BIHAR                                             ",10,206,Madhubani,मधुबनी,207
+33,"Tamil Nadu","TAMIL NADU                                        ",33,578,Madurai,"MADURAI                                           ",623
+6,Haryana,"HARYANA                                           ",06,69,Mahendragarh,"MAHENDRAGARH                                      ",084
+24,Gujarat,"GUJARAT                                           ",24,669,Mahisagar,"મહિસાગર ",000
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,784,Maihar,मैहर,NA
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,166,Mainpuri,"MAINPURI                                          ",148
+18,Assam,"ASSAM                                             ",18,706,Majuli,,000
+32,Kerala,"KERALA                                            ",32,562,Malappuram,മലപ്പുറം,592
+19,"West Bengal","WEST BENGAL                                       ",19,316,Malda,MALDA,332
+21,Odisha,ODISHA,21,364,Malkangiri,"MALKANGIRI                                        ",399
+36,Telangana,తెలంగాణ,00,684,Mancherial,మంచిర్యాల్,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,168,Mau,"MAU                                               ",192
+13,Nagaland,"NAGALAND                                          ",13,247,Mon,"MON                                               ",261
+36,Telangana,తెలంగాణ,00,720,Mulugu,ములుగు,000
+10,Bihar,"BIHAR                                             ",10,207,Munger,मुंगेर,226
+29,Karnataka,ಕರ್ನಾಟಕ,29,545,Mysuru,ಮೈಸೂರು,577
+33,"Tamil Nadu","TAMIL NADU                                        ",33,579,Nagapattinam,"NAGAPATTINAM                                      ",618
+27,Maharashtra,महाराष्ट्र,27,484,Nagpur,नागपूर,505
+5,Uttarakhand,UTTARAKHAND,05,51,Nainital,"NAINITAL                                          ",066
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,409,Narmadapuram,नर्मदापुरम,449
+27,Maharashtra,महाराष्ट्र,27,487,Nashik,नाशिक,516
+24,Gujarat,"GUJARAT                                           ",24,453,Navsari,"NAVSARI                                           ",490
+14,Manipur,"MANIPUR                                           ",14,714,Noney,NONEY,000
+7,Delhi,"DELHI                                             ",07,81,"North East","NORTH EAST                                        ",092
+16,Tripura,ত্রিপুরা,16,270,"North Tripura","উত্তর ত্রিপুরা",292
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,749,Ntr,NTR,000
+32,Kerala,"KERALA                                            ",32,563,Palakkad,പാലക്കാട്,593
+20,Jharkhand,झारखंड,20,338,Palamu,पलामू,358
+27,Maharashtra,महाराष्ट्र,27,665,Palghar,"पालघर ",000
+6,Haryana,"HARYANA                                           ",06,70,Panchkula,"PANCHKULA                                         ",069
+6,Haryana,"HARYANA                                           ",06,71,Panipat,"PANIPAT                                           ",075
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,743,"Parvathipuram Manyam","Parvathipuram Manyam",000
+3,Punjab,"PUNJAB                                            ",03,662,Pathankot,PATHANKOT,000
+5,Uttarakhand,UTTARAKHAND,05,53,Pithoragarh,"PITHORAGARH                                       ",062
+10,Bihar,"BIHAR                                             ",10,213,"Purbi Champaran","पूर्वी चंपारण",204
+21,Odisha,ODISHA,21,369,Puri,"PURI                                              ",387
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,421,Raisen,रायसेन,446
+36,Telangana,తెలంగాణ,00,518,"Ranga Reddy","రంగా రెడ్డి",537
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,627,Reasi,"REASI                                             ",020
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,425,Sagar,सागर,427
+10,Bihar,"BIHAR                                             ",10,217,Samastipur,समस्तीपुर,221
+3,Punjab,"PUNJAB                                            ",03,43,Sangrur,"SANGRUR                                           ",053
+3,Punjab,"PUNJAB                                            ",03,608,"S.A.S Nagar","                                                  ",052
+3,Punjab,"PUNJAB                                            ",03,40,"Shahid Bhagat Singh Nagar","Shahid Bhagat Singh Nagar",039
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,182,Siddharthnagar,SIDDHARTHNAGAR,184
+8,Rajasthan,"RAJASTHAN                                         ",08,114,Sikar,"SIKAR                                             ",111
+27,Maharashtra,महाराष्ट्र,27,495,Sindhudurg,सिंधुदुर्ग,529
+8,Rajasthan,"RAJASTHAN                                         ",08,115,Sirohi,"SIROHI                                            ",117
+6,Haryana,"HARYANA                                           ",06,74,Sirsa,"SIRSA                                             ",079
+33,"Tamil Nadu","TAMIL NADU                                        ",33,585,Sivaganga,"SIVAGANGA                                         ",622
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,184,Sonbhadra,"SONBHADRA                                         ",200
+21,Odisha,ODISHA,21,372,Sonepur,"SONEPUR                                           ",392
+19,"West Bengal","WEST BENGAL                                       ",19,304,"South 24 Parganas","SOUTH 24 Parganas",343
+30,Goa,"GOA                                               ",30,552,"South Goa","SOUTH GOA                                         ",586
+36,Telangana,తెలంగాణ,00,696,Suryapet,సూర్యాపేట,000
+14,Manipur,"MANIPUR                                           ",14,716,Tengnoupal,TENGNOUPAL,000
+33,"Tamil Nadu","TAMIL NADU                                        ",33,588,Theni,"THENI                                             ",624
+33,"Tamil Nadu","TAMIL NADU                                        ",33,590,Thiruvarur,"THIRUVARUR                                        ",619
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,434,Tikamgarh,टीकमगढ़,424
+16,Tripura,ত্রিপুরা,16,655,Unakoti,ঊনকোটি,000
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,241,"Upper Subansiri","UPPER SUBANSIRI                                   ",249
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,187,Varanasi,"VARANASI                                          ",197
+33,"Tamil Nadu","TAMIL NADU                                        ",33,597,Virudhunagar,"VIRUDHUNAGAR                                      ",625
+27,Maharashtra,महाराष्ट्र,27,498,Wardha,वर्धा,504
+17,Meghalaya,"MEGHALAYA                                         ",17,279,"West Khasi Hills","WEST KHASI HILLS                                  ",296
+16,Tripura,ত্রিপুরা,16,272,"West Tripura","পশ্চিম ত্রিপুরা",289
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,504,Y.S.R.,,551
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,667,Agar-Malwa,आगर-मालवा,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,118,Agra,"AGRA                                              ",146
+8,Rajasthan,"RAJASTHAN                                         ",08,86,Ajmer,"AJMER                                             ",119
+19,"West Bengal","WEST BENGAL                                       ",19,664,Alipurduar,,000
+5,Uttarakhand,UTTARAKHAND,05,45,Almora,"ALMORA                                            ",064
+6,Haryana,"HARYANA                                           ",06,58,Ambala,"AMBALA                                            ",070
+27,Maharashtra,महाराष्ट्र,27,468,Amravati,अमरावती,503
+24,Gujarat,"GUJARAT                                           ",24,439,Amreli,"AMRELI                                            ",480
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,1,Anantnag,"ANANTNAG                                          ",014
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,753,Annamayya,Annamayya,000
+18,Assam,"ASSAM                                             ",18,616,Baksa,,324
+21,Odisha,ODISHA,21,346,Baleshwar,"BALESHWAR                                         ",377
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,126,Ballia,"BALLIA                                            ",193
+22,Chhattisgarh,छत्तीसगढ़,22,644,Balodabazar-Bhatapara,बलौदाबाजार-भाटापारा,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,128,Banda,"BANDA                                             ",170
+10,Bihar,"BIHAR                                             ",10,190,Banka,बांका,225
+19,"West Bengal","WEST BENGAL                                       ",19,305,Bankura,"BANKURA                                           ",339
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,3,Baramulla,"BARAMULLA                                         ",008
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,130,Bareilly,"BAREILLY                                          ",150
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,393,Barwani,बड़वानी,441
+3,Punjab,"PUNJAB                                            ",03,28,Bathinda,"BATHINDA                                          ",046
+10,Bihar,"BIHAR                                             ",10,191,Begusarai,बेगूसराय,222
+29,Karnataka,ಕರ್ನಾಟಕ,29,527,Belagavi,ಬೆಳಗಾವಿ,555
+10,Bihar,"BIHAR                                             ",10,192,Bhagalpur,भागलपुर,224
+22,Chhattisgarh,छत्तीसगढ़,22,375,Bilaspur,बिलासपुर,406
+14,Manipur,"MANIPUR                                           ",14,252,Bishnupur,"BISHNUPUR                                         ",275
+18,Assam,"ASSAM                                             ",18,705,Biswanath,,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,133,Budaun,"BUDAUN                                            ",149
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,134,Bulandshahr,"BULANDSHAHR                                       ",142
+8,Rajasthan,"RAJASTHAN                                         ",08,94,Bundi,"BUNDI                                             ",121
+18,Assam,"ASSAM                                             ",18,282,Cachar,"CACHAR                                            ",316
+29,Karnataka,ಕರ್ನಾಟಕ,29,531,Chamarajanagara,ಚಾಮರಾಜನಗರ,578
+5,Uttarakhand,UTTARAKHAND,05,48,Champawat,"CHAMPAWAT                                         ",065
+18,Assam,"ASSAM                                             ",18,708,Charaideo,,000
+33,"Tamil Nadu","TAMIL NADU                                        ",33,568,Chennai,"CHENNAI                                           ",603
+18,Assam,"ASSAM                                             ",18,612,Chirang,"                                                  ",320
+33,"Tamil Nadu","TAMIL NADU                                        ",33,569,Coimbatore,"COIMBATORE                                        ",632
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,401,Datia,दतिया,422
+20,Jharkhand,झारखंड,20,325,Dhanbad,धनबाद,354
+33,"Tamil Nadu","TAMIL NADU                                        ",33,571,Dharmapuri,"DHARMAPURI                                        ",630
+29,Karnataka,ಕರ್ನಾಟಕ,29,536,Dharwad,ಧಾರವಾಡ,562
+8,Rajasthan,"RAJASTHAN                                         ",08,98,Dholpur,"DHOLPUR                                           ",106
+18,Assam,"ASSAM                                             ",18,286,Dibrugarh,"DIBRUGARH                                         ",310
+22,Chhattisgarh,छत्तीसगढ़,22,378,Durg,दुर्ग,409
+17,Meghalaya,"MEGHALAYA                                         ",17,273,"East Garo Hills","EAST GARO HILLS                                   ",294
+3,Punjab,"PUNJAB                                            ",03,29,Faridkot,"FARIDKOT                                          ",045
+3,Punjab,"PUNJAB                                            ",03,30,"Fatehgarh Sahib","FATEHGARH SAHIB                                   ",040
+21,Odisha,ODISHA,21,354,Ganjam,"GANJAM                                            ",388
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,144,"Gautam Buddha Nagar","GAUTAM BUDDHA NAGAR                               ",141
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,146,Ghazipur,"GHAZIPUR                                          ",195
+20,Jharkhand,झारखंड,20,330,Godda,गोड्डा,351
+6,Haryana,"HARYANA                                           ",06,62,Gurugram,GURUGRAM,086
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,661,Hapur,HAPUR,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,163,Hathras,HATHRAS,144
+29,Karnataka,ಕರ್ನಾಟಕ,29,540,Haveri,ಹಾವೇರಿ,564
+6,Haryana,"HARYANA                                           ",06,63,Hisar,"HISAR                                             ",080
+15,Mizoram,"MIZORAM                                           ",15,726,Hnahthial,,000
+36,Telangana,తెలంగాణ,00,507,Hyderabad,హైదరాబాద్,536
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,151,Jalaun,"JALAUN                                            ",165
+27,Maharashtra,महाराष्ट्र,27,479,Jalna,जालना,514
+24,Gujarat,"GUJARAT                                           ",24,447,Jamnagar,"JAMNAGAR                                          ",477
+22,Chhattisgarh,छत्तीसगढ़,22,380,Jashpur,जशपुर,402
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,412,Jhabua,झाबुआ,464
+6,Haryana,"HARYANA                                           ",06,65,Jind,"JIND                                              ",077
+14,Manipur,"MANIPUR                                           ",14,713,Jiribam,,000
+8,Rajasthan,"RAJASTHAN                                         ",08,107,Jodhpur,"JODHPUR                                           ",113
+8,Rajasthan,"RAJASTHAN                                         ",08,778,"Jodhpur (Gramin)","जोधपुर (ग्रामीण)",NA
+18,Assam,"ASSAM                                             ",18,290,Jorhat,"JORHAT                                            ",312
+24,Gujarat,"GUJARAT                                           ",24,449,Kachchh,"KACHCHH                                           ",468
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,746,Kakinada,Kakinada,000
+21,Odisha,ODISHA,21,358,Kalahandi,"KALAHANDI                                         ",395
+33,"Tamil Nadu","TAMIL NADU                                        ",33,729,Kallakurichi,கள்ளக்குறிச்சி,000
+36,Telangana,తెలంగాణ,00,685,Kamareddy,కామారెడ్డి,000
+18,Assam,"ASSAM                                             ",18,618,"Kamrup Metro","KAMRUP MOHANAGAR                                  ",322
+32,Kerala,"KERALA                                            ",32,557,Kannur,കണ്ണൂര്‍,589
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,157,"Kanpur Nagar","KANPUR NAGAR                                      ",164
+3,Punjab,"PUNJAB                                            ",03,35,Kapurthala,"KAPURTHALA                                        ",036
+37,Ladakh,Ladakh,00,6,Kargil,"KARGIL                                            ",004
+33,"Tamil Nadu","TAMIL NADU                                        ",33,576,Karur,"KARUR                                             ",613
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,7,Kathua,"KATHUA                                            ",007
+8,Rajasthan,"RAJASTHAN                                         ",08,770,Khairthal-Tijara,खैरथल-तिजारा,NA
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,405,"Khandwa (East Nimar)","खण्डवा (पूर्व निमाड़)",466
+29,Karnataka,ಕರ್ನಾಟಕ,29,542,Kolar,ಕೋಲಾರ,581
+36,Telangana,తెలంగాణ,00,699,"Kumuram Bheem Asifabad","కుమురం భీమ్ ఆసిఫాబాద్",000
+15,Mizoram,"MIZORAM                                           ",15,264,Lawngtlai,"LAWNGTLAI                                         ",287
+20,Jharkhand,झारखंड,20,336,Lohardaga,लोहरदगा,356
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,235,"Lower Dibang Valley","LOWER DIBANG VALLEY                               ",258
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,719,"Lower Siang","LOWER SIANG",000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,165,Mahoba,"MAHOBA                                            ",169
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,415,Mandla,मंडला,454
+33,"Tamil Nadu","TAMIL NADU                                        ",33,735,Mayiladuthurai,,000
+36,Telangana,తెలంగాణ,00,513,Medak,మెదక్,535
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,170,Mirzapur,मिर्ज़ापुर,199
+13,Nagaland,"NAGALAND                                          ",13,246,Mokokchung,"MOKOKCHUNG                                        ",262
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,171,Moradabad,"MORADABAD                                         ",135
+24,Gujarat,"GUJARAT                                           ",24,673,Morbi,MORBI,000
+27,Maharashtra,महाराष्ट्र,27,482,Mumbai,मुंबई,519
+27,Maharashtra,महाराष्ट्र,27,483,"Mumbai Suburban","मुंबई उपनगर",518
+36,Telangana,తెలంగాణ,00,694,Nagarkurnool,"నాగర్ కర్నూల్",000
+10,Bihar,"BIHAR                                             ",10,209,Nalanda,नालंदा,229
+36,Telangana,తెలంగాణ,00,514,Nalgonda,నల్గొండ,539
+10,Bihar,"BIHAR                                             ",10,210,Nawada,नवादा,237
+7,Delhi,"DELHI                                             ",07,80,North,"NORTH                                             ",091
+7,Delhi,"DELHI                                             ",07,82,"North West","NORTH WEST                                        ",090
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,237,"Papum Pare","PAPUM PARE                                        ",248
+32,Kerala,"KERALA                                            ",32,564,Pathanamthitta,പത്തനംതിട്ട,599
+24,Gujarat,"GUJARAT                                           ",24,456,Porbandar,"PORBANDAR                                         ",478
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,120,Prayagraj,PRAYAGRAJ,175
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,175,"Rae Bareli","RAE BARELI                                        ",158
+29,Karnataka,ಕರ್ನಾಟಕ,29,546,Raichur,ರಾಯಚೂರು,559
+36,Telangana,తెలంగాణ,00,683,"Rajanna Sircilla","రాజన్న సిరిసిల్ల",000
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,621,Ramban,"RAMBAN                                            ",017
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,423,Ratlam,रतलाम,434
+6,Haryana,"HARYANA                                           ",06,72,Rewari,"REWARI                                            ",085
+17,Meghalaya,"MEGHALAYA                                         ",17,276,"Ri Bhoi","RI BHOI                                           ",297
+6,Haryana,"HARYANA                                           ",06,73,Rohtak,"ROHTAK                                            ",082
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,624,Samba,"SAMBA                                             ",022
+21,Odisha,ODISHA,21,371,Sambalpur,"SAMBALPUR                                         ",372
+27,Maharashtra,महाराष्ट्र,27,493,Sangli,सांगली,531
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,427,Sehore,सीहोर,445
+14,Manipur,"MANIPUR                                           ",14,257,Senapati,"SENAPATI                                          ",272
+8,Rajasthan,"RAJASTHAN                                         ",08,780,Shahpura,शाहपुरा,NA
+10,Bihar,"BIHAR                                             ",10,219,Sheikhpura,शेखपुरा,228
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,679,Siang,,000
+36,Telangana,తెలంగాణ,00,692,Siddipet,సిద్దిపేట,000
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,24,Sirmaur,"SIRMAUR                                           ",032
+18,Assam,"ASSAM                                             ",18,300,Sivasagar,"SIVASAGAR                                         ",311
+18,Assam,"ASSAM                                             ",18,301,Sonitpur,"SONITPUR                                          ",306
+16,Tripura,ত্রিপুরা,16,271,"South Tripura","দক্ষিন ত্রিপুরা",290
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,185,Sultanpur,"SULTANPUR                                         ",179
+21,Odisha,ODISHA,21,373,Sundargarh,"SUNDARGARH                                        ",374
+24,Gujarat,"GUJARAT                                           ",24,459,Surat,"SURAT                                             ",492
+24,Gujarat,"GUJARAT                                           ",24,460,Surendranagar,"SURENDRANAGAR                                     ",475
+33,"Tamil Nadu","TAMIL NADU                                        ",33,594,Thoothukkudi,Thoothukkudi,627
+32,Kerala,"KERALA                                            ",32,566,Thrissur,തൃശ്ശൂര്‍,594
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,752,Tirupati,Tirupati,000
+13,Nagaland,"NAGALAND                                          ",13,249,Tuensang,"TUENSANG                                          ",267
+5,Uttarakhand,UTTARAKHAND,05,56,"Udam Singh Nagar","UDAM SINGH NAGAR                                  ",067
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,14,Udhampur,"UDHAMPUR                                          ",019
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,435,Ujjain,उज्जैन,435
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,186,Unnao,"UNNAO                                             ",156
+19,"West Bengal","WEST BENGAL                                       ",19,311,"Uttar Dinajpur","UTTAR DINAJPUR",330
+33,"Tamil Nadu","TAMIL NADU                                        ",33,595,Vellore,"VELLORE                                           ",605
+36,Telangana,తెలంగాణ,00,693,Wanaparthy,వనపర్తి,000
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,523,"West Godavari","పశ్చిమగోదావరి                                     ",546
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,242,"West Kameng","WEST KAMENG                                       ",246
+6,Haryana,"HARYANA                                           ",06,76,Yamunanagar,"YAMUNANAGAR                                       ",071
+27,Maharashtra,महाराष्ट्र,27,500,Yavatmal,यवतमाळ,510
+27,Maharashtra,महाराष्ट्र,27,466,Ahmednagar,अहमदनगर,522
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,745,"Alluri Sitharama Raju","Alluri Sitharama Raju",000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,154,Amroha,AMROHA,137
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,744,Anakapalli,Anakapalli,000
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,628,Anjaw,"                                                  ",260
+8,Rajasthan,"RAJASTHAN                                         ",08,776,Anupgarh,अनूपगढ़,NA
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,122,Auraiya,"AURAIYA                                           ",162
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,140,Ayodhya,AYODHYA,177
+18,Assam,"ASSAM                                             ",18,739,Bajali,,000
+21,Odisha,ODISHA,21,345,Balangir,"BALANGIR                                          ",393
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,129,"Bara Banki","BARA BANKI",176
+36,Telangana,తెలంగాణ,00,690,"Bhadradri Kothagudem","భద్రాద్రి కొత్తగూడెం",000
+8,Rajasthan,"RAJASTHAN                                         ",08,91,Bharatpur,"BHARATPUR                                         ",105
+10,Bihar,"BIHAR                                             ",10,193,Bhojpur,भोजपुर,231
+8,Rajasthan,"RAJASTHAN                                         ",08,93,Bikaner,"BIKANER                                           ",101
+19,"West Bengal","WEST BENGAL                                       ",19,307,Birbhum,"BIRBHUM                                           ",334
+6,Haryana,"HARYANA                                           ",06,701,"Charki Dadri","CHARKI DADRI",000
+29,Karnataka,ಕರ್ನಾಟಕ,29,630,Chikkaballapura,ಚಿಕ್ಕಬಳ್ಳಾಪುರ,582
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,503,Chittoor,"CHITTOOR                                          ",554
+22,Chhattisgarh,छत्तीसगढ़,22,376,"Dakshin Bastar Dantewada","दक्षिण बस्तर दंतेवाड़ा",416
+18,Assam,"ASSAM                                             ",18,283,Darrang,"DARRANG                                           ",325
+5,Uttarakhand,UTTARAKHAND,05,49,Dehradun,"DEHRADUN                                          ",060
+21,Odisha,ODISHA,21,351,Deogarh,"DEOGARH                                           ",373
+18,Assam,"ASSAM                                             ",18,284,Dhemaji,"DHEMAJI                                           ",308
+18,Assam,"ASSAM                                             ",18,285,Dhubri,"DHUBURI                                           ",301
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,230,"Dibang Valley","DIBANG VALLEY                                     ",257
+8,Rajasthan,"RAJASTHAN                                         ",08,768,Didwana-Kuchaman,डीडवाना-कुचामन,NA
+13,Nagaland,"NAGALAND                                          ",13,244,Dimapur,"DIMAPUR                                           ",265
+33,"Tamil Nadu","TAMIL NADU                                        ",33,572,Dindigul,"DINDIGUL                                          ",612
+38,"The Dadra And Nagar Haveli And Daman And Diu","THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",NA,464,Diu,DIU,494
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,4,Doda,"DODA                                              ",016
+8,Rajasthan,"RAJASTHAN                                         ",08,99,Dungarpur,"DUNGARPUR                                         ",124
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,232,"East Siang","EAST SIANG                                        ",251
+32,Kerala,"KERALA                                            ",32,555,Ernakulam,എറണാകുളം,595
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,138,Etah,"ETAH                                              ",201
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,141,Farrukhabad,"FARRUKHABAD                                       ",159
+6,Haryana,"HARYANA                                           ",06,61,Fatehabad,"FATEHABAD                                         ",078
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,142,Fatehpur,"FATEHPUR                                          ",172
+29,Karnataka,ಕರ್ನಾಟಕ,29,537,Gadag,ಗದಗ,561
+8,Rajasthan,"RAJASTHAN                                         ",08,771,Gangapurcity,गंगापुरसिटी,NA
+11,Sikkim,"SIKKIM                                            ",11,225,Gangtok,Gangtok,244
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,145,Ghaziabad,"GHAZIABAD                                         ",140
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,147,Gonda,"GONDA                                             ",183
+10,Bihar,"BIHAR                                             ",10,197,Gopalganj,गोपालगंज,217
+3,Punjab,"PUNJAB                                            ",03,32,Gurdaspur,"GURDASPUR                                         ",035
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,407,Gwalior,ग्वालियर,421
+18,Assam,"ASSAM                                             ",18,289,Hailakandi,"HAILAKANDI                                        ",318
+8,Rajasthan,"RAJASTHAN                                         ",08,101,Hanumangarh,"HANUMANGARH                                       ",100
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,150,Hardoi,"HARDOI                                            ",155
+20,Jharkhand,झारखंड,20,332,Hazaribagh,हज़ारीबाग,360
+27,Maharashtra,महाराष्ट्र,27,477,Hingoli,हिंगोली,512
+36,Telangana,తెలంగాణ,00,681,Jagitial,జగిత్యాల,000
+21,Odisha,ODISHA,21,356,Jajapur,"JAJAPUR                                           ",382
+20,Jharkhand,झारखंड,20,333,Jamtara,जामताड़ा,363
+10,Bihar,"BIHAR                                             ",10,198,Jamui,जमुई,238
+22,Chhattisgarh,छत्तीसगढ़,22,379,Janjgir-Champa,"जांजगीर - चाम्पा",405
+10,Bihar,"BIHAR                                             ",10,199,Jehanabad,जहानाबाद,239
+19,"West Bengal","WEST BENGAL                                       ",19,703,Jhargram,Jhargram,000
+10,Bihar,"BIHAR                                             ",10,200,"Kaimur (Bhabua)","कैमूर ( भभुआ )",233
+33,"Tamil Nadu","TAMIL NADU                                        ",33,574,Kancheepuram,"KANCHIPURAM                                       ",604
+21,Odisha,ODISHA,21,359,Kandhamal,"KANDHAMAL                                         ",390
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,18,Kangra,"KANGRA                                            ",024
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,155,Kannauj,"KANNAUJ                                           ",160
+6,Haryana,"HARYANA                                           ",06,67,Karnal,"KARNAL                                            ",074
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,633,Kasganj,Kasganj,202
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,413,Katni,कटनी,450
+10,Bihar,"BIHAR                                             ",10,202,Khagaria,खगड़िया,223
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,19,Kinnaur,"KINNAUR                                           ",034
+13,Nagaland,"NAGALAND                                          ",13,614,Kiphire,,269
+10,Bihar,"BIHAR                                             ",10,203,Kishanganj,किशनगंज,210
+20,Jharkhand,झारखंड,20,334,Koderma,कोडरमा,348
+29,Karnataka,ಕರ್ನಾಟಕ,29,543,Koppal,ಕೊಪ್ಪಳ,560
+8,Rajasthan,"RAJASTHAN                                         ",08,782,Kotputli-Behror,कोटपूतली-बहरोड,NA
+32,Kerala,"KERALA                                            ",32,560,Kottayam,കോട്ടയം,597
+32,Kerala,"KERALA                                            ",32,561,Kozhikode,കോഴിക്കോട്,591
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,510,Krishna,"KRISHNA                                           ",547
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,622,Kulgam,"KULGAM                                            ",015
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,8,Kupwara,"KUPWARA                                           ",001
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,511,Kurnool,"KURNOOL                                           ",552
+10,Bihar,"BIHAR                                             ",10,204,Lakhisarai,लखीसराय,227
+27,Maharashtra,महाराष्ट्र,27,481,Latur,लातूर,524
+15,Mizoram,"MIZORAM                                           ",15,265,Lunglei,"LUNGLEI                                           ",286
+36,Telangana,తెలంగాణ,00,688,Mahabubabad,మహబుబాబాద్,000
+24,Gujarat,"GUJARAT                                           ",24,451,Mahesana,"MAHESANA                                          ",471
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,164,Mahrajganj,MAHRAJGANJ,187
+15,Mizoram,"MIZORAM                                           ",15,266,Mamit,"MAMIT                                             ",281
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,22,Mandi,"MANDI                                             ",027
+22,Chhattisgarh,छत्तीसगढ़,22,760,"Manendragarh-Chirmiri-Bharatpur(M C B)",मनेन्द्रगढ़-चिरमिरी-भरतपुर(ऍम.सी.बी.),000
+21,Odisha,ODISHA,21,365,Mayurbhanj,"MAYURBHANJ                                        ",376
+36,Telangana,తెలంగాణ,00,700,"Medchal Malkajgiri","మేడ్చల్ మల్కాజిగిరి",000
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,417,Morena,मुरैना,419
+19,"West Bengal","WEST BENGAL                                       ",19,319,Murshidabad,"MURSHIDABAD                                       ",333
+21,Odisha,ODISHA,21,366,Nabarangpur,"NABARANGPUR                                       ",397
+19,"West Bengal","WEST BENGAL                                       ",19,320,Nadia,"NADIA                                             ",336
+27,Maharashtra,महाराष्ट्र,27,485,Nanded,नांदेड,511
+27,Maharashtra,महाराष्ट्र,27,486,Nandurbar,नंदूरबार,497
+36,Telangana,తెలంగాణ,00,721,Narayanpet,"నారాయణ్ పేట్",000
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,418,Narsimhapur,नरसिंहपुर,452
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,419,Neemuch,नीमच,432
+35,"Andaman And Nicobar Islands","ANDAMAN AND NICOBAR ISLANDS                       ",35,603,Nicobars,"NICOBARS                                          ",638
+36,Telangana,తెలంగాణ,00,680,Nirmal,నిర్మల్,000
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,722,Niwari,निवारी,000
+36,Telangana,తెలంగాణ,00,516,Nizamabad,నిజామాబాదు,533
+13,Nagaland,"NAGALAND                                          ",13,736,Noklak,Noklak,000
+30,Goa,"GOA                                               ",30,551,"North Goa","NORTH GOA                                         ",585
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,723,"Pakke Kessang","PAKKE KESSANG",000
+20,Jharkhand,झारखंड,20,337,Pakur,पाकुर,353
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,785,Pandhurna,पांढुर्णा,NA
+27,Maharashtra,महाराष्ट्र,27,489,Parbhani,परभणी,513
+19,"West Bengal","WEST BENGAL                                       ",19,704,"Paschim Bardhaman","PASCHIM BARDHAMAN",000
+19,"West Bengal","WEST BENGAL                                       ",19,318,"Paschim Medinipur","PASCHIM MEDINIPUR",344
+3,Punjab,"PUNJAB                                            ",03,41,Patiala,"PATIALA                                           ",048
+10,Bihar,"BIHAR                                             ",10,212,Patna,पटना,230
+36,Telangana,తెలంగాణ,00,682,Peddapalli,పెద్దపల్లి,000
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,10,Poonch,"POONCH                                            ",005
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,174,Pratapgarh,"PRATAPGARH                                        ",173
+34,Puducherry,PUDUCHERRY,34,600,Puducherry,புதுச்சேரி,635
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,11,Pulwama,"PULWAMA                                           ",012
+27,Maharashtra,महाराष्ट्र,27,490,Pune,पुणे,521
+27,Maharashtra,महाराष्ट्र,27,491,Raigad,रायगड,520
+22,Chhattisgarh,छत्तीसगढ़,22,386,Raigarh,रायगढ़,403
+22,Chhattisgarh,छत्तीसगढ़,22,387,Raipur,रायपुर,410
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,422,Rajgarh,राजगढ़,442
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,12,Rajouri,RAJOURI,006
+5,Uttarakhand,UTTARAKHAND,05,54,"Rudra Prayag","RUDRA PRAYAG                                      ",058
+24,Gujarat,"GUJARAT                                           ",24,458,"Sabar Kantha","SABAR KANTHA                                      ",472
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,177,Saharanpur,"SAHARANPUR                                        ",132
+15,Mizoram,"MIZORAM                                           ",15,727,Saitual,SAITUAL,000
+33,"Tamil Nadu","TAMIL NADU                                        ",33,584,Salem,"SALEM                                             ",608
+8,Rajasthan,"RAJASTHAN                                         ",08,777,Salumbar,सलूम्‍बर,NA
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,659,Sambhal,SAMBHAL,000
+36,Telangana,తెలంగాణ,00,691,Sangareddy,సంగారెడ్డి,000
+10,Bihar,"BIHAR                                             ",10,218,Saran,सारण,219
+22,Chhattisgarh,छत्तीसगढ़,22,763,Sarangarh-Bilaigarh,सारंगढ़-बिलाईगढ़,000
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,426,Satna,सतना,429
+7,Delhi,"DELHI                                             ",07,671,Shahdara,SHAHDARA,000
+13,Nagaland,"NAGALAND                                          ",13,765,Shamator,Shamator,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,660,Shamli,SHAMLI,000
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,23,Shimla,"SHIMLA                                            ",033
+29,Karnataka,ಕರ್ನಾಟಕ,29,547,Shivamogga,ಶಿವಮೊಗ್ಗ,568
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,725,"Shi Yomi","SHI YOMI",000
+15,Mizoram,"MIZORAM                                           ",15,267,Siaha,Siaha,288
+10,Bihar,"BIHAR                                             ",10,221,Sitamarhi,सीतामढी,206
+6,Haryana,"HARYANA                                           ",06,75,Sonipat,"SONIPAT                                           ",076
+35,"Andaman And Nicobar Islands","ANDAMAN AND NICOBAR ISLANDS                       ",35,602,"South Andamans","SOUTH ANDAMANS                                    ",640
+17,Meghalaya,"MEGHALAYA                                         ",17,277,"South Garo Hills","SOUTH GARO HILLS                                  ",295
+17,Meghalaya,"MEGHALAYA                                         ",17,658,"South West Khasi Hills","SOUTH WEST KHASI HILLS",000
+3,Punjab,"PUNJAB                                            ",03,39,"Sri Muktsar Sahib","ਸ੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ",044
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,13,Srinagar,"SRINAGAR                                          ",010
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,515,"Sri Potti Sriramulu Nellore","శ్రీ పొట్టి శ్రీరాములు నెల్లూరు",550
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,754,"Sri Sathya Sai","Sri Sathya Sai",000
+24,Gujarat,"GUJARAT                                           ",24,641,Tapi,"                                                  ",493
+33,"Tamil Nadu","TAMIL NADU                                        ",33,589,Thiruvallur,"THIRUVALLUR                                       ",602
+14,Manipur,"MANIPUR                                           ",14,259,Thoubal,"THOUBAL                                           ",276
+33,"Tamil Nadu","TAMIL NADU                                        ",33,592,Tirunelveli,"TIRUNELVELI                                       ",628
+13,Nagaland,"NAGALAND                                          ",13,757,Tseminyu,Tseminyu,000
+29,Karnataka,ಕರ್ನಾಟಕ,29,548,Tumakuru,ತುಮಕೂರು,571
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,436,Umaria,उमरिया,431
+24,Gujarat,"GUJARAT                                           ",24,461,Vadodara,"VADODARA                                          ",486
+10,Bihar,"BIHAR                                             ",10,224,Vaishali,वैशाली,220
+24,Gujarat,"GUJARAT                                           ",24,462,Valsad,"VALSAD                                            ",491
+33,"Tamil Nadu","TAMIL NADU                                        ",33,596,Viluppuram,"VILLUPURAM                                        ",607
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,520,Visakhapatnam,విశాఖపట్నం,544
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,521,Vizianagaram,"VIZIANAGARAM                                      ",543
+7,Delhi,"DELHI                                             ",07,85,West,"WEST                                              ",096
+24,Gujarat,"GUJARAT                                           ",24,440,Anand,"ANAND                                             ",482
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,502,Ananthapuramu,అనంతపురము,553
+21,Odisha,ODISHA,21,344,Anugul,"ANUGUL                                            ",384
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,390,Anuppur,अनूपपुर,461
+10,Bihar,"BIHAR                                             ",10,188,Araria,अररिया,209
+33,"Tamil Nadu","TAMIL NADU                                        ",33,610,Ariyalur,அரியலூர்,616
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,391,Ashoknagar,अशोकनगर,459
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,124,Baghpat,"BAGHPAT                                           ",139
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,392,Balaghat,बालाघाट,457
+8,Rajasthan,"RAJASTHAN                                         ",08,775,Balotra,बालोतरा,NA
+24,Gujarat,"GUJARAT                                           ",24,441,"Banas Kantha","BANAS KANTHA                                      ",469
+8,Rajasthan,"RAJASTHAN                                         ",08,88,Banswara,"BANSWARA                                          ",125
+8,Rajasthan,"RAJASTHAN                                         ",08,89,Baran,BARAN,128
+21,Odisha,ODISHA,21,347,Bargarh,"BARGARH                                           ",370
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,131,Basti,"BASTI                                             ",185
+8,Rajasthan,"RAJASTHAN                                         ",08,774,Beawar,ब्‍यावर,NA
+29,Karnataka,ಕರ್ನಾಟಕ,29,526,"Bengaluru Rural","ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",583
+24,Gujarat,"GUJARAT                                           ",24,442,Bharuch,"BHARUCH                                           ",488
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,396,Bhopal,भोपाल,444
+21,Odisha,ODISHA,21,349,Boudh,"BOUDH                                             ",391
+27,Maharashtra,महाराष्ट्र,27,472,Buldhana,बुलढाणा,500
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,397,Burhanpur,बुरहानपुर,467
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,229,Changlang,"CHANGLANG                                         ",253
+20,Jharkhand,झारखंड,20,323,Chatra,चतरा,347
+29,Karnataka,ಕರ್ನಾಟಕ,29,532,Chikkamagaluru,ಚಿಕ್ಕಮಗಳೂರು,570
+29,Karnataka,ಕರ್ನಾಟಕ,29,533,Chitradurga,ಚಿತ್ರದುರ್ಗ,566
+8,Rajasthan,"RAJASTHAN                                         ",08,95,Chittorgarh,"CHITTORGARH                                       ",126
+13,Nagaland,"NAGALAND                                          ",13,758,Chumoukedima,Chumoukedima,000
+8,Rajasthan,"RAJASTHAN                                         ",08,96,Churu,"CHURU                                             ",102
+19,"West Bengal","WEST BENGAL                                       ",19,308,"Cooch Behar","COOCH BEHAR",329
+38,"The Dadra And Nagar Haveli And Daman And Diu","THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",NA,465,"Dadra And Nagar Haveli","DADRA AND NAGAR HAVELI",496
+20,Jharkhand,झारखंड,20,324,Deoghar,देवघर,350
+24,Gujarat,"GUJARAT                                           ",24,674,"Devbhumi Dwarka","DEVBHUMI DWARKA",000
+22,Chhattisgarh,छत्तीसगढ़,22,377,Dhamtari,धमतरी,412
+18,Assam,"ASSAM                                             ",18,299,"Dima Hasao","DIMA HASAO",315
+20,Jharkhand,झारखंड,20,326,Dumka,दुमका,362
+7,Delhi,"DELHI                                             ",07,78,East,"EAST                                              ",093
+17,Meghalaya,"MEGHALAYA                                         ",17,740,"Eastern West Khasi Hills",,000
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,505,"East Godavari","EAST GODAVARI                                     ",545
+17,Meghalaya,"MEGHALAYA                                         ",17,274,"East Khasi Hills","EAST KHASI HILLS                                  ",298
+20,Jharkhand,झारखंड,20,327,"East Singhbum","पूर्वी सिंघभूम",357
+27,Maharashtra,महाराष्ट्र,27,475,Gadchiroli,गडचिरोली,508
+21,Odisha,ODISHA,21,353,Gajapati,"GAJAPATI                                          ",389
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,626,Ganderbal,"GANDERBAL                                         ",011
+22,Chhattisgarh,छत्तीसगढ़,22,734,Gaurela-Pendra-Marwahi,गौरेला-पेंड्रा-मरवाही,000
+20,Jharkhand,झारखंड,20,329,Giridih,गिरिडीह,349
+24,Gujarat,"GUJARAT                                           ",24,675,"Gir Somnath","GIR SOMNATH",000
+18,Assam,"ASSAM                                             ",18,287,Goalpara,"GOALPARA                                          ",302
+27,Maharashtra,महाराष्ट्र,27,476,Gondia,गोंदीया,507
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,506,Guntur,"GUNTUR                                            ",548
+18,Assam,"ASSAM                                             ",18,709,Hojai,,000
+19,"West Bengal","WEST BENGAL                                       ",19,312,Hooghly,"HOOGHLY                                           ",338
+3,Punjab,"PUNJAB                                            ",03,33,Hoshiarpur,"HOSHIARPUR                                        ",038
+19,"West Bengal","WEST BENGAL                                       ",19,313,Howrah,"HOWRAH                                            ",341
+14,Manipur,"MANIPUR                                           ",14,256,"Imphal West","IMPHAL WEST                                       ",277
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,411,Jabalpur,जबलपुर,451
+3,Punjab,"PUNJAB                                            ",03,34,Jalandhar,"JALANDHAR                                         ",037
+27,Maharashtra,महाराष्ट्र,27,478,Jalgaon,जळगाव,499
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,5,Jammu,"JAMMU                                             ",021
+8,Rajasthan,"RAJASTHAN                                         ",08,106,Jhunjhunu,"JHUNJHUNU                                         ",103
+36,Telangana,తెలంగాణ,00,695,"Jogulamba Gadwal","జోగులాంబ గద్వాల",000
+14,Manipur,"MANIPUR                                           ",14,711,Kakching,,000
+29,Karnataka,ಕರ್ನಾಟಕ,29,538,Kalaburagi,ಕಲಬುರಗಿ,579
+14,Manipur,"MANIPUR                                           ",14,717,Kamjong,,000
+18,Assam,"ASSAM                                             ",18,291,Kamrup,"KAMRUP                                            ",321
+14,Manipur,"MANIPUR                                           ",14,712,Kangpokpi,,000
+18,Assam,"ASSAM                                             ",18,292,"Karbi Anglong","KARBI ANGLONG                                     ",314
+32,Kerala,"KERALA                                            ",32,558,Kasaragod,കാസര്‍കോഡ്,588
+36,Telangana,తెలంగాణ,00,509,Khammam,ఖమ్మం,541
+15,Mizoram,"MIZORAM                                           ",15,728,Khawzawl,KHAWZAWL,000
+21,Odisha,ODISHA,21,362,Khordha,"KHORDHA                                           ",386
+29,Karnataka,ಕರ್ನಾಟಕ,29,541,Kodagu,ಕೊಡಗು,576
+21,Odisha,ODISHA,21,363,Koraput,"KORAPUT                                           ",398
+22,Chhattisgarh,छत्तीसगढ़,22,383,Korba,कोरबा,404
+22,Chhattisgarh,छत्तीसगढ़,22,384,Korea,कोरिया,400
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,677,"Kra Daadi","KRA DAADI",000
+33,"Tamil Nadu","TAMIL NADU                                        ",33,577,Krishnagiri,"KRISHNAGIRI                                       ",631
+6,Haryana,"HARYANA                                           ",06,68,Kurukshetra,"KURUKSHETRA                                       ",072
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,21,"Lahaul And Spiti","Lahaul and Spiti",025
+18,Assam,"ASSAM                                             ",18,295,Lakhimpur,"LAKHIMPUR                                         ",307
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,724,Leparada,LEPARADA,000
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,666,Longding,LONGDING,000
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,236,"Lower Subansiri","LOWER SUBANSIRI                                   ",255
+3,Punjab,"PUNJAB                                            ",03,36,Ludhiana,ਲੂਿਧਆਣਾ,041
+36,Telangana,తెలంగాణ,00,512,Mahabubnagar,"మహబూబ్ నగర్",538
+22,Chhattisgarh,छत्तीसगढ़,22,385,Mahasamund,महासमुंद,411
+34,Puducherry,PUDUCHERRY,34,599,Mahe,"MAHE                                              ",636
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,416,Mandsaur,मन्दसौर,433
+29,Karnataka,ಕರ್ನಾಟಕ,29,544,Mandya,ಮಂಡ್ಯ,573
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,766,MAUGANJ,मऊगंज,NA
+22,Chhattisgarh,छत्तीसगढ़,22,761,"Mohla-Manpur-Ambagarh Chouki","मोहला-मानपुर-अम्बागढ़ चौकी",000
+18,Assam,"ASSAM                                             ",18,297,Nagaon,"NAGAON                                            ",305
+18,Assam,"ASSAM                                             ",18,298,Nalbari,"NALBARI                                           ",323
+33,"Tamil Nadu","TAMIL NADU                                        ",33,580,Namakkal,"NAMAKKAL                                          ",609
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,678,Namsai,,000
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,755,Nandyal,Nandyal,000
+8,Rajasthan,"RAJASTHAN                                         ",08,773,"Neem Ka Thana","नीम का थाना",NA
+7,Delhi,"DELHI                                             ",07,79,"New Delhi","NEW DELHI                                         ",094
+21,Odisha,ODISHA,21,368,Nuapada,"NUAPADA                                           ",394
+24,Gujarat,"GUJARAT                                           ",24,454,"Panch Mahals","PANCH MAHALS                                      ",484
+10,Bihar,"BIHAR                                             ",10,211,"Pashchim Champaran","पश्चिम चम्पारण",203
+24,Gujarat,"GUJARAT                                           ",24,455,Patan,"PATAN                                             ",470
+33,"Tamil Nadu","TAMIL NADU                                        ",33,581,Perambalur,"PERAMBALUR                                        ",615
+13,Nagaland,"NAGALAND                                          ",13,613,Peren,,271
+13,Nagaland,"NAGALAND                                          ",13,248,Phek,"PHEK                                              ",266
+14,Manipur,"MANIPUR                                           ",14,715,Pherzawl,,000
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,517,Prakasam,"PRAKASAM                                          ",549
+8,Rajasthan,"RAJASTHAN                                         ",08,629,Pratapgarh,PRATAPGARH,131
+33,"Tamil Nadu","TAMIL NADU                                        ",33,582,Pudukkottai,"PUDUKKOTTAI                                       ",621
+19,"West Bengal","WEST BENGAL                                       ",19,317,"Purba Medinipur","PURBA MEDINIPUR",345
+10,Bihar,"BIHAR                                             ",10,214,Purnia,पूर्णिया,211
+19,"West Bengal","WEST BENGAL                                       ",19,321,Purulia,"PURULIA                                           ",340
+22,Chhattisgarh,छत्तीसगढ़,22,388,Rajnandgaon,राजनंदगांव,408
+8,Rajasthan,"RAJASTHAN                                         ",08,112,Rajsamand,"RAJSAMAND                                         ",123
+33,"Tamil Nadu","TAMIL NADU                                        ",33,583,Ramanathapuram,"RAMANATHAPURAM                                    ",626
+20,Jharkhand,झारखंड,20,339,Ranchi,रांची,364
+27,Maharashtra,महाराष्ट्र,27,492,Ratnagiri,रत्नागिरी,528
+21,Odisha,ODISHA,21,370,Rayagada,"RAYAGADA                                          ",396
+10,Bihar,"BIHAR                                             ",10,216,Saharsa,सहरसा,214
+20,Jharkhand,झारखंड,20,340,Sahebganj,साहेबगंज,352
+22,Chhattisgarh,छत्तीसगढ़,22,762,Sakti,सक्ती,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,178,"Sant Kabir Nagar","SANT KABIR NAGAR",186
+20,Jharkhand,झारखंड,20,341,"Saraikela Kharsawan","सरायकेला खरसावां",369
+8,Rajasthan,"RAJASTHAN                                         ",08,113,"Sawai Madhopur","SAWAI MADHOPUR                                    ",108
+16,Tripura,ত্রিপুরা,16,653,Sepahijala,সিপাহিজলা,000
+15,Mizoram,"MIZORAM                                           ",15,268,Serchhip,"SERCHHIP                                          ",285
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,429,Shahdol,शहडोल,460
+10,Bihar,"BIHAR                                             ",10,220,Sheohar,शिवहर,205
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,181,Shrawasti,SHRAWASTI,181
+20,Jharkhand,झारखंड,20,342,Simdega,सिमडेगा,367
+10,Bihar,"BIHAR                                             ",10,222,Siwan,सिवान,218
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,25,Solan,"SOLAN                                             ",031
+7,Delhi,"DELHI                                             ",07,670,"South East","SOUTH EAST",000
+7,Delhi,"DELHI                                             ",07,84,"South West","SOUTH WEST                                        ",097
+22,Chhattisgarh,छत्तीसगढ़,22,648,Surajpur,सूरजपुर,000
+22,Chhattisgarh,छत्तीसगढ़,22,389,Surguja,सरगुजा,401
+14,Manipur,"MANIPUR                                           ",14,258,Tamenglong,"TAMENGLONG                                        ",273
+3,Punjab,"PUNJAB                                            ",03,609,"Tarn Taran","tarn taran ",050
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,238,Tawang,"TAWANG                                            ",245
+33,"Tamil Nadu","TAMIL NADU                                        ",33,733,Tenkasi,தென்காசி,000
+33,"Tamil Nadu","TAMIL NADU                                        ",33,586,Thanjavur,"THANJAVUR                                         ",620
+33,"Tamil Nadu","TAMIL NADU                                        ",33,587,"The Nilgiris","THE NILGIRIS                                      ",611
+18,Assam,"ASSAM                                             ",18,302,Tinsukia,"TINSUKIA                                          ",309
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,239,Tirap,"TIRAP                                             ",254
+33,"Tamil Nadu","TAMIL NADU                                        ",33,732,Tirupathur,திருப்பத்தூர்,000
+8,Rajasthan,"RAJASTHAN                                         ",08,116,Tonk,"TONK                                              ",120
+29,Karnataka,ಕರ್ನಾಟಕ,29,549,Udupi,ಉಡುಪಿ,569
+14,Manipur,"MANIPUR                                           ",14,260,Ukhrul,"UKHRUL                                            ",279
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,26,Una,"UNA                                               ",029
+22,Chhattisgarh,छत्तीसगढ़,22,381,"Uttar Bastar Kanker","उत्तर बस्तर कांकेर",413
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,437,Vidisha,विदिशा,443
+29,Karnataka,ಕರ್ನಾಟಕ,29,738,Vijayanagar,,000
+29,Karnataka,ಕರ್ನಾಟಕ,29,530,Vijayapura,ವಿಜಯಾಪುರ,557
+36,Telangana,తెలంగాణ,00,698,Vikarabad,వికారాబాద్,000
+27,Maharashtra,महाराष्ट्र,27,499,Washim,वाशिम,502
+18,Assam,"ASSAM                                             ",18,710,"West Karbi Anglong",,000
+13,Nagaland,"NAGALAND                                          ",13,250,Wokha,"WOKHA                                             ",264
+36,Telangana,తెలంగాణ,00,501,Adilabad,ఆదిలాబాద్,532
+24,Gujarat,"GUJARAT                                           ",24,438,Ahmedabad,AHMEDABAD,474
+15,Mizoram,"MIZORAM                                           ",15,261,Aizawl,"AIZAWL                                            ",283
+27,Maharashtra,महाराष्ट्र,27,467,Akola,अकोला,501
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,119,Aligarh,"ALIGARH                                           ",143
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,639,Alirajpur,अलीराजपुर,465
+8,Rajasthan,"RAJASTHAN                                         ",08,87,Alwar,"ALWAR                                             ",104
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,640,Amethi,Amethi,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,123,Azamgarh,"AZAMGARH                                          ",191
+29,Karnataka,ಕರ್ನಾಟಕ,29,524,Bagalkote,ಬಾಗಲಕೋಟೆ,556
+5,Uttarakhand,UTTARAKHAND,05,46,Bageshwar,"BAGESHWAR                                         ",063
+29,Karnataka,ಕರ್ನಾಟಕ,29,528,Ballari,ಬಳ್ಳಾರಿ,565
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,750,Bapatla,Bapatla,000
+8,Rajasthan,"RAJASTHAN                                         ",08,90,Barmer,"BARMER                                            ",115
+3,Punjab,"PUNJAB                                            ",03,605,Barnala,"                                                  ",054
+18,Assam,"ASSAM                                             ",18,280,Barpeta,"BARPETA                                           ",303
+22,Chhattisgarh,छत्तीसगढ़,22,374,Bastar,बस्तर,414
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,394,Betul,बैतूल,447
+21,Odisha,ODISHA,21,348,Bhadrak,"BHADRAK                                           ",378
+24,Gujarat,"GUJARAT                                           ",24,443,Bhavnagar,"BHAVNAGAR                                         ",481
+8,Rajasthan,"RAJASTHAN                                         ",08,92,Bhilwara,"BHILWARA                                          ",122
+6,Haryana,"HARYANA                                           ",06,59,Bhiwani,"BHIWANI                                           ",081
+29,Karnataka,ಕರ್ನಾಟಕ,29,529,Bidar,ಬೀದರ್‌,558
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,132,Bijnor,"BIJNOR                                            ",134
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,15,Bilaspur,"BILASPUR                                          ",030
+20,Jharkhand,झारखंड,20,322,Bokaro,बोकारो,355
+18,Assam,"ASSAM                                             ",18,281,Bongaigaon,"BONGAIGAON                                        ",319
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,2,Budgam,,002
+10,Bihar,"BIHAR                                             ",10,194,Buxar,बक्सर,232
+7,Delhi,"DELHI                                             ",07,77,Central,"CENTRAL                                           ",095
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,16,Chamba,"CHAMBA                                            ",023
+15,Mizoram,"MIZORAM                                           ",15,262,Champhai,"CHAMPHAI                                          ",284
+4,Chandigarh,"CHANDIGARH                                        ",04,44,Chandigarh,"CHANDIGARH                                        ",055
+33,"Tamil Nadu","TAMIL NADU                                        ",33,730,Chengalpattu,செங்கல்பட்டு,000
+27,Maharashtra,महाराष्ट्र,27,469,"Chhatrapati Sambhajinagar","छत्रपती संभाजीनगर",515
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,399,Chhindwara,छिन्दवाड़ा,455
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,136,Chitrakoot,"CHITRAKOOT                                        ",171
+14,Manipur,"MANIPUR                                           ",14,254,Churachandpur,"CHURACHANDPUR                                     ",274
+33,"Tamil Nadu","TAMIL NADU                                        ",33,570,Cuddalore,"CUDDALORE                                         ",617
+21,Odisha,ODISHA,21,350,Cuttack,"CUTTACK                                           ",381
+29,Karnataka,ಕರ್ನಾಟಕ,29,534,"Dakshina Kannada","ದಕ್ಷಿಣ ಕನ್ನಡ",575
+38,"The Dadra And Nagar Haveli And Daman And Diu","THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",NA,463,Daman,DAMAN,495
+10,Bihar,"BIHAR                                             ",10,195,Darbhanga,दरभंगा,215
+8,Rajasthan,"RAJASTHAN                                         ",08,97,Dausa,"DAUSA                                             ",109
+8,Rajasthan,"RAJASTHAN                                         ",08,767,Deeg,डीग,NA
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,137,Deoria,"DEORIA                                            ",190
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,402,Dewas,देवास,437
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,403,Dhar,धार,438
+27,Maharashtra,महाराष्ट्र,27,488,Dharashiv,धाराशिव,525
+27,Maharashtra,महाराष्ट्र,27,474,Dhule,धुळे,498
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,747,"Dr. B.R. Ambedkar Konaseema","డా బి ఆర్  అంబేడ్కర్ కోనసీమ",000
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,231,"East Kameng","EAST KAMENG                                       ",247
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,139,Etawah,"ETAWAH                                            ",161
+6,Haryana,"HARYANA                                           ",06,60,Faridabad,"FARIDABAD                                         ",088
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,143,Firozabad,"FIROZABAD                                         ",147
+8,Rajasthan,"RAJASTHAN                                         ",08,100,Ganganagar,"GANGANAGAR                                        ",099
+18,Assam,"ASSAM                                             ",18,288,Golaghat,"GOLAGHAT                                          ",313
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,148,Gorakhpur,"GORAKHPUR                                         ",188
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,406,Guna,गुना,458
+11,Sikkim,"SIKKIM                                            ",11,228,Gyalshing,Gyalshing,242
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,149,Hamirpur,"HAMIRPUR                                          ",168
+32,Kerala,"KERALA                                            ",32,556,Idukki,ഇടുക്കി,596
+14,Manipur,"MANIPUR                                           ",14,255,"Imphal East","IMPHAL EAST                                       ",278
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,410,Indore,इन्दौर,439
+8,Rajasthan,"RAJASTHAN                                         ",08,783,"Jaipur (Gramin)","जयपुर (ग्रामीण)",NA
+8,Rajasthan,"RAJASTHAN                                         ",08,103,Jaisalmer,"JAISALMER                                         ",114
+36,Telangana,తెలంగాణ,00,689,Jangoan,జనగాం,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,152,Jaunpur,"JAUNPUR                                           ",194
+6,Haryana,"HARYANA                                           ",06,64,Jhajjar,"JHAJJAR                                           ",083
+24,Gujarat,"GUJARAT                                           ",24,448,Junagadh,"JUNAGADH                                          ",479
+6,Haryana,"HARYANA                                           ",06,66,Kaithal,"KAITHAL                                           ",073
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,718,Kamle,KAMLE,000
+33,"Tamil Nadu","TAMIL NADU                                        ",33,575,Kanniyakumari,"KANNIYAKUMARI                                     ",629
+34,Puducherry,PUDUCHERRY,34,598,Karaikal,காரைக்கால்,637
+18,Assam,"ASSAM                                             ",18,293,Karimganj,"KARIMGANJ                                         ",317
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,158,Kaushambi,"KAUSHAMBI                                         ",174
+8,Rajasthan,"RAJASTHAN                                         ",08,781,Kekri,केकड़ी,NA
+21,Odisha,ODISHA,21,361,Kendujhar,"KENDUJHAR                                         ",375
+22,Chhattisgarh,छत्तीसगढ़,22,759,Khairagarh-Chhuikhadan-Gandai,खैरागढ़-छुईखदान-गंडई,000
+13,Nagaland,"NAGALAND                                          ",13,245,Kohima,"KOHIMA                                            ",270
+18,Assam,"ASSAM                                             ",18,294,Kokrajhar,"KOKRAJHAR                                         ",300
+27,Maharashtra,महाराष्ट्र,27,480,Kolhapur,कोल्हापूर,530
+22,Chhattisgarh,छत्तीसगढ़,22,643,Kondagaon,कोंडागांव,000
+2,"Himachal Pradesh","HIMACHAL PRADESH                                  ",02,20,Kullu,"KULLU                                             ",026
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,233,"Kurung Kumey","KURUNG KUMEY                                      ",256
+37,Ladakh,Ladakh,00,9,"Leh Ladakh","LEH LADAKH                                        ",003
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,162,Lucknow,"LUCKNOW                                           ",157
+10,Bihar,"BIHAR                                             ",10,205,Madhepura,मधेपुरा,213
+3,Punjab,"PUNJAB                                            ",03,737,Malerkotla,,000
+11,Sikkim,"SIKKIM                                            ",11,226,Mangan,Mangan,241
+3,Punjab,"PUNJAB                                            ",03,37,Mansa,ਮਾਨਸਾ,047
+18,Assam,"ASSAM                                             ",18,296,Marigaon,"MARIGAON                                          ",304
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,167,Mathura,"MATHURA                                           ",145
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,169,Meerut,"MEERUT                                            ",138
+3,Punjab,"PUNJAB                                            ",03,38,Moga,"MOGA                                              ",042
+22,Chhattisgarh,छत्तीसगढ़,22,647,Mungeli,मुंगेली,000
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,172,Muzaffarnagar,"MUZAFFARNAGAR                                     ",133
+10,Bihar,"BIHAR                                             ",10,208,Muzaffarpur,मुजफ्फरपुर,216
+8,Rajasthan,"RAJASTHAN                                         ",08,110,Nagaur,"NAGAUR                                            ",112
+11,Sikkim,"SIKKIM                                            ",11,227,Namchi,Namchi,243
+22,Chhattisgarh,छत्तीसगढ़,22,637,Narayanpur,नारायणपुर,415
+24,Gujarat,"GUJARAT                                           ",24,452,Narmada,"NARMADA                                           ",487
+21,Odisha,ODISHA,21,367,Nayagarh,"NAYAGARH                                          ",385
+13,Nagaland,"NAGALAND                                          ",13,764,Niuland,Niuland,000
+19,"West Bengal","WEST BENGAL                                       ",19,303,"North 24 Parganas","NORTH TWENTY FOUR PARGANAS",337
+35,"Andaman And Nicobar Islands","ANDAMAN AND NICOBAR ISLANDS                       ",35,632,"North And Middle Andaman","NORTH AND MIDDLE ANDAMAN                          ",639
+17,Meghalaya,"MEGHALAYA                                         ",17,656,"North Garo Hills","NORTH GARO HILLS",000
+6,Haryana,"HARYANA                                           ",06,604,Nuh,नूँह,087
+11,Sikkim,"SIKKIM                                            ",11,741,Pakyong,Pakyong,000
+8,Rajasthan,"RAJASTHAN                                         ",08,111,Pali,"PALI                                              ",118
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,751,Palnadu,Palnadu,000
+6,Haryana,"HARYANA                                           ",06,619,Palwal,,089
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,420,Panna,पन्ना,426
+5,Uttarakhand,UTTARAKHAND,05,52,"Pauri Garhwal","PAURI GARHWAL                                     ",061
+8,Rajasthan,"RAJASTHAN                                         ",08,772,Phalodi,फलाैदी,NA
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,173,Pilibhit,"PILIBHIT                                          ",151
+19,"West Bengal","WEST BENGAL                                       ",19,306,"Purba Bardhaman","PURBA BARDHAMAN",335
+24,Gujarat,"GUJARAT                                           ",24,457,Rajkot,"RAJKOT                                            ",476
+29,Karnataka,ಕರ್ನಾಟಕ,29,631,Ramanagara,ರಾಮನಗರ,584
+20,Jharkhand,झारखंड,20,607,Ramgarh,रामगढ़,361
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,176,Rampur,"RAMPUR                                            ",136
+33,"Tamil Nadu","TAMIL NADU                                        ",33,731,Ranipet,ராணிப்பேட்டை,000
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,424,Rewa,रीवा,430
+10,Bihar,"BIHAR                                             ",10,215,Rohtas,रोहतास,234
+3,Punjab,"PUNJAB                                            ",03,42,Rupnagar,ਰੂਪਨਗਰ,051
+8,Rajasthan,"RAJASTHAN                                         ",08,779,Sanchore,सांचौर,NA
+27,Maharashtra,महाराष्ट्र,27,494,Satara,सातारा,527
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,428,Seoni,सिवनी,456
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,180,Shahjahanpur,"SHAHJAHANPUR                                      ",152
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,430,Shajapur,शाजापुर,436
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,431,Sheopur,श्योपुर,418
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,432,Shivpuri,शिवपुरी,423
+1,"Jammu And Kashmir","JAMMU AND KASHMIR",01,625,Shopian,"SHOPIAN                                           ",013
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,433,Sidhi,सीधी,462
+23,"Madhya Pradesh","MADHYA PRADESH                                    ",23,638,Singrauli,सिंगरौली,463
+9,"Uttar Pradesh","UTTAR PRADESH                                     ",09,183,Sitapur,"SITAPUR                                           ",154
+27,Maharashtra,महाराष्ट्र,27,496,Solapur,सोलापूर,526
+11,Sikkim,"SIKKIM                                            ",11,742,Soreng,Soreng,000
+7,Delhi,"DELHI                                             ",07,83,South,"SOUTH                                             ",098
+18,Assam,"ASSAM                                             ",18,707,"South Salmara Mancachar",,000
+17,Meghalaya,"MEGHALAYA                                         ",17,663,"South West Garo Hills","SOUTH WEST GARO HILLS",000
+28,"Andhra Pradesh","ANDHRA PRADESH                                    ",28,519,Srikakulam,"SRIKAKULAM                                        ",542
+22,Chhattisgarh,छत्तीसगढ़,22,642,Sukma,सुकमा,000
+10,Bihar,"BIHAR                                             ",10,223,Supaul,सुपौल,208
+18,Assam,"ASSAM                                             ",18,756,Tamulpur,,000
+5,Uttarakhand,UTTARAKHAND,05,55,"Tehri Garhwal","TEHRI GARHWAL                                     ",059
+27,Maharashtra,महाराष्ट्र,27,497,Thane,ठाणे,517
+32,Kerala,"KERALA                                            ",32,565,Thiruvananthapuram,തിരുവനന്തപുരം,601
+33,"Tamil Nadu","TAMIL NADU                                        ",33,591,Tiruchirappalli,"TIRUCHIRAPPALLI                                   ",614
+33,"Tamil Nadu","TAMIL NADU                                        ",33,634,Tiruppur,"TIRUPPUR                                          ",633
+33,"Tamil Nadu","TAMIL NADU                                        ",33,593,Tiruvannamalai,"TIRUVANNAMALAI                                    ",606
+8,Rajasthan,"RAJASTHAN                                         ",08,117,Udaipur,"UDAIPUR                                           ",130
+18,Assam,"ASSAM                                             ",18,617,Udalguri,,326
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,240,"Upper Siang","UPPER SIANG                                       ",252
+29,Karnataka,ಕರ್ನಾಟಕ,29,550,"Uttara Kannada","ಉತ್ತರ ಕನ್ನಡ",563
+5,Uttarakhand,UTTARAKHAND,05,57,"Uttar Kashi","UTTAR KASHI                                       ",056
+36,Telangana,తెలంగాణ,00,522,Warangal,వరంగల్,540
+32,Kerala,"KERALA                                            ",32,567,Wayanad,വയനാട്,590
+17,Meghalaya,"MEGHALAYA                                         ",17,278,"West Garo Hills","WEST GARO HILLS                                   ",293
+17,Meghalaya,"MEGHALAYA                                         ",17,275,"West Jaintia Hills","WEST JAINTIA HILLS",299
+12,"Arunachal Pradesh","ARUNACHAL PRADESH                                 ",12,243,"West Siang","WEST SIANG                                        ",250
+20,Jharkhand,झारखंड,20,343,"West Singhbhum","पश्चिमी सिंघभूम",368
+36,Telangana,తెలంగాణ,00,697,"Yadadri Bhuvanagiri","యదాద్రి భువనగిరి",000
+29,Karnataka,ಕರ್ನಾಟಕ,29,635,Yadgir,ಯಾದಗಿರಿ,580
+34,Puducherry,PUDUCHERRY,34,601,Yanam,"YANAM                                             ",634
+13,Nagaland,"NAGALAND                                          ",13,251,Zunheboto,"ZUNHEBOTO                                         ",263

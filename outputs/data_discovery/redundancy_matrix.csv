@@ -1,0 +1,6 @@
+pair,pearson_r,spearman_rho,vif_impact,recommendation
+stunting_pct vs underweight_pct,0.884,0.862,HIGH,Drop underweight_pct; retain stunting_pct as cleaner chronic metric
+wasting_pct vs underweight_pct,0.792,0.771,MODERATE,Drop underweight_pct
+clean_fuel_pct vs sanitation_pct,0.765,0.781,MODERATE,Retain both in separate sub-weights or composite living standard index
+total_population vs urban_population_pct,0.412,0.435,LOW,Retain both; measure distinct volume vs density dimensions
+phc_density vs subcentre_density,0.684,0.651,LOW_MODERATE,Retain both within P3 Healthcare Access with entropy weighting

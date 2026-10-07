@@ -1,0 +1,21 @@
+indicator,source_year,latest_model_year,temporal_gap,boundary_vintage,compatibility,risk
+nfhs_hypertension_combined_pct,2019-2021,2024,3-5 years,2019-2021 Survey Districts,HIGH,Low
+nfhs_diabetes_combined_pct,2019-2021,2024,3-5 years,2019-2021 Survey Districts,HIGH,Low
+nfhs_stunting_pct,2019-2021,2024,3-5 years,2019-2021 Survey Districts,HIGH,Low
+nfhs_wasting_pct,2019-2021,2024,3-5 years,2019-2021 Survey Districts,HIGH,Low
+nfhs_underweight_pct,2019-2021,2024,3-5 years,2019-2021 Survey Districts,HIGH,Low
+census_urban_population_pct,2011,2024,13 years,2011 Census Districts,MEDIUM,Moderate (Urban expansion post-2011)
+census_population_age_0_6_pct,2011,2024,13 years,2011 Census Districts,MEDIUM,Low
+nfhs_insurance_pct,2019-2021,2024,3-5 years,2019-2021 Survey Districts,HIGH,Low
+nfhs_clean_fuel_pct,2019-2021,2024,3-5 years,2019-2021 Survey Districts,HIGH,Low
+nfhs_sanitation_pct,2019-2021,2024,3-5 years,2019-2021 Survey Districts,HIGH,Low
+nfhs_oope_delivery_rs,2019-2021,2024,3-5 years,2019-2021 Survey Districts,HIGH,Low
+rhs_phc_density_per_100k,2011,2024,13 years,2011 Pre-split Districts,MEDIUM,Moderate (Relies on inheritance for 43 new districts)
+rhs_chc_density_per_100k,2011,2024,13 years,2011 Pre-split Districts,MEDIUM,Moderate
+rhs_subcentre_density_per_100k,2011,2024,13 years,2011 Pre-split Districts,MEDIUM,Moderate
+rhs_hospital_presence,2011,2024,13 years,2011 Pre-split Districts,MEDIUM,Moderate
+jan_aushadhi_density_per_100k,2023-2024,2024,0-1 year,Current LGD,HIGH,Low
+mca21_pharma_density_per_100k,2021-2024,2024,0-3 years,Current Postal Pincodes,HIGH,Low
+niti_aspirational_district_flag,Current,2024,0 years,Current LGD,HIGH,Low
+census_decadal_growth_pct,2001-2011,2024,13-23 years,2011 Census Districts,LOW,Moderate (Historical demographic trajectory)
+census_literacy_rate_pct,2011,2024,13 years,2011 Census Districts,MEDIUM,Low

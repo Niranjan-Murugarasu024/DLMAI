@@ -1,0 +1,43 @@
+# South India DLMAI Weights & AHP Configuration
+version: "2.0.0"
+
+ahp_matrix:
+  criteria: ["P1", "P2", "P3", "P4", "P5", "P6", "P7"]
+  pairwise_comparison_matrix:
+    - [1.0,   3.0,   2.0,   4.0,   7.0,   5.0,   5.0]
+    - [0.333333, 1.0,   0.5,   2.0,   5.0,   3.0,   3.0]
+    - [0.5,   2.0,   1.0,   3.0,   6.0,   4.0,   4.0]
+    - [0.25,  0.5,   0.333333, 1.0,   4.0,   2.0,   2.0]
+    - [0.142857, 0.2,   0.166667, 0.25,  1.0,   0.5,   0.5]
+    - [0.2,   0.333333, 0.25,  0.5,   2.0,   1.0,   1.0]
+    - [0.2,   0.333333, 0.25,  0.5,   2.0,   1.0,   1.0]
+
+validation:
+  lambda_max: 7.121566
+  consistency_index: 0.020261
+  random_index_7: 1.32
+  consistency_ratio: 0.015349
+  threshold_max_cr: 0.10
+
+ahp_priority_weights:
+  P1: 0.354117
+  P2: 0.156329
+  P3: 0.238561
+  P4: 0.100382
+  P5: 0.033529
+  P6: 0.058541
+  P7: 0.058541
+
+value_driver_weights_renormalized:
+  P1: 0.366402
+  P2: 0.161753
+  P3: 0.246837
+  P4: 0.103865
+  P6: 0.060572
+  P7: 0.060572
+
+saturation:
+  enabled: true
+  dampener_coefficient_lambda: 0.15
+  dampener_min: 0.10
+  dampener_max: 0.20

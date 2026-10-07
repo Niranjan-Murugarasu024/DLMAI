@@ -1,0 +1,252 @@
+# South India DLMAI Indicator Configuration
+version: "2.0.0"
+
+indicators:
+  # --- PILLAR 1: Healthcare Demand & Disease Burden ---
+  nfhs_hypertension_combined_pct:
+    name: "Adult Hypertension Prevalence Rate (%)"
+    pillar: "P1"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "NFHS-5"
+    source_year: "2019-2021"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "trend_state_knn"
+
+  nfhs_diabetes_combined_pct:
+    name: "Adult Diabetes Prevalence Rate (%)"
+    pillar: "P1"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "NFHS-5"
+    source_year: "2019-2021"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "trend_state_knn"
+
+  nfhs_stunting_pct:
+    name: "Child Stunting Rate (%)"
+    pillar: "P1"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "NFHS-5"
+    source_year: "2019-2021"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "state_knn"
+
+  nfhs_wasting_pct:
+    name: "Child Wasting Rate (%)"
+    pillar: "P1"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "NFHS-5"
+    source_year: "2019-2021"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "state_knn"
+
+  nfhs_underweight_pct:
+    name: "Child Underweight Rate (%)"
+    pillar: "P1"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "NFHS-5"
+    source_year: "2019-2021"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "state_knn"
+
+  census_urban_population_pct:
+    name: "Urban Population Share (%)"
+    pillar: "P1"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "Census"
+    source_year: "2011"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "parent_state"
+
+  census_population_age_0_6_pct:
+    name: "Pediatric Population Share (0-6 Years) (%)"
+    pillar: "P1"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "Census"
+    source_year: "2011"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "parent_state"
+
+  # --- PILLAR 2: Economic Access & Affordability ---
+  nfhs_insurance_pct:
+    name: "Health Insurance Coverage (%)"
+    pillar: "P2"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "NFHS-5"
+    source_year: "2019-2021"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "state_knn"
+
+  nfhs_clean_fuel_pct:
+    name: "Clean Cooking Fuel Usage (%)"
+    pillar: "P2"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "NFHS-5"
+    source_year: "2019-2021"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "state_knn"
+
+  nfhs_sanitation_pct:
+    name: "Improved Sanitation Usage (%)"
+    pillar: "P2"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "NFHS-5"
+    source_year: "2019-2021"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "state_knn"
+
+  nfhs_oope_delivery_rs:
+    name: "Out-of-Pocket Delivery Expenditure (INR)"
+    pillar: "P2"
+    direction: "NEGATIVE"
+    unit: "INR"
+    source: "NFHS-5"
+    source_year: "2019-2021"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "trend_state"
+
+  # --- PILLAR 3: Healthcare Infrastructure ---
+  rhs_phc_density_per_100k:
+    name: "Primary Health Centres per 100k Population"
+    pillar: "P3"
+    direction: "POSITIVE"
+    unit: "Rate"
+    source: "RHS"
+    source_year: "2011"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "parent_state"
+
+  rhs_chc_density_per_100k:
+    name: "Community Health Centres per 100k Population"
+    pillar: "P3"
+    direction: "POSITIVE"
+    unit: "Rate"
+    source: "RHS"
+    source_year: "2011"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "parent_state"
+
+  rhs_subcentre_density_per_100k:
+    name: "Health Sub-Centres per 100k Population"
+    pillar: "P3"
+    direction: "POSITIVE"
+    unit: "Rate"
+    source: "RHS"
+    source_year: "2011"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "parent_state"
+
+  rhs_hospital_presence:
+    name: "Secondary & Tertiary Hospitals Count"
+    pillar: "P3"
+    direction: "POSITIVE"
+    unit: "Count"
+    source: "RHS"
+    source_year: "2011"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "parent_state"
+
+  # --- PILLAR 4: Pharmaceutical Distribution Accessibility ---
+  jan_aushadhi_density_per_100k:
+    name: "Jan Aushadhi Kendras per 100k Population"
+    pillar: "P4"
+    direction: "POSITIVE"
+    unit: "Rate"
+    source: "PMBJP"
+    source_year: "2023-2024"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "zero_if_confirmed_absent"
+
+  # --- PILLAR 5: Market Competition & Saturation (Dampener) ---
+  mca21_pharma_density_per_100k:
+    name: "Active Pharma Enterprises per 100k Population"
+    pillar: "P5"
+    direction: "SATURATION_DAMPENER"
+    unit: "Rate"
+    source: "MCA21"
+    source_year: "2021-2024"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "pincode_map"
+
+  # --- PILLAR 6: Policy & Healthcare Development Environment ---
+  niti_aspirational_district_flag:
+    name: "NITI Aayog Aspirational District Flag (0/1)"
+    pillar: "P6"
+    direction: "POSITIVE"
+    unit: "Binary"
+    source: "NITI Aayog"
+    source_year: "Current"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "exhaustive_zero"
+
+  # --- PILLAR 7: Demographic & Market Growth ---
+  census_decadal_growth_pct:
+    name: "Population Decadal Growth Rate (%)"
+    pillar: "P7"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "Census"
+    source_year: "2001-2011"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "parent_state"
+
+  census_literacy_rate_pct:
+    name: "District Literacy Rate (%)"
+    pillar: "P7"
+    direction: "POSITIVE"
+    unit: "%"
+    source: "Census"
+    source_year: "2011"
+    geographic_level: "DISTRICT"
+    is_scored: true
+    missing_strategy: "parent_state"
+
+contextual_variables:
+  census_total_population:
+    name: "Total District Population"
+    unit: "Count"
+    source: "Census"
+  jan_aushadhi_raw_count:
+    name: "Total Jan Aushadhi Kendras Count"
+    unit: "Count"
+    source: "PMBJP"
+  mca21_raw_company_count:
+    name: "Total Active Pharma Enterprises Count"
+    unit: "Count"
+    source: "MCA21"
+  census_density_per_sqkm:
+    name: "Population Density per Sq Km"
+    unit: "Persons/sqkm"
+    source: "Census"
+  census_sex_ratio:
+    name: "Sex Ratio (Females per 1000 Males)"
+    unit: "Ratio"
+    source: "Census"

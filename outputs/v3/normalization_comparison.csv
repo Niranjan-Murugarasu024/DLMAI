@@ -1,0 +1,6 @@
+method,spearman_rho,top_10_preservation,top_20_preservation,bounded_0_100,outlier_sensitivity,recommendation
+MinMax_Baseline,1.0,100.0,100.0,True,MODERATE,RECOMMENDED_CORE
+Robust_IQR_MinMax,0.9985,100.0,95.0,True,LOW,SENSITIVITY_CHECK
+Winsorized_5_95,0.9924,90.0,95.0,True,VERY_LOW,ALTERNATIVE_ROBUST
+Percentile_Rank,0.8574,70.0,75.0,True,ZERO,LOSES_INTERVAL_DISTANCE
+Standard_Z_Score,0.985,90.0,90.0,False,HIGH,UNBOUNDED_NOT_INDEX_FRIENDLY

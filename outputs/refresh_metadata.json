@@ -1,0 +1,16 @@
+{
+  "model_version": "2.0.0",
+  "geographic_scope": "South India (7 States/UTs)",
+  "total_canonical_districts": 148,
+  "total_scored_indicators": 20,
+  "mean_dlmai_score": 42.44,
+  "median_dlmai_score": 44.86,
+  "highest_scoring_district": "Jayashankar Bhupalapally",
+  "highest_score": 56.1698,
+  "lowest_scoring_district": "Bengaluru Urban",
+  "lowest_score": 24.4636,
+  "mean_spearman_rank_stability": 0.9922,
+  "stability_assessment": "HIGHLY_STABLE (Target Met)",
+  "ahp_consistency_ratio": 0.015349,
+  "random_seed": 42
+}

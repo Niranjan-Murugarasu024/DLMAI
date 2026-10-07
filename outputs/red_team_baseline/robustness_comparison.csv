@@ -1,0 +1,149 @@
+lgd_district_code,district_name,state_name,baseline_dlmai_score,baseline_rank,geometric_score,equal_pillar_rank,no_saturation_rank
+563,Palakkad,Kerala,55.953,1,45.4618,4,1
+687,Jayashankar Bhupalapally,Telangana,55.7405,2,44.7874,5,2
+583,Ramanathapuram,Tamil Nadu,55.7236,3,53.9014,2,3
+699,Kumuram Bheem Asifabad,Telangana,54.6425,4,43.8382,10,4
+572,Dindigul,Tamil Nadu,54.1983,5,44.2511,28,5
+732,Tirupathur,Tamil Nadu,53.8378,6,43.5996,23,6
+731,Ranipet,Tamil Nadu,53.8378,6,43.5996,23,6
+595,Vellore,Tamil Nadu,53.8378,6,43.5996,23,6
+592,Tirunelveli,Tamil Nadu,53.7193,9,43.6816,26,9
+733,Tenkasi,Tamil Nadu,53.7193,9,43.6816,26,9
+585,Sivaganga,Tamil Nadu,52.7769,11,43.0646,32,11
+690,Bhadradri Kothagudem,Telangana,52.458,12,42.7612,11,13
+596,Viluppuram,Tamil Nadu,52.4323,13,42.4715,29,14
+729,Kallakurichi,Tamil Nadu,52.4323,13,42.4715,29,14
+559,Kollam,Kerala,52.3731,15,42.7558,8,16
+566,Thrissur,Kerala,52.1791,16,42.7221,9,17
+567,Wayanad,Kerala,52.1062,17,44.5969,1,18
+591,Tiruchirappalli,Tamil Nadu,51.9786,18,42.5472,34,19
+586,Thanjavur,Tamil Nadu,51.8077,19,42.1132,31,20
+593,Tiruvannamalai,Tamil Nadu,51.3196,20,42.1959,33,21
+561,Kozhikode,Kerala,51.2134,21,41.4241,7,22
+597,Virudhunagar,Tamil Nadu,51.092,22,50.0865,3,23
+685,Kamareddy,Telangana,50.7426,23,34.373,63,24
+579,Nagapattinam,Tamil Nadu,50.4711,24,41.521,36,26
+735,Mayiladuthurai,Tamil Nadu,50.4711,24,41.521,36,26
+501,Adilabad,Telangana,50.2446,26,33.8882,75,28
+554,Alappuzha,Kerala,50.1677,27,40.8731,13,30
+565,Thiruvananthapuram,Kerala,50.1408,28,40.878,6,29
+582,Pudukkottai,Tamil Nadu,50.0137,29,41.1949,38,31
+576,Karur,Tamil Nadu,49.9579,30,39.5372,42,32
+522,Warangal,Telangana,49.8437,31,33.9795,59,33
+686,Hanumakonda,Telangana,49.6804,32,33.8426,62,34
+573,Erode,Tamil Nadu,49.6179,33,40.5038,35,35
+556,Idukki,Kerala,49.4684,34,39.7193,14,36
+682,Peddapalli,Telangana,49.451,35,34.1694,66,37
+695,Jogulamba Gadwal,Telangana,49.1429,36,33.5992,70,38
+689,Jangoan,Telangana,49.0151,37,33.3751,60,39
+610,Ariyalur,Tamil Nadu,48.9847,38,40.3882,41,40
+560,Kottayam,Kerala,48.9316,39,39.8853,15,41
+694,Nagarkurnool,Telangana,48.7174,40,33.3141,67,42
+555,Ernakulam,Kerala,48.5619,41,40.6017,12,25
+575,Kanniyakumari,Tamil Nadu,48.4345,42,39.6367,39,43
+721,Narayanpet,Telangana,48.4324,43,33.1114,64,44
+512,Mahabubnagar,Telangana,48.4324,43,33.1114,64,44
+589,Thiruvallur,Tamil Nadu,48.3187,45,40.1335,43,46
+696,Suryapet,Telangana,48.2907,46,33.159,71,47
+693,Wanaparthy,Telangana,48.1615,47,32.9679,68,48
+514,Nalgonda,Telangana,48.1284,48,33.076,73,49
+681,Jagitial,Telangana,47.9179,49,33.3145,72,50
+513,Medak,Telangana,47.8924,50,32.8306,82,51
+557,Kannur,Kerala,47.8245,51,39.182,16,52
+581,Perambalur,Tamil Nadu,47.529,52,39.0336,46,53
+594,Thoothukkudi,Tamil Nadu,47.517,53,39.4527,48,54
+590,Thiruvarur,Tamil Nadu,47.4535,54,38.6747,45,55
+730,Chengalpattu,Tamil Nadu,47.3868,55,39.396,47,56
+720,Mulugu,Telangana,47.1262,56,32.5658,80,58
+562,Malappuram,Kerala,47.0815,57,37.8269,20,59
+580,Namakkal,Tamil Nadu,46.8441,58,38.6501,44,60
+683,Rajanna Sircilla,Telangana,46.7609,59,32.5387,74,61
+509,Khammam,Telangana,46.6362,60,32.3885,77,62
+508,Karimnagar,Telangana,46.5931,61,32.5679,81,63
+564,Pathanamthitta,Kerala,46.4026,62,37.3414,19,64
+688,Mahabubabad,Telangana,46.2215,63,31.9931,79,65
+518,Ranga Reddy,Telangana,46.0038,64,31.9719,83,66
+697,Yadadri Bhuvanagiri,Telangana,45.9843,65,31.8087,78,67
+516,Nizamabad,Telangana,45.9791,66,32.013,92,68
+691,Sangareddy,Telangana,45.6056,67,31.701,88,70
+578,Madurai,Tamil Nadu,45.5834,68,37.2571,50,69
+698,Vikarabad,Telangana,45.4946,69,31.7556,87,71
+570,Cuddalore,Tamil Nadu,45.394,70,37.955,53,73
+568,Chennai,Tamil Nadu,45.3786,71,40.7739,56,12
+684,Mancherial,Telangana,45.1607,72,31.2972,85,74
+634,Tiruppur,Tamil Nadu,45.1048,73,37.7034,55,75
+692,Siddipet,Telangana,45.0685,74,31.3382,86,76
+571,Dharmapuri,Tamil Nadu,44.6555,75,35.6513,52,77
+584,Salem,Tamil Nadu,44.4749,76,35.2736,61,79
+577,Krishnagiri,Tamil Nadu,44.4028,77,36.1513,49,80
+558,Kasaragod,Kerala,44.385,78,35.3007,21,81
+587,The Nilgiris,Tamil Nadu,44.3262,79,35.3122,51,82
+588,Theni,Tamil Nadu,43.8089,80,35.6278,57,85
+598,Karaikal,Puducherry,43.66,81,29.7348,54,84
+521,Vizianagaram,Andhra Pradesh,42.7912,82,33.7134,17,88
+743,Parvathipuram Manyam,Andhra Pradesh,42.7912,82,33.7134,17,88
+569,Coimbatore,Tamil Nadu,42.3268,84,36.452,58,86
+680,Nirmal,Telangana,42.108,85,29.8903,108,90
+574,Kancheepuram,Tamil Nadu,41.7896,86,37.1893,84,56
+505,East Godavari,Andhra Pradesh,41.195,87,27.8903,89,91
+747,Dr. B.R. Ambedkar Konaseema,Andhra Pradesh,41.195,87,27.8903,89,91
+746,Kakinada,Andhra Pradesh,41.195,87,27.8903,89,91
+755,Nandyal,Andhra Pradesh,41.1521,90,28.1255,100,94
+754,Sri Sathya Sai,Andhra Pradesh,40.911,91,28.3602,93,95
+502,Ananthapuramu,Andhra Pradesh,40.911,91,28.3602,93,95
+745,Alluri Sitharama Raju,Andhra Pradesh,40.6239,93,31.7571,22,97
+752,Tirupati,Andhra Pradesh,39.8464,94,26.9412,95,98
+503,Chittoor,Andhra Pradesh,39.8464,94,26.9412,95,98
+552,South Goa,Goa,39.8127,96,27.82,101,72
+748,Eluru,Andhra Pradesh,39.6594,97,26.9749,98,101
+523,West Godavari,Andhra Pradesh,39.6594,97,26.9749,98,101
+551,North Goa,Goa,39.3433,99,28.0525,102,78
+515,Sri Potti Sriramulu Nellore,Andhra Pradesh,39.325,100,26.7445,97,103
+511,Kurnool,Andhra Pradesh,38.5428,101,19.9757,115,104
+504,Y.S.R.,Andhra Pradesh,38.1671,102,26.5381,104,105
+753,Annamayya,Andhra Pradesh,38.1671,102,26.5381,104,105
+517,Prakasam,Andhra Pradesh,37.9896,104,26.1134,103,107
+548,Tumakuru,Karnataka,37.7016,105,26.7619,113,108
+539,Hassan,Karnataka,37.5762,106,25.8046,110,109
+520,Visakhapatnam,Andhra Pradesh,37.5721,107,29.7837,40,100
+749,Ntr,Andhra Pradesh,36.8934,108,25.5719,106,110
+510,Krishna,Andhra Pradesh,36.8934,108,25.5719,106,110
+751,Palnadu,Andhra Pradesh,35.2645,110,24.2832,111,112
+750,Bapatla,Andhra Pradesh,35.2645,110,24.2832,111,112
+519,Srikakulam,Andhra Pradesh,35.2247,112,23.529,109,114
+744,Anakapalli,Andhra Pradesh,34.5667,113,24.0124,114,115
+534,Dakshina Kannada,Karnataka,34.4997,114,25.218,116,116
+550,Uttara Kannada,Karnataka,34.4246,115,25.0017,117,117
+599,Mahe,Puducherry,33.5873,116,12.0575,130,118
+533,Chitradurga,Karnataka,33.1055,117,24.5891,122,119
+532,Chikkamagaluru,Karnataka,33.0386,118,24.3771,120,120
+547,Shivamogga,Karnataka,32.8866,119,24.5109,123,121
+506,Guntur,Andhra Pradesh,32.7963,120,17.6188,124,122
+535,Davangere,Karnataka,32.5674,121,24.3436,125,123
+549,Udupi,Karnataka,31.9249,122,22.6237,118,124
+538,Kalaburagi,Karnataka,31.9112,123,22.1416,131,125
+544,Mandya,Karnataka,31.8792,124,22.2625,119,126
+541,Kodagu,Karnataka,31.5851,125,22.609,121,127
+635,Yadgir,Karnataka,31.5116,126,24.5713,76,128
+546,Raichur,Karnataka,31.2617,127,25.5404,69,130
+507,Hyderabad,Telangana,31.0078,128,23.8869,127,87
+526,Bengaluru Rural,Karnataka,30.5181,129,22.6843,126,131
+543,Koppal,Karnataka,29.8058,130,22.2484,137,133
+527,Belagavi,Karnataka,29.6904,131,18.9967,146,134
+700,Medchal Malkajgiri,Telangana,29.0467,132,26.2653,147,83
+524,Bagalkote,Karnataka,29.0359,133,21.9265,139,135
+601,Yanam,Puducherry,28.9544,134,11.2265,136,136
+545,Mysuru,Karnataka,28.774,135,21.9632,132,132
+600,Puducherry,Puducherry,28.6579,136,20.4778,128,129
+528,Ballari,Karnataka,28.5282,137,21.2959,141,137
+738,Vijayanagar,Karnataka,28.5282,137,21.2959,141,137
+530,Vijayapura,Karnataka,28.3404,139,21.4018,143,139
+531,Chamarajanagara,Karnataka,28.1808,140,21.388,133,141
+540,Haveri,Karnataka,27.8939,141,21.2036,138,142
+542,Kolar,Karnataka,27.6829,142,20.488,129,143
+630,Chikkaballapura,Karnataka,27.656,143,21.1495,135,144
+536,Dharwad,Karnataka,27.5917,144,20.6383,140,145
+529,Bidar,Karnataka,27.3128,145,20.9915,144,146
+537,Gadag,Karnataka,27.0407,146,20.6577,145,147
+631,Ramanagara,Karnataka,26.6946,147,19.9755,134,148
+525,Bengaluru Urban,Karnataka,24.3506,148,19.7733,148,140

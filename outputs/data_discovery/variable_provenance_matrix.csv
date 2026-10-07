@@ -1,0 +1,18 @@
+variable,source_dataset,source_organization,source_year,geographic_level,unit,raw_or_derived,provenance_class,direct_observed,inherited,imputed,proxy,synthetic,transformation,potential_bias,potential_leakage,confidence
+nfhs_hypertension_combined_pct,NFHS-5 Factsheet,MoHFW / IIPS,2019-21,DISTRICT,Percentage (%),RAW_EXTRACTED,DIRECT_OBSERVED,124,23,1,0,0,Weighted mean of men and women prevalence,Sampling variability in small districts,NONE,VERY_HIGH
+nfhs_diabetes_combined_pct,NFHS-5 Factsheet,MoHFW / IIPS,2019-21,DISTRICT,Percentage (%),RAW_EXTRACTED,DIRECT_OBSERVED,124,23,1,0,0,Weighted mean of men and women blood sugar >140mg/dl,Random blood glucose measurement,NONE,VERY_HIGH
+nfhs_stunting_pct,NFHS-5 Factsheet,MoHFW / IIPS,2019-21,DISTRICT,Percentage (%),RAW_EXTRACTED,DIRECT_OBSERVED,124,23,1,0,0,Height-for-age < -2SD,None,NONE,VERY_HIGH
+nfhs_wasting_pct,NFHS-5 Factsheet,MoHFW / IIPS,2019-21,DISTRICT,Percentage (%),RAW_EXTRACTED,DIRECT_OBSERVED,124,23,1,0,0,Weight-for-height < -2SD,None,NONE,VERY_HIGH
+nfhs_underweight_pct,NFHS-5 Factsheet,MoHFW / IIPS,2019-21,DISTRICT,Percentage (%),RAW_EXTRACTED,DIRECT_OBSERVED,124,23,1,0,0,Weight-for-age < -2SD,None,NONE,VERY_HIGH
+nfhs_clean_fuel_pct,NFHS-5 Factsheet,MoHFW / IIPS,2019-21,DISTRICT,Percentage (%),RAW_EXTRACTED,DIRECT_OBSERVED,124,23,1,0,0,Direct extraction,None,NONE,VERY_HIGH
+nfhs_sanitation_pct,NFHS-5 Factsheet,MoHFW / IIPS,2019-21,DISTRICT,Percentage (%),RAW_EXTRACTED,DIRECT_OBSERVED,124,23,1,0,0,Direct extraction,None,NONE,VERY_HIGH
+nfhs_insurance_pct,NFHS-5 Factsheet,MoHFW / IIPS,2019-21,DISTRICT,Percentage (%),RAW_EXTRACTED,DIRECT_OBSERVED,124,23,1,0,0,Direct extraction,None,NONE,VERY_HIGH
+nfhs_oope_delivery_rs,NFHS-5 Factsheet,MoHFW / IIPS,2019-21,DISTRICT,INR (Rupees),RAW_EXTRACTED,DIRECT_OBSERVED,124,23,1,0,0,Direct extraction,Recall bias on delivery costs,NONE,HIGH
+rhs_phc_density_per_100k,MoHFW RHS Table,MoHFW,2021-22,DISTRICT,Count per 100k pop,DERIVED_RATE,DIRECT_OBSERVED,97,25,26,0,0,"PHC Count / (Population / 100,000)",Public facility reporting only,NONE,HIGH
+rhs_chc_density_per_100k,MoHFW RHS Table,MoHFW,2021-22,DISTRICT,Count per 100k pop,DERIVED_RATE,DIRECT_OBSERVED,97,25,26,0,0,"CHC Count / (Population / 100,000)",Public facility reporting only,NONE,HIGH
+rhs_subcentre_density_per_100k,MoHFW RHS Table,MoHFW,2021-22,DISTRICT,Count per 100k pop,DERIVED_RATE,DIRECT_OBSERVED,97,25,26,0,0,"Sub-centre Count / (Population / 100,000)",Public facility reporting only,NONE,HIGH
+jan_aushadhi_density_per_100k,PMBJP State PDFs,PMBI,2023-24,OUTLET,Count per 100k pop,DERIVED_RATE,DIRECT_OBSERVED,146,0,2,0,0,"Aggregated Kendra Count / (Population / 100,000)",Address parsing coverage,NONE,VERY_HIGH
+mca21_pharma_density_per_100k,MCA21 Corporate Master,MCA,2024,COMPANY,Count per 100k pop,DERIVED_RATE,DIRECT_OBSERVED,148,0,0,0,0,"Filtered Active NIC 210/Pharma Companies / (Population / 100,000)",Headquarter effect in state capitals,NONE,VERY_HIGH
+census_total_population,Census 2011 PCA,RGI / Census,2011,DISTRICT,Persons,RAW_EXTRACTED,DIRECT_OBSERVED,108,25,15,0,0,Direct extraction & decadal scaling,2011 vintage baseline,NONE,HIGH
+census_urban_population_pct,Census 2011 PCA,RGI / Census,2011,DISTRICT,Percentage (%),RAW_EXTRACTED,DIRECT_OBSERVED,108,25,15,0,0,Urban pop / Total pop * 100,Urban agglomeration growth post-2011,NONE,HIGH
+niti_aspirational_district_flag,NITI Aayog Registry,NITI Aayog,2018-24,DISTRICT,"Binary [0, 1]",RAW_EXTRACTED,DIRECT_OBSERVED,148,0,0,0,0,Direct official assignment,Policy designation,NONE,PERFECT

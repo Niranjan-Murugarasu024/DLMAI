@@ -1,0 +1,50 @@
+# South India DLMAI Geographic Scope Configuration
+version: "2.0.0"
+region_name: "South India"
+description: "Authoritative geographic configuration for South India Regional Pharmaceutical Market Attractiveness Index"
+
+target_states:
+  - state_name: "Tamil Nadu"
+    state_code: "TN"
+    state_lgd_code: 33
+    total_districts: 38
+
+  - state_name: "Kerala"
+    state_code: "KL"
+    state_lgd_code: 32
+    total_districts: 14
+
+  - state_name: "Karnataka"
+    state_code: "KA"
+    state_lgd_code: 29
+    total_districts: 31
+
+  - state_name: "Andhra Pradesh"
+    state_code: "AP"
+    state_lgd_code: 28
+    total_districts: 26
+
+  - state_name: "Telangana"
+    state_code: "TS"
+    state_lgd_code: 36
+    total_districts: 33
+
+  - state_name: "Goa"
+    state_code: "GA"
+    state_lgd_code: 30
+    total_districts: 2
+
+  - state_name: "Puducherry"
+    state_code: "PY"
+    state_lgd_code: 34
+    total_districts: 4
+
+summary:
+  total_states: 7
+  total_canonical_districts: 148
+
+master_files:
+  national_lgd_master: "data/master/lgd_master.csv"
+  national_lgd_districts: "data/master/lgd_districts.csv.csv"
+  south_india_lgd_master: "data/master/lgd_south_india.csv"
+  south_india_crosswalk: "data/master/district_crosswalk_south.csv"

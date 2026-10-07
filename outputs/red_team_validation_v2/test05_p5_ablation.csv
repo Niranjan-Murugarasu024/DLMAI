@@ -1,0 +1,4 @@
+model_specification,spearman_rho,kendall_tau,pearson_r,top_5_overlap_pct,top_10_overlap_pct,top_20_overlap_pct,tier_agreement_pct,mean_abs_rank_change,max_rank_change
+"Model 1: Baseline (P5 as Dampener, lambda=0.15)",1.0,0.9999,1.0,100.0,100.0,100.0,100.0,0.02,1
+"Model 2: Ablation (No P5, lambda=0.0)",0.9807,0.9495,0.9744,100.0,100.0,95.0,91.9,3.55,59
+Model 3: Construct Alternative (P5 as Positive Opportunity Driver),0.9645,0.9311,0.9611,100.0,90.0,95.0,89.2,4.86,75

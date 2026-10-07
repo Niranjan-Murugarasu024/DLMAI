@@ -1,0 +1,42 @@
+# South India DLMAI Scoring Configuration
+version: "2.0.0"
+
+normalization:
+  method: "minmax"
+  scale_min: 0.0
+  scale_max: 100.0
+  fallback_constant: 50.0
+
+intra_pillar_weighting:
+  method: "shannon_entropy"
+  epsilon: 0.000001
+  fallback_method: "equal_weights"
+
+aggregation:
+  primary_method: "linear_driver_dampener"
+  benchmark_method: "geometric_mean"
+  geometric_epsilon: 1.0
+
+tiering:
+  method: "quantile_percentiles"
+  tiers:
+    - tier_code: "Tier 1"
+      name: "High Priority Markets"
+      min_percentile: 80.0
+      max_percentile: 100.0
+      description: "Top 20% South Indian districts; immediate specialty field force deployment, tertiary hospital KAM empanelment, stockist hubs."
+    - tier_code: "Tier 2"
+      name: "Growth Markets"
+      min_percentile: 50.0
+      max_percentile: 80.0
+      description: "50th to 80th percentile; retail pharmacy expansion, secondary hospital prescriber coverage."
+    - tier_code: "Tier 3"
+      name: "Moderate Opportunity"
+      min_percentile: 20.0
+      max_percentile: 50.0
+      description: "20th to 50th percentile; generic portfolio alignment, distributor-led fulfillment."
+    - tier_code: "Tier 4"
+      name: "Nascent / Rural"
+      min_percentile: 0.0
+      max_percentile: 20.0
+      description: "Bottom 20%; government tender procurement, primary clinic coverage."

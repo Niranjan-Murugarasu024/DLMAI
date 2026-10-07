@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+.pytest_cache/
+.vscode/
+.idea/
+
+# Real downloaded source PDFs/CSVs (large, and likely under government
+# redistribution terms you should review before committing -- see
+# docs/DLMAI_Publishing_Deployment_Guide.md). Keep the small mock_* files
+# tracked; ignore a real bulk data/raw/ directory if you add one.
+data/raw/
+
+# Generated outputs are reproducible from source -- track them if you
+# want history of past scores, or ignore them if outputs/ should only
+# ever reflect the latest scheduled refresh. Uncomment to ignore:
+# outputs/*.csv
+# outputs/*.json

@@ -1,0 +1,6 @@
+model,variable,coefficient,std_error,t_statistic,r_squared
+Model 1: DLMAI ~ observed_pct,observed_pct,-0.0273,0.0271,-1.007,0.0069
+Model 2: DLMAI ~ inherited_pct,inherited_pct,0.0714,0.0513,1.39,0.0131
+Model 3: DLMAI ~ imputed_pct,imputed_pct,0.0251,0.0496,0.505,0.0017
+Model 4: DLMAI ~ observed + log(pop),observed_pct,-0.027,0.0272,-0.993,0.0094
+Model 4: DLMAI ~ observed + log(pop),log_pop,-1.2701,2.1003,-0.605,0.0094

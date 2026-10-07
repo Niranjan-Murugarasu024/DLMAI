@@ -1,0 +1,21 @@
+indicator,pillar,construct_measured,commercial_relevance,healthcare_need,market_opportunity,direction,conceptual_risk,recommendation
+nfhs_hypertension_combined_pct,P1,Adult Hypertension Prevalence,High,High,High (Chronic CV Rx volume),POSITIVE,Low,Retain as primary demand driver
+nfhs_diabetes_combined_pct,P1,Adult Diabetes Prevalence,High,High,High (Chronic metabolic Rx volume),POSITIVE,Low,Retain as primary demand driver
+nfhs_stunting_pct,P1,Child Stunting (Height-for-Age),Moderate,High,Moderate (Pediatric micronutrients/vitamins),POSITIVE,Moderate (Deprivation proxy; risk of confusing poverty with demand),Retain with documented qualification; moderated by P2 affordability
+nfhs_wasting_pct,P1,Child Wasting (Weight-for-Height),Moderate,High,Moderate (Pediatric acute therapy/antibiotics),POSITIVE,Moderate (Poverty co-occurrence),Retain; moderated by P2/P3
+nfhs_underweight_pct,P1,Child Underweight (Weight-for-Age),Moderate,High,Moderate (Pediatric nutrition/anti-infectives),POSITIVE,Moderate (Poverty co-occurrence),Retain; moderated by P2/P3
+census_urban_population_pct,P1,Urban Population Share,High,Moderate,"High (Willingness to pay, organized retail pharmacy reach)",POSITIVE,Low,Retain
+census_population_age_0_6_pct,P1,Pediatric Demographic Cohort Share,Moderate,Moderate,Moderate (Addressable pediatric base),POSITIVE,Low,Retain
+nfhs_insurance_pct,P2,Health Insurance / Public Scheme Coverage,High,Neutral,"High (Lowers OOPE barrier, enables standard-of-care hospital Rx)",POSITIVE,Low,Retain as primary access indicator
+nfhs_clean_fuel_pct,P2,Household Clean Fuel Usage,High,Neutral,High (Household disposable income proxy),POSITIVE,Moderate (High correlation with sanitation r=0.72),Retain; standard econometric income proxy
+nfhs_sanitation_pct,P2,Improved Sanitation Usage,Moderate,Neutral,Moderate (Household living standards proxy),POSITIVE,Moderate (Collinear with clean fuel),Retain
+nfhs_oope_delivery_rs,P2,Out-of-Pocket Delivery Expenditure,High,Neutral,Inverted (High OOPE = Medical financial toxicity),NEGATIVE,Low,Retain with inverted normalization
+rhs_phc_density_per_100k,P3,PHC Density per 100k Population,High,Neutral,High (Primary prescription generation touchpoints),POSITIVE,Moderate (Rural RHS bias undercounts metro clinics),Retain; state-level & peer matching moderates urban gap
+rhs_chc_density_per_100k,P3,CHC Density per 100k Population,High,Neutral,High (Secondary inpatient pharmacy stocking),POSITIVE,Moderate (Rural RHS focus),Retain
+rhs_subcentre_density_per_100k,P3,Sub-Centre Density per 100k Population,Moderate,Neutral,Moderate (Grassroots essential medicine reach),POSITIVE,Low,Retain
+rhs_hospital_presence,P3,Secondary/Tertiary Hospital Presence,High,Neutral,High (Specialist physician & surgical pharma demand),POSITIVE,Low,Retain
+jan_aushadhi_density_per_100k,P4,Jan Aushadhi Kendra Density,High,Neutral,High (Retail trade reach & generic acceptance),POSITIVE,Moderate (Dual interpretation: opportunity vs existing trade channel),Retain as single P4 scored indicator; raw count descriptive
+mca21_pharma_density_per_100k,P5,Active Pharma Corporate Density,High,Neutral,DAMPENER (Competitive saturation & price erosion),SATURATION_DAMPENER,Moderate (Corporate HQ vs local sales competition proxy),Retain as subtractive penalty with configurable lambda=0.15
+niti_aspirational_district_flag,P6,Aspirational District Priority Status,Moderate,Moderate,Moderate (Government grant focus & CSR funding),POSITIVE,High (Dual signal: priority development vs baseline backwardness),Retain with low weight (5.85%); sensitivity tested
+census_decadal_growth_pct,P7,Decadal Population Growth,High,Neutral,High (Expanding patient baseline),POSITIVE,Low,Retain
+census_literacy_rate_pct,P7,District Literacy Rate,High,Neutral,"High (Health awareness, prescription adherence, OTC adoption)",POSITIVE,Moderate (Could fit P2 or P7; placed in P7 as market development),Retain in P7

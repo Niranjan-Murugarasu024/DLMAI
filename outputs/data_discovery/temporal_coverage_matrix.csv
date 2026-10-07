@@ -1,0 +1,8 @@
+dataset_id,reference_period,publication_year,frequency,temporal_type,combinable,implication
+DS_01_LGD_MASTER,2023-2024,2024,Continuous / Dynamic,Cross-Sectional Baseline,True,Authoritative current boundary universe for all joins
+DS_03_NFHS5_DISTRICT,2019-2021,2021,Decennial / Quinquennial,Cross-Sectional Survey,True,Gold standard epidemiological & maternal-child prevalence baseline
+DS_05_RHS_HEALTHCARE,2021-2022,2022,Annual,Administrative Panel,True,Current public healthcare facility supply
+DS_06_JAN_AUSHADHI,2023-2024,2024,Quarterly / Live,Administrative Point Registry,True,Current generic medicine retail access point network
+DS_07_MCA21_CORPORATE,Cumulative to 2024,2024,Continuous,Administrative Stock Registry,True,Cumulative active corporate pharmaceutical presence & capital base
+DS_08_CENSUS_PCA,2011,2013,Decennial,Cross-Sectional Census,True,Historical baseline; requires population growth adjustment to 2024
+DS_09_SECC_SOCIOECONOMIC,2011-2012,2015,One-off,Cross-Sectional Survey,False,State-level asset ownership baseline only

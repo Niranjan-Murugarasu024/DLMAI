@@ -1,0 +1,3 @@
+iterations,random_seed,perturbation_sigma,mean_spearman_rho,median_spearman_rho,p05_spearman_rho,p95_spearman_rho,mean_kendall_tau,p05_kendall_tau,p95_kendall_tau,stability_class
+1000,42,0.2,0.9922,0.9936,0.981,0.9983,0.9365,0.888,0.9722,HIGHLY_STABLE (Mean Rho > 0.95)
+5000,42,0.2,0.992,0.9935,0.98,0.9984,0.9358,0.8871,0.9731,HIGHLY_STABLE (5k Convergence Check)

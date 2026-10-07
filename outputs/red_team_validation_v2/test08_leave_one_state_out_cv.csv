@@ -1,0 +1,8 @@
+held_out_state,district_count_n,spearman_rho,r_squared,mae_inr_cr,rmse_inr_cr,confidence_interval_95,interpretability_flag
+Andhra Pradesh,26,0.0236,-0.0418,99.46,128.86,"[-0.27, 0.32]",VALID_SAMPLE_SIZE
+Goa,2,N/A,N/A,172.28,179.47,N/A (Small sample size),INSUFFICIENT_SAMPLE_FOR_STRONG_INFERENCE (n < 10)
+Karnataka,31,-0.0188,-0.0015,182.64,453.51,"[-0.31, 0.28]",VALID_SAMPLE_SIZE
+Kerala,14,0.0505,-1.9307,303.54,371.74,"[-0.24, 0.34]",VALID_SAMPLE_SIZE
+Puducherry,4,0.4,-3.6676,270.06,297.97,N/A (Small sample size),INSUFFICIENT_SAMPLE_FOR_STRONG_INFERENCE (n < 10)
+Tamil Nadu,38,-0.1191,-0.1111,107.8,218.24,"[-0.41, 0.17]",VALID_SAMPLE_SIZE
+Telangana,33,-0.0896,-1.2952,206.15,225.71,"[-0.38, 0.2]",VALID_SAMPLE_SIZE

@@ -1,0 +1,4 @@
+experiment,spearman_rho,interpretation
+MI_Pure vs MS_x_MI_Interaction,0.8869,Decouples scale volume from per-capita clinical need
+MI_Pure vs MI_with_OOPE_Positive (w=0.05),0.9922,OOPE has minimal distortion when down-weighted to 0.05
+MI_with_OOPE_Positive vs MI_with_OOPE_Cost,0.9688,Directional ambiguity contained within 95%+ rank stability

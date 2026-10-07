@@ -1,0 +1,149 @@
+lgd_district_code,district_name,state_name,market_size_score,market_intensity_score,pcei_corporate_ecosystem_score,pcei_m_manufacturing_density,pcei_c_corporate_density,pcei_h_healthcare_density,market_intensity_rank,pcei_corporate_rank,strategic_quadrant,rank_stability_pct,mi_rank_95_ci,data_confidence_level,observed_data_pct,inherited_data_pct,imputed_data_pct
+563,Palakkad,Kerala,61.91,54.25,4.06,3.27,3.82,4.77,1,18,Q1: Battleground Core (High Intensity / High Concentration),99.0,"[1, 2]",MODERATE,33.3,0.0,0.0
+731,Ranipet,Tamil Nadu,61.91,53.19,0.15,0.27,0.14,0.05,2,85,Q2: Prime Expansion (High Intensity / Low Concentration),93.5,"[1, 6]",MODERATE,0.0,39.4,0.0
+595,Vellore,Tamil Nadu,61.91,53.19,1.63,1.14,1.91,1.55,2,33,Q1: Battleground Core (High Intensity / High Concentration),96.6,"[2, 5]",MODERATE,33.3,0.0,0.0
+732,Tirupathur,Tamil Nadu,61.91,53.19,0.07,0.09,0.05,0.09,2,107,Q2: Prime Expansion (High Intensity / Low Concentration),93.9,"[2, 6]",MODERATE,0.0,39.4,0.0
+733,Tenkasi,Tamil Nadu,61.91,52.7,0.13,0.14,0.05,0.14,5,89,Q2: Prime Expansion (High Intensity / Low Concentration),91.9,"[2, 9]",MODERATE,0.0,39.4,0.0
+592,Tirunelveli,Tamil Nadu,61.91,52.7,1.0,1.0,0.91,0.86,5,47,Q1: Battleground Core (High Intensity / High Concentration),96.7,"[3, 6]",MODERATE,33.3,0.0,0.0
+689,Jangoan,Telangana,61.91,51.45,0.02,0.0,0.0,0.05,7,122,Q2: Prime Expansion (High Intensity / Low Concentration),89.7,"[6, 15]",MODERATE,33.3,12.1,0.0
+686,Hanumakonda,Telangana,61.91,51.45,0.02,0.0,0.05,0.0,8,122,Q2: Prime Expansion (High Intensity / Low Concentration),90.0,"[6, 15]",MODERATE,33.3,12.1,0.0
+566,Thrissur,Kerala,61.91,51.35,6.1,5.45,5.59,6.91,9,13,Q1: Battleground Core (High Intensity / High Concentration),95.8,"[7, 11]",MODERATE,33.3,0.0,0.0
+687,Jayashankar Bhupalapally,Telangana,61.91,51.07,0.0,0.0,0.0,0.0,10,132,Q2: Prime Expansion (High Intensity / Low Concentration),87.6,"[7, 17]",MODERATE,33.3,12.1,0.0
+572,Dindigul,Tamil Nadu,61.91,51.0,0.74,1.41,0.36,0.36,11,52,Q1: Battleground Core (High Intensity / High Concentration),95.5,"[9, 13]",MODERATE,33.3,0.0,0.0
+729,Kallakurichi,Tamil Nadu,61.91,50.87,0.07,0.0,0.09,0.09,12,107,Q2: Prime Expansion (High Intensity / Low Concentration),81.6,"[7, 23]",MODERATE,0.0,39.4,0.0
+596,Viluppuram,Tamil Nadu,61.91,50.87,0.06,0.0,0.05,0.09,12,110,Q2: Prime Expansion (High Intensity / Low Concentration),95.7,"[11, 15]",MODERATE,33.3,0.0,0.0
+559,Kollam,Kerala,61.91,50.83,2.89,2.73,2.59,3.59,14,21,Q1: Battleground Core (High Intensity / High Concentration),95.8,"[12, 16]",MODERATE,33.3,0.0,0.0
+682,Peddapalli,Telangana,61.91,50.82,0.04,0.0,0.0,0.09,15,116,Q2: Prime Expansion (High Intensity / Low Concentration),87.6,"[7, 18]",MODERATE,33.3,12.1,0.0
+568,Chennai,Tamil Nadu,81.23,50.66,31.45,31.44,34.84,25.23,16,4,Q1: Battleground Core (High Intensity / High Concentration),79.4,"[7, 24]",MODERATE,33.3,0.0,12.1
+585,Sivaganga,Tamil Nadu,61.91,50.31,0.26,0.09,0.18,0.36,17,78,Q2: Prime Expansion (High Intensity / Low Concentration),95.9,"[15, 18]",MODERATE,33.3,0.0,0.0
+586,Thanjavur,Tamil Nadu,61.91,49.9,1.02,1.05,1.36,0.64,18,45,Q1: Battleground Core (High Intensity / High Concentration),95.5,"[17, 21]",MODERATE,33.3,0.0,0.0
+685,Kamareddy,Telangana,61.91,49.79,0.06,0.0,0.09,0.05,19,110,Q2: Prime Expansion (High Intensity / Low Concentration),85.6,"[14, 27]",MODERATE,33.3,12.1,0.0
+720,Mulugu,Telangana,61.91,49.75,0.04,0.0,0.05,0.05,20,116,Q2: Prime Expansion (High Intensity / Low Concentration),78.9,"[12, 32]",MODERATE,0.0,39.4,0.0
+522,Warangal,Telangana,61.91,49.75,1.24,0.86,1.55,1.0,20,39,Q1: Battleground Core (High Intensity / High Concentration),95.3,"[19, 23]",MODERATE,33.3,0.0,0.0
+514,Nalgonda,Telangana,61.91,49.66,0.87,0.64,1.09,0.59,22,48,Q1: Battleground Core (High Intensity / High Concentration),95.1,"[20, 25]",MODERATE,33.3,0.0,0.0
+696,Suryapet,Telangana,61.91,49.54,0.02,0.0,0.05,0.0,23,122,Q2: Prime Expansion (High Intensity / Low Concentration),85.8,"[16, 28]",MODERATE,33.3,12.1,0.0
+593,Tiruvannamalai,Tamil Nadu,61.91,49.46,0.37,0.14,0.5,0.36,24,71,Q1: Battleground Core (High Intensity / High Concentration),94.8,"[22, 27]",MODERATE,33.3,0.0,0.0
+694,Nagarkurnool,Telangana,61.91,49.2,0.04,0.0,0.05,0.05,25,116,Q2: Prime Expansion (High Intensity / Low Concentration),75.0,"[14, 41]",MODERATE,33.3,0.0,12.1
+591,Tiruchirappalli,Tamil Nadu,67.39,49.15,1.65,0.92,1.88,1.76,26,31,Q1: Battleground Core (High Intensity / High Concentration),75.0,"[15, 47]",MODERATE,33.3,0.0,12.1
+509,Khammam,Telangana,61.91,48.86,0.63,0.5,0.73,0.64,27,60,Q1: Battleground Core (High Intensity / High Concentration),94.3,"[26, 31]",MODERATE,33.3,0.0,0.0
+747,Dr. B.R. Ambedkar Konaseema,Andhra Pradesh,61.91,48.64,0.02,0.05,0.0,0.0,28,122,Q2: Prime Expansion (High Intensity / Low Concentration),75.0,"[21, 44]",MODERATE,0.0,39.4,0.0
+746,Kakinada,Andhra Pradesh,61.91,48.64,0.11,0.23,0.09,0.05,28,97,Q2: Prime Expansion (High Intensity / Low Concentration),76.3,"[22, 41]",MODERATE,0.0,39.4,0.0
+505,East Godavari,Andhra Pradesh,61.91,48.64,2.26,2.0,2.27,1.86,28,27,Q1: Battleground Core (High Intensity / High Concentration),94.2,"[28, 33]",MODERATE,33.3,0.0,0.0
+681,Jagitial,Telangana,61.91,48.63,0.0,0.0,0.0,0.0,31,132,Q2: Prime Expansion (High Intensity / Low Concentration),82.7,"[25, 40]",MODERATE,33.3,12.1,0.0
+575,Kanniyakumari,Tamil Nadu,61.91,48.55,0.02,0.0,0.0,0.05,32,122,Q2: Prime Expansion (High Intensity / Low Concentration),75.0,"[22, 46]",MODERATE,33.3,0.0,12.1
+561,Kozhikode,Kerala,61.91,48.34,6.96,3.14,6.23,9.55,33,11,Q1: Battleground Core (High Intensity / High Concentration),93.8,"[31, 36]",MODERATE,33.3,0.0,0.0
+508,Karimnagar,Telangana,61.91,48.19,0.67,0.5,0.59,0.77,34,59,Q1: Battleground Core (High Intensity / High Concentration),93.7,"[32, 38]",MODERATE,33.3,0.0,0.0
+554,Alappuzha,Kerala,61.91,48.15,6.2,6.82,6.09,6.91,35,12,Q1: Battleground Core (High Intensity / High Concentration),93.4,"[34, 40]",MODERATE,33.3,0.0,0.0
+690,Bhadradri Kothagudem,Telangana,61.91,48.12,0.0,0.0,0.0,0.0,36,132,Q2: Prime Expansion (High Intensity / Low Concentration),79.2,"[26, 45]",MODERATE,33.3,12.1,0.0
+683,Rajanna Sircilla,Telangana,61.91,48.05,0.0,0.0,0.0,0.0,37,132,Q2: Prime Expansion (High Intensity / Low Concentration),79.4,"[28, 47]",MODERATE,33.3,12.1,0.0
+721,Narayanpet,Telangana,61.91,47.88,0.0,0.0,0.0,0.0,38,132,Q2: Prime Expansion (High Intensity / Low Concentration),75.0,"[20, 53]",MODERATE,0.0,27.3,12.1
+512,Mahabubnagar,Telangana,61.91,47.88,0.15,0.09,0.27,0.05,38,85,Q2: Prime Expansion (High Intensity / Low Concentration),75.0,"[21, 55]",MODERATE,33.3,0.0,12.1
+693,Wanaparthy,Telangana,61.91,47.85,0.02,0.0,0.0,0.05,40,122,Q2: Prime Expansion (High Intensity / Low Concentration),75.0,"[21, 55]",MODERATE,33.3,0.0,12.1
+565,Thiruvananthapuram,Kerala,72.38,47.79,4.69,2.03,4.21,6.61,41,16,Q1: Battleground Core (High Intensity / High Concentration),93.5,"[37, 43]",MODERATE,33.3,0.0,0.0
+583,Ramanathapuram,Tamil Nadu,61.91,47.76,0.06,0.0,0.09,0.05,42,110,Q2: Prime Expansion (High Intensity / Low Concentration),75.0,"[23, 53]",MODERATE,33.3,0.0,12.1
+695,Jogulamba Gadwal,Telangana,61.91,47.74,0.0,0.0,0.0,0.0,43,132,Q2: Prime Expansion (High Intensity / Low Concentration),75.0,"[25, 54]",MODERATE,33.3,0.0,12.1
+688,Mahabubabad,Telangana,61.91,47.58,0.09,0.0,0.14,0.09,44,101,Q2: Prime Expansion (High Intensity / Low Concentration),84.6,"[35, 49]",MODERATE,33.3,12.1,0.0
+513,Medak,Telangana,61.91,47.38,4.56,4.91,7.32,1.59,45,17,Q1: Battleground Core (High Intensity / High Concentration),93.9,"[40, 46]",MODERATE,33.3,0.0,0.0
+735,Mayiladuthurai,Tamil Nadu,61.91,47.35,0.11,0.09,0.09,0.14,46,97,Q2: Prime Expansion (High Intensity / Low Concentration),75.0,"[30, 56]",MODERATE,0.0,39.4,0.0
+579,Nagapattinam,Tamil Nadu,61.91,47.35,0.13,0.14,0.09,0.14,46,89,Q2: Prime Expansion (High Intensity / Low Concentration),94.1,"[42, 48]",MODERATE,33.3,0.0,0.0
+699,Kumuram Bheem Asifabad,Telangana,61.91,47.16,0.0,0.0,0.0,0.0,48,132,Q2: Prime Expansion (High Intensity / Low Concentration),83.8,"[38, 55]",MODERATE,33.3,12.1,0.0
+501,Adilabad,Telangana,61.91,47.06,18.89,18.82,26.32,9.77,49,5,Q1: Battleground Core (High Intensity / High Concentration),94.9,"[45, 50]",MODERATE,33.3,0.0,0.0
+518,Ranga Reddy,Telangana,61.91,46.82,0.69,0.95,0.95,0.14,50,55,Q1: Battleground Core (High Intensity / High Concentration),75.0,"[35, 64]",MODERATE,33.3,0.0,12.1
+555,Ernakulam,Kerala,72.22,46.79,10.09,8.08,7.5,13.29,51,8,Q1: Battleground Core (High Intensity / High Concentration),94.8,"[47, 52]",MODERATE,33.3,0.0,0.0
+560,Kottayam,Kerala,61.91,46.56,2.76,2.5,2.27,3.77,52,23,Q1: Battleground Core (High Intensity / High Concentration),95.4,"[49, 54]",MODERATE,33.3,0.0,0.0
+589,Thiruvallur,Tamil Nadu,61.91,46.49,0.69,0.64,0.73,0.55,53,55,Q1: Battleground Core (High Intensity / High Concentration),95.6,"[51, 55]",MODERATE,33.3,0.0,0.0
+697,Yadadri Bhuvanagiri,Telangana,61.91,46.4,0.0,0.0,0.0,0.0,54,132,Q2: Prime Expansion (High Intensity / Low Concentration),86.3,"[45, 60]",MODERATE,33.3,12.1,0.0
+574,Kancheepuram,Tamil Nadu,61.91,46.13,1.45,1.45,1.5,1.05,55,36,Q1: Battleground Core (High Intensity / High Concentration),94.6,"[53, 58]",MODERATE,33.3,0.0,0.0
+730,Chengalpattu,Tamil Nadu,61.91,46.13,0.59,0.5,0.95,0.41,55,61,Q1: Battleground Core (High Intensity / High Concentration),75.8,"[44, 68]",MODERATE,0.0,39.4,0.0
+692,Siddipet,Telangana,61.91,46.09,0.04,0.05,0.09,0.0,57,116,Q2: Prime Expansion (High Intensity / Low Concentration),87.0,"[50, 63]",MODERATE,33.3,12.1,0.0
+582,Pudukkottai,Tamil Nadu,61.91,45.9,0.32,0.32,0.18,0.27,58,73,Q1: Battleground Core (High Intensity / High Concentration),95.4,"[55, 60]",MODERATE,33.3,0.0,0.0
+684,Mancherial,Telangana,61.91,45.84,0.0,0.0,0.0,0.0,59,132,Q2: Prime Expansion (High Intensity / Low Concentration),83.2,"[52, 68]",MODERATE,33.3,12.1,0.0
+573,Erode,Tamil Nadu,61.91,45.74,2.13,2.59,1.77,1.64,60,28,Q1: Battleground Core (High Intensity / High Concentration),95.9,"[57, 61]",MODERATE,33.3,0.0,0.0
+594,Thoothukkudi,Tamil Nadu,61.91,45.73,0.04,0.0,0.05,0.05,61,116,Q2: Prime Expansion (High Intensity / Low Concentration),95.9,"[58, 62]",MODERATE,33.3,0.0,0.0
+557,Kannur,Kerala,61.91,45.7,2.54,1.86,1.91,3.55,62,24,Q1: Battleground Core (High Intensity / High Concentration),95.9,"[59, 63]",MODERATE,33.3,0.0,0.0
+552,South Goa,Goa,30.03,45.54,5.04,4.69,5.16,3.91,63,15,Q1: Battleground Core (High Intensity / High Concentration),96.2,"[61, 65]",MODERATE,33.3,0.0,0.0
+700,Medchal Malkajgiri,Telangana,61.91,45.49,0.26,0.23,0.36,0.14,64,78,Q2: Prime Expansion (High Intensity / Low Concentration),75.0,"[43, 77]",MODERATE,33.3,0.0,12.1
+516,Nizamabad,Telangana,61.91,45.21,0.58,0.41,0.45,0.64,65,62,Q1: Battleground Core (High Intensity / High Concentration),96.4,"[63, 67]",MODERATE,33.3,0.0,0.0
+556,Idukki,Kerala,61.91,45.05,1.47,1.45,1.41,1.73,66,35,Q1: Battleground Core (High Intensity / High Concentration),96.2,"[65, 68]",MODERATE,33.3,0.0,0.0
+580,Namakkal,Tamil Nadu,61.91,45.03,0.74,0.68,1.0,0.45,67,52,Q1: Battleground Core (High Intensity / High Concentration),96.3,"[66, 69]",MODERATE,33.3,0.0,0.0
+564,Pathanamthitta,Kerala,61.91,45.02,1.02,0.95,1.14,1.27,68,45,Q1: Battleground Core (High Intensity / High Concentration),96.2,"[67, 70]",MODERATE,33.3,0.0,0.0
+590,Thiruvarur,Tamil Nadu,61.91,45.0,0.13,0.14,0.23,0.09,69,89,Q2: Prime Expansion (High Intensity / Low Concentration),96.2,"[68, 71]",MODERATE,33.3,0.0,0.0
+691,Sangareddy,Telangana,61.91,44.98,0.11,0.23,0.18,0.0,70,97,Q2: Prime Expansion (High Intensity / Low Concentration),83.9,"[59, 73]",MODERATE,33.3,12.1,0.0
+598,Karaikal,Puducherry,0.0,44.88,36.73,50.0,43.5,19.0,71,3,Q1: Battleground Core (High Intensity / High Concentration),96.4,"[69, 73]",MODERATE,33.3,0.0,0.0
+576,Karur,Tamil Nadu,61.91,44.52,0.56,0.5,0.45,0.5,72,64,Q1: Battleground Core (High Intensity / High Concentration),96.3,"[71, 74]",MODERATE,33.3,0.0,0.0
+581,Perambalur,Tamil Nadu,61.91,44.15,0.13,0.05,0.05,0.23,73,89,Q2: Prime Expansion (High Intensity / Low Concentration),96.5,"[73, 76]",MODERATE,33.3,0.0,0.0
+610,Ariyalur,Tamil Nadu,61.91,44.15,13.53,12.18,12.91,12.55,73,6,Q1: Battleground Core (High Intensity / High Concentration),79.3,"[63, 83]",MODERATE,0.0,39.4,0.0
+698,Vikarabad,Telangana,61.91,44.08,0.06,0.05,0.09,0.05,75,110,Q4: Emerging Watch (Low Intensity / Low Concentration),75.0,"[59, 86]",MODERATE,33.3,0.0,12.1
+551,North Goa,Goa,36.43,43.93,12.49,13.41,12.8,10.0,76,7,Q3: Corporate Hub (Low Intensity / High Concentration),96.2,"[74, 77]",MODERATE,33.3,0.0,0.0
+748,Eluru,Andhra Pradesh,61.91,43.92,0.56,0.64,0.64,0.41,77,64,Q3: Corporate Hub (Low Intensity / High Concentration),82.9,"[66, 83]",MODERATE,0.0,39.4,0.0
+523,West Godavari,Andhra Pradesh,61.91,43.92,1.13,1.18,0.86,1.0,77,41,Q3: Corporate Hub (Low Intensity / High Concentration),96.3,"[75, 78]",MODERATE,33.3,0.0,0.0
+562,Malappuram,Kerala,78.04,43.83,3.56,2.73,2.77,5.16,79,20,Q3: Corporate Hub (Low Intensity / High Concentration),96.2,"[76, 80]",MODERATE,33.3,0.0,0.0
+539,Hassan,Karnataka,61.91,43.48,0.3,0.14,0.36,0.27,80,74,Q3: Corporate Hub (Low Intensity / High Concentration),96.3,"[78, 81]",MODERATE,33.3,0.0,0.0
+503,Chittoor,Andhra Pradesh,61.91,43.25,2.47,2.18,2.91,1.68,81,25,Q3: Corporate Hub (Low Intensity / High Concentration),96.7,"[80, 83]",MODERATE,33.3,0.0,0.0
+752,Tirupati,Andhra Pradesh,61.91,43.25,0.26,0.5,0.23,0.05,81,78,Q4: Emerging Watch (Low Intensity / Low Concentration),83.4,"[73, 89]",MODERATE,0.0,39.4,0.0
+570,Cuddalore,Tamil Nadu,61.91,42.94,0.74,0.86,0.82,0.5,83,52,Q3: Corporate Hub (Low Intensity / High Concentration),97.1,"[82, 84]",MODERATE,33.3,0.0,0.0
+548,Tumakuru,Karnataka,61.91,42.85,0.09,0.09,0.09,0.09,84,101,Q4: Emerging Watch (Low Intensity / Low Concentration),97.2,"[83, 85]",MODERATE,33.3,0.0,0.0
+578,Madurai,Tamil Nadu,70.26,42.67,2.77,3.06,3.26,1.64,85,22,Q3: Corporate Hub (Low Intensity / High Concentration),97.2,"[84, 87]",MODERATE,33.3,0.0,0.0
+634,Tiruppur,Tamil Nadu,61.91,42.38,0.0,0.0,0.0,0.0,86,132,Q4: Emerging Watch (Low Intensity / Low Concentration),96.8,"[86, 88]",MODERATE,33.3,0.0,0.0
+515,Sri Potti Sriramulu Nellore,Andhra Pradesh,61.91,42.34,0.0,0.0,0.0,0.0,87,132,Q4: Emerging Watch (Low Intensity / Low Concentration),96.7,"[87, 89]",MODERATE,33.3,0.0,0.0
+502,Ananthapuramu,Andhra Pradesh,61.91,42.33,0.0,0.0,0.0,0.0,88,132,Q4: Emerging Watch (Low Intensity / Low Concentration),96.7,"[88, 90]",MODERATE,33.3,0.0,0.0
+754,Sri Sathya Sai,Andhra Pradesh,61.91,42.33,0.02,0.0,0.05,0.0,88,122,Q4: Emerging Watch (Low Intensity / Low Concentration),82.5,"[78, 95]",MODERATE,0.0,39.4,0.0
+517,Prakasam,Andhra Pradesh,61.91,41.98,0.69,0.5,0.68,0.68,90,55,Q3: Corporate Hub (Low Intensity / High Concentration),96.6,"[89, 92]",MODERATE,30.3,0.0,3.0
+680,Nirmal,Telangana,61.91,41.46,0.06,0.05,0.05,0.05,91,110,Q4: Emerging Watch (Low Intensity / Low Concentration),92.1,"[90, 97]",MODERATE,33.3,12.1,0.0
+749,Ntr,Andhra Pradesh,61.91,41.44,0.22,0.36,0.23,0.09,92,82,Q4: Emerging Watch (Low Intensity / Low Concentration),85.3,"[86, 100]",MODERATE,0.0,39.4,0.0
+510,Krishna,Andhra Pradesh,61.91,41.44,5.6,5.09,6.41,4.09,92,14,Q3: Corporate Hub (Low Intensity / High Concentration),96.1,"[91, 94]",MODERATE,33.3,0.0,0.0
+584,Salem,Tamil Nadu,73.75,41.22,1.64,1.55,2.16,1.09,94,32,Q3: Corporate Hub (Low Intensity / High Concentration),95.9,"[92, 96]",MODERATE,33.3,0.0,0.0
+597,Virudhunagar,Tamil Nadu,61.91,41.0,1.61,3.05,0.73,0.68,95,34,Q3: Corporate Hub (Low Intensity / High Concentration),96.0,"[94, 97]",MODERATE,33.3,0.0,0.0
+753,Annamayya,Andhra Pradesh,61.91,40.9,0.0,0.0,0.0,0.0,96,132,Q4: Emerging Watch (Low Intensity / Low Concentration),75.0,"[80, 108]",MODERATE,0.0,0.0,39.4
+504,Y.S.R.,Andhra Pradesh,61.91,40.9,0.02,0.05,0.0,0.05,96,122,Q4: Emerging Watch (Low Intensity / Low Concentration),75.0,"[78, 108]",MODERATE,0.0,0.0,39.4
+571,Dharmapuri,Tamil Nadu,61.91,40.7,0.43,0.55,0.59,0.14,98,69,Q3: Corporate Hub (Low Intensity / High Concentration),96.3,"[95, 99]",MODERATE,33.3,0.0,0.0
+577,Krishnagiri,Tamil Nadu,61.91,40.55,1.34,1.36,1.55,0.73,99,37,Q3: Corporate Hub (Low Intensity / High Concentration),96.6,"[97, 100]",MODERATE,33.3,0.0,0.0
+587,The Nilgiris,Tamil Nadu,61.91,40.45,0.06,0.09,0.0,0.09,100,110,Q4: Emerging Watch (Low Intensity / Low Concentration),96.6,"[98, 101]",MODERATE,33.3,0.0,0.0
+507,Hyderabad,Telangana,76.95,40.33,84.71,92.03,120.18,41.9,101,2,Q3: Corporate Hub (Low Intensity / High Concentration),96.6,"[99, 102]",MODERATE,33.3,0.0,0.0
+588,Theni,Tamil Nadu,61.91,40.26,0.33,0.18,0.27,0.45,102,72,Q3: Corporate Hub (Low Intensity / High Concentration),96.7,"[100, 103]",MODERATE,33.3,0.0,0.0
+569,Coimbatore,Tamil Nadu,73.6,40.14,7.46,7.4,6.73,6.42,103,10,Q3: Corporate Hub (Low Intensity / High Concentration),96.8,"[101, 104]",MODERATE,33.3,0.0,0.0
+755,Nandyal,Andhra Pradesh,61.91,40.02,0.09,0.18,0.09,0.0,104,101,Q4: Emerging Watch (Low Intensity / Low Concentration),85.8,"[94, 108]",MODERATE,0.0,39.4,0.0
+567,Wayanad,Kerala,61.91,39.36,0.87,0.32,0.5,1.45,105,48,Q3: Corporate Hub (Low Intensity / High Concentration),97.9,"[104, 105]",MODERATE,33.3,0.0,0.0
+558,Kasaragod,Kerala,61.91,39.32,0.39,0.05,0.41,0.55,106,70,Q3: Corporate Hub (Low Intensity / High Concentration),97.9,"[105, 106]",MODERATE,33.3,0.0,0.0
+534,Dakshina Kannada,Karnataka,61.91,39.17,1.28,1.09,0.95,1.5,107,38,Q3: Corporate Hub (Low Intensity / High Concentration),98.2,"[106, 107]",MODERATE,33.3,0.0,0.0
+519,Srikakulam,Andhra Pradesh,61.91,39.17,1.67,1.82,2.14,0.73,108,30,Q3: Corporate Hub (Low Intensity / High Concentration),98.2,"[107, 108]",MODERATE,33.3,0.0,0.0
+511,Kurnool,Andhra Pradesh,77.66,37.75,0.85,0.69,0.79,0.89,109,50,Q3: Corporate Hub (Low Intensity / High Concentration),97.3,"[109, 111]",MODERATE,33.3,0.0,0.0
+532,Chikkamagaluru,Karnataka,61.91,37.68,0.02,0.0,0.05,0.0,110,122,Q4: Emerging Watch (Low Intensity / Low Concentration),97.3,"[110, 112]",MODERATE,33.3,0.0,0.0
+521,Vizianagaram,Andhra Pradesh,61.91,37.23,0.52,0.45,0.59,0.41,111,67,Q3: Corporate Hub (Low Intensity / High Concentration),96.8,"[111, 114]",MODERATE,33.3,0.0,0.0
+743,Parvathipuram Manyam,Andhra Pradesh,61.91,37.23,0.0,0.0,0.0,0.0,111,132,Q4: Emerging Watch (Low Intensity / Low Concentration),88.1,"[109, 117]",MODERATE,0.0,39.4,0.0
+550,Uttara Kannada,Karnataka,61.91,37.14,0.28,0.23,0.18,0.32,113,76,Q4: Emerging Watch (Low Intensity / Low Concentration),96.7,"[112, 115]",MODERATE,33.3,0.0,0.0
+751,Palnadu,Andhra Pradesh,61.91,37.1,0.0,0.0,0.0,0.0,114,132,Q4: Emerging Watch (Low Intensity / Low Concentration),88.4,"[109, 118]",MODERATE,0.0,39.4,0.0
+750,Bapatla,Andhra Pradesh,61.91,37.1,0.09,0.09,0.14,0.0,114,101,Q4: Emerging Watch (Low Intensity / Low Concentration),88.2,"[109, 118]",MODERATE,0.0,39.4,0.0
+544,Mandya,Karnataka,61.91,36.96,0.48,0.18,0.36,0.64,116,68,Q3: Corporate Hub (Low Intensity / High Concentration),96.9,"[113, 116]",MODERATE,33.3,0.0,0.0
+535,Davangere,Karnataka,61.91,36.63,0.83,0.82,1.27,0.59,117,51,Q3: Corporate Hub (Low Intensity / High Concentration),97.2,"[115, 117]",MODERATE,33.3,0.0,0.0
+547,Shivamogga,Karnataka,61.91,35.82,0.15,0.05,0.18,0.14,118,85,Q4: Emerging Watch (Low Intensity / Low Concentration),98.1,"[117, 119]",MODERATE,33.3,0.0,0.0
+549,Udupi,Karnataka,61.91,35.44,1.08,0.91,0.77,1.14,119,43,Q3: Corporate Hub (Low Intensity / High Concentration),97.7,"[119, 121]",MODERATE,33.3,0.0,0.0
+526,Bengaluru Rural,Karnataka,41.29,35.43,0.08,0.1,0.1,0.1,120,106,Q4: Emerging Watch (Low Intensity / Low Concentration),97.7,"[120, 122]",MODERATE,33.3,0.0,0.0
+506,Guntur,Andhra Pradesh,82.48,34.84,2.28,1.99,2.83,1.56,121,26,Q3: Corporate Hub (Low Intensity / High Concentration),97.2,"[121, 123]",MODERATE,33.3,0.0,0.0
+744,Anakapalli,Andhra Pradesh,61.91,34.81,0.2,0.32,0.36,0.05,122,83,Q4: Emerging Watch (Low Intensity / Low Concentration),92.0,"[118, 126]",MODERATE,0.0,39.4,0.0
+745,Alluri Sitharama Raju,Andhra Pradesh,61.91,34.81,7.96,8.77,9.45,4.73,122,9,Q3: Corporate Hub (Low Intensity / High Concentration),91.5,"[118, 126]",MODERATE,0.0,39.4,0.0
+533,Chitradurga,Karnataka,61.91,34.49,0.15,0.05,0.27,0.05,124,85,Q4: Emerging Watch (Low Intensity / Low Concentration),97.4,"[122, 124]",MODERATE,33.3,0.0,0.0
+541,Kodagu,Karnataka,61.91,34.05,0.11,0.05,0.05,0.18,125,97,Q4: Emerging Watch (Low Intensity / Low Concentration),98.3,"[124, 125]",MODERATE,33.3,0.0,0.0
+520,Visakhapatnam,Andhra Pradesh,79.15,33.91,3.62,3.15,4.69,2.38,126,19,Q3: Corporate Hub (Low Intensity / High Concentration),98.6,"[125, 126]",MODERATE,33.3,0.0,0.0
+545,Mysuru,Karnataka,69.92,33.2,0.57,0.27,0.53,0.73,127,63,Q3: Corporate Hub (Low Intensity / High Concentration),99.4,"[127, 127]",MODERATE,33.3,0.0,0.0
+599,Mahe,Puducherry,61.91,32.86,0.09,0.05,0.14,0.09,128,101,Q4: Emerging Watch (Low Intensity / Low Concentration),99.4,"[128, 128]",MODERATE,33.3,0.0,0.0
+538,Kalaburagi,Karnataka,61.91,32.51,0.13,0.09,0.27,0.05,129,89,Q4: Emerging Watch (Low Intensity / Low Concentration),99.2,"[129, 130]",MODERATE,33.3,0.0,0.0
+528,Ballari,Karnataka,61.91,31.2,0.04,0.0,0.05,0.05,130,116,Q4: Emerging Watch (Low Intensity / Low Concentration),98.0,"[130, 131]",MODERATE,33.3,0.0,0.0
+738,Vijayanagar,Karnataka,61.91,31.2,1.06,0.68,1.09,1.05,130,44,Q3: Corporate Hub (Low Intensity / High Concentration),92.8,"[129, 135]",MODERATE,0.0,39.4,0.0
+542,Kolar,Karnataka,61.91,30.99,0.69,0.68,0.86,0.59,132,55,Q3: Corporate Hub (Low Intensity / High Concentration),98.1,"[131, 132]",MODERATE,33.3,0.0,0.0
+600,Puducherry,Puducherry,40.23,30.86,1.12,1.37,1.89,0.21,133,42,Q3: Corporate Hub (Low Intensity / High Concentration),98.2,"[132, 133]",MODERATE,33.3,0.0,0.0
+527,Belagavi,Karnataka,81.94,30.6,0.12,0.06,0.19,0.08,134,96,Q4: Emerging Watch (Low Intensity / Low Concentration),98.4,"[133, 134]",MODERATE,33.3,0.0,0.0
+540,Haveri,Karnataka,61.91,30.23,0.28,0.23,0.27,0.32,135,76,Q4: Emerging Watch (Low Intensity / Low Concentration),99.1,"[134, 135]",MODERATE,33.3,0.0,0.0
+631,Ramanagara,Karnataka,61.91,29.98,0.3,0.18,0.18,0.45,136,74,Q3: Corporate Hub (Low Intensity / High Concentration),99.6,"[136, 136]",MODERATE,33.3,0.0,0.0
+630,Chikkaballapura,Karnataka,61.91,29.33,0.0,0.0,0.0,0.0,137,132,Q4: Emerging Watch (Low Intensity / Low Concentration),100.0,"[137, 137]",MODERATE,33.3,0.0,0.0
+531,Chamarajanagara,Karnataka,61.91,29.25,0.0,0.0,0.0,0.0,138,132,Q4: Emerging Watch (Low Intensity / Low Concentration),100.0,"[138, 138]",MODERATE,33.3,0.0,0.0
+543,Koppal,Karnataka,61.91,28.7,0.13,0.0,0.09,0.23,139,89,Q4: Emerging Watch (Low Intensity / Low Concentration),100.0,"[139, 139]",MODERATE,33.3,0.0,0.0
+525,Bengaluru Urban,Karnataka,100.0,28.19,0.0,0.0,0.0,0.01,140,131,Q4: Emerging Watch (Low Intensity / Low Concentration),100.0,"[140, 140]",MODERATE,33.3,0.0,0.0
+524,Bagalkote,Karnataka,61.91,27.55,100.0,69.0,104.14,100.36,141,1,Q3: Corporate Hub (Low Intensity / High Concentration),100.0,"[141, 141]",MODERATE,33.3,0.0,0.0
+530,Vijayapura,Karnataka,61.91,27.27,0.13,0.05,0.14,0.18,142,89,Q4: Emerging Watch (Low Intensity / Low Concentration),100.0,"[142, 142]",MODERATE,33.3,0.0,0.0
+601,Yanam,Puducherry,61.91,26.91,0.24,0.36,0.27,0.09,143,81,Q4: Emerging Watch (Low Intensity / Low Concentration),100.0,"[143, 143]",MODERATE,33.3,0.0,0.0
+529,Bidar,Karnataka,61.91,26.82,1.21,1.23,1.77,0.59,144,40,Q3: Corporate Hub (Low Intensity / High Concentration),100.0,"[144, 144]",MODERATE,33.3,0.0,0.0
+536,Dharwad,Karnataka,61.91,26.5,1.8,1.36,1.82,1.73,145,29,Q3: Corporate Hub (Low Intensity / High Concentration),100.0,"[145, 145]",MODERATE,33.3,0.0,0.0
+537,Gadag,Karnataka,61.91,25.28,0.2,0.09,0.18,0.27,146,83,Q4: Emerging Watch (Low Intensity / Low Concentration),100.0,"[146, 146]",MODERATE,33.3,0.0,0.0
+546,Raichur,Karnataka,61.91,24.43,0.54,0.59,0.68,0.32,147,66,Q3: Corporate Hub (Low Intensity / High Concentration),100.0,"[147, 147]",MODERATE,33.3,0.0,0.0
+635,Yadgir,Karnataka,61.91,22.59,0.07,0.09,0.09,0.05,148,107,Q4: Emerging Watch (Low Intensity / Low Concentration),100.0,"[148, 148]",MODERATE,33.3,0.0,0.0

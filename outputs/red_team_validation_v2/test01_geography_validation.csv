@@ -1,0 +1,149 @@
+lgd_district_code,district_name,state_name,census_2011_code,validation_status
+745,Alluri Sitharama Raju,Andhra Pradesh,0,VALID_CANONICAL
+744,Anakapalli,Andhra Pradesh,0,VALID_CANONICAL
+502,Ananthapuramu,Andhra Pradesh,553,VALID_CANONICAL
+753,Annamayya,Andhra Pradesh,0,VALID_CANONICAL
+750,Bapatla,Andhra Pradesh,0,VALID_CANONICAL
+503,Chittoor,Andhra Pradesh,554,VALID_CANONICAL
+747,Dr. B.R. Ambedkar Konaseema,Andhra Pradesh,0,VALID_CANONICAL
+505,East Godavari,Andhra Pradesh,545,VALID_CANONICAL
+748,Eluru,Andhra Pradesh,0,VALID_CANONICAL
+506,Guntur,Andhra Pradesh,548,VALID_CANONICAL
+746,Kakinada,Andhra Pradesh,0,VALID_CANONICAL
+510,Krishna,Andhra Pradesh,547,VALID_CANONICAL
+511,Kurnool,Andhra Pradesh,552,VALID_CANONICAL
+755,Nandyal,Andhra Pradesh,0,VALID_CANONICAL
+749,Ntr,Andhra Pradesh,0,VALID_CANONICAL
+751,Palnadu,Andhra Pradesh,0,VALID_CANONICAL
+743,Parvathipuram Manyam,Andhra Pradesh,0,VALID_CANONICAL
+517,Prakasam,Andhra Pradesh,549,VALID_CANONICAL
+515,Sri Potti Sriramulu Nellore,Andhra Pradesh,550,VALID_CANONICAL
+754,Sri Sathya Sai,Andhra Pradesh,0,VALID_CANONICAL
+519,Srikakulam,Andhra Pradesh,542,VALID_CANONICAL
+752,Tirupati,Andhra Pradesh,0,VALID_CANONICAL
+520,Visakhapatnam,Andhra Pradesh,544,VALID_CANONICAL
+521,Vizianagaram,Andhra Pradesh,543,VALID_CANONICAL
+523,West Godavari,Andhra Pradesh,546,VALID_CANONICAL
+504,Y.S.R.,Andhra Pradesh,551,VALID_CANONICAL
+551,North Goa,Goa,585,VALID_CANONICAL
+552,South Goa,Goa,586,VALID_CANONICAL
+524,Bagalkote,Karnataka,556,VALID_CANONICAL
+528,Ballari,Karnataka,565,VALID_CANONICAL
+527,Belagavi,Karnataka,555,VALID_CANONICAL
+526,Bengaluru Rural,Karnataka,583,VALID_CANONICAL
+525,Bengaluru Urban,Karnataka,572,VALID_CANONICAL
+529,Bidar,Karnataka,558,VALID_CANONICAL
+531,Chamarajanagara,Karnataka,578,VALID_CANONICAL
+630,Chikkaballapura,Karnataka,582,VALID_CANONICAL
+532,Chikkamagaluru,Karnataka,570,VALID_CANONICAL
+533,Chitradurga,Karnataka,566,VALID_CANONICAL
+534,Dakshina Kannada,Karnataka,575,VALID_CANONICAL
+535,Davangere,Karnataka,567,VALID_CANONICAL
+536,Dharwad,Karnataka,562,VALID_CANONICAL
+537,Gadag,Karnataka,561,VALID_CANONICAL
+539,Hassan,Karnataka,574,VALID_CANONICAL
+540,Haveri,Karnataka,564,VALID_CANONICAL
+538,Kalaburagi,Karnataka,579,VALID_CANONICAL
+541,Kodagu,Karnataka,576,VALID_CANONICAL
+542,Kolar,Karnataka,581,VALID_CANONICAL
+543,Koppal,Karnataka,560,VALID_CANONICAL
+544,Mandya,Karnataka,573,VALID_CANONICAL
+545,Mysuru,Karnataka,577,VALID_CANONICAL
+546,Raichur,Karnataka,559,VALID_CANONICAL
+631,Ramanagara,Karnataka,584,VALID_CANONICAL
+547,Shivamogga,Karnataka,568,VALID_CANONICAL
+548,Tumakuru,Karnataka,571,VALID_CANONICAL
+549,Udupi,Karnataka,569,VALID_CANONICAL
+550,Uttara Kannada,Karnataka,563,VALID_CANONICAL
+738,Vijayanagar,Karnataka,0,VALID_CANONICAL
+530,Vijayapura,Karnataka,557,VALID_CANONICAL
+635,Yadgir,Karnataka,580,VALID_CANONICAL
+554,Alappuzha,Kerala,598,VALID_CANONICAL
+555,Ernakulam,Kerala,595,VALID_CANONICAL
+556,Idukki,Kerala,596,VALID_CANONICAL
+557,Kannur,Kerala,589,VALID_CANONICAL
+558,Kasaragod,Kerala,588,VALID_CANONICAL
+559,Kollam,Kerala,600,VALID_CANONICAL
+560,Kottayam,Kerala,597,VALID_CANONICAL
+561,Kozhikode,Kerala,591,VALID_CANONICAL
+562,Malappuram,Kerala,592,VALID_CANONICAL
+563,Palakkad,Kerala,593,VALID_CANONICAL
+564,Pathanamthitta,Kerala,599,VALID_CANONICAL
+565,Thiruvananthapuram,Kerala,601,VALID_CANONICAL
+566,Thrissur,Kerala,594,VALID_CANONICAL
+567,Wayanad,Kerala,590,VALID_CANONICAL
+598,Karaikal,Puducherry,637,VALID_CANONICAL
+599,Mahe,Puducherry,636,VALID_CANONICAL
+600,Puducherry,Puducherry,635,VALID_CANONICAL
+601,Yanam,Puducherry,634,VALID_CANONICAL
+610,Ariyalur,Tamil Nadu,616,VALID_CANONICAL
+730,Chengalpattu,Tamil Nadu,0,VALID_CANONICAL
+568,Chennai,Tamil Nadu,603,VALID_CANONICAL
+569,Coimbatore,Tamil Nadu,632,VALID_CANONICAL
+570,Cuddalore,Tamil Nadu,617,VALID_CANONICAL
+571,Dharmapuri,Tamil Nadu,630,VALID_CANONICAL
+572,Dindigul,Tamil Nadu,612,VALID_CANONICAL
+573,Erode,Tamil Nadu,610,VALID_CANONICAL
+729,Kallakurichi,Tamil Nadu,0,VALID_CANONICAL
+574,Kancheepuram,Tamil Nadu,604,VALID_CANONICAL
+575,Kanniyakumari,Tamil Nadu,629,VALID_CANONICAL
+576,Karur,Tamil Nadu,613,VALID_CANONICAL
+577,Krishnagiri,Tamil Nadu,631,VALID_CANONICAL
+578,Madurai,Tamil Nadu,623,VALID_CANONICAL
+735,Mayiladuthurai,Tamil Nadu,0,VALID_CANONICAL
+579,Nagapattinam,Tamil Nadu,618,VALID_CANONICAL
+580,Namakkal,Tamil Nadu,609,VALID_CANONICAL
+581,Perambalur,Tamil Nadu,615,VALID_CANONICAL
+582,Pudukkottai,Tamil Nadu,621,VALID_CANONICAL
+583,Ramanathapuram,Tamil Nadu,626,VALID_CANONICAL
+731,Ranipet,Tamil Nadu,0,VALID_CANONICAL
+584,Salem,Tamil Nadu,608,VALID_CANONICAL
+585,Sivaganga,Tamil Nadu,622,VALID_CANONICAL
+733,Tenkasi,Tamil Nadu,0,VALID_CANONICAL
+586,Thanjavur,Tamil Nadu,620,VALID_CANONICAL
+587,The Nilgiris,Tamil Nadu,611,VALID_CANONICAL
+588,Theni,Tamil Nadu,624,VALID_CANONICAL
+589,Thiruvallur,Tamil Nadu,602,VALID_CANONICAL
+590,Thiruvarur,Tamil Nadu,619,VALID_CANONICAL
+594,Thoothukkudi,Tamil Nadu,627,VALID_CANONICAL
+591,Tiruchirappalli,Tamil Nadu,614,VALID_CANONICAL
+592,Tirunelveli,Tamil Nadu,628,VALID_CANONICAL
+732,Tirupathur,Tamil Nadu,0,VALID_CANONICAL
+634,Tiruppur,Tamil Nadu,633,VALID_CANONICAL
+593,Tiruvannamalai,Tamil Nadu,606,VALID_CANONICAL
+595,Vellore,Tamil Nadu,605,VALID_CANONICAL
+596,Viluppuram,Tamil Nadu,607,VALID_CANONICAL
+597,Virudhunagar,Tamil Nadu,625,VALID_CANONICAL
+501,Adilabad,Telangana,532,VALID_CANONICAL
+690,Bhadradri Kothagudem,Telangana,0,VALID_CANONICAL
+686,Hanumakonda,Telangana,0,VALID_CANONICAL
+507,Hyderabad,Telangana,536,VALID_CANONICAL
+681,Jagitial,Telangana,0,VALID_CANONICAL
+689,Jangoan,Telangana,0,VALID_CANONICAL
+687,Jayashankar Bhupalapally,Telangana,0,VALID_CANONICAL
+695,Jogulamba Gadwal,Telangana,0,VALID_CANONICAL
+685,Kamareddy,Telangana,0,VALID_CANONICAL
+508,Karimnagar,Telangana,534,VALID_CANONICAL
+509,Khammam,Telangana,541,VALID_CANONICAL
+699,Kumuram Bheem Asifabad,Telangana,0,VALID_CANONICAL
+688,Mahabubabad,Telangana,0,VALID_CANONICAL
+512,Mahabubnagar,Telangana,538,VALID_CANONICAL
+684,Mancherial,Telangana,0,VALID_CANONICAL
+513,Medak,Telangana,535,VALID_CANONICAL
+700,Medchal Malkajgiri,Telangana,0,VALID_CANONICAL
+720,Mulugu,Telangana,0,VALID_CANONICAL
+694,Nagarkurnool,Telangana,0,VALID_CANONICAL
+514,Nalgonda,Telangana,539,VALID_CANONICAL
+721,Narayanpet,Telangana,0,VALID_CANONICAL
+680,Nirmal,Telangana,0,VALID_CANONICAL
+516,Nizamabad,Telangana,533,VALID_CANONICAL
+682,Peddapalli,Telangana,0,VALID_CANONICAL
+683,Rajanna Sircilla,Telangana,0,VALID_CANONICAL
+518,Ranga Reddy,Telangana,537,VALID_CANONICAL
+691,Sangareddy,Telangana,0,VALID_CANONICAL
+692,Siddipet,Telangana,0,VALID_CANONICAL
+696,Suryapet,Telangana,0,VALID_CANONICAL
+698,Vikarabad,Telangana,0,VALID_CANONICAL
+693,Wanaparthy,Telangana,0,VALID_CANONICAL
+522,Warangal,Telangana,540,VALID_CANONICAL
+697,Yadadri Bhuvanagiri,Telangana,0,VALID_CANONICAL

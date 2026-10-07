@@ -1,0 +1,26 @@
+# South India DLMAI Sensitivity Configuration
+version: "2.0.0"
+
+monte_carlo:
+  enabled: true
+  iterations: 1000
+  random_seed: 42
+  perturbation_type: "lognormal_stochastic"
+  noise_variance_sigma_sq: 0.04   # std dev sigma = 0.20 (+/- 20% typical scale)
+
+stability_thresholds:
+  highly_stable_min_spearman: 0.95
+  stable_min_spearman: 0.90
+  moderate_min_spearman: 0.75
+
+robustness_models:
+  - model_id: "baseline_ahp_entropy_linear"
+    description: "Primary Baseline: AHP Inter-Pillar + Entropy Intra-Pillar + Saturation Penalty"
+  - model_id: "equal_indicator_weights"
+    description: "Robustness 1: AHP Inter-Pillar + Equal Intra-Pillar Weights"
+  - model_id: "equal_pillar_weights"
+    description: "Robustness 2: Equal Inter-Pillar Weights + Entropy Intra-Pillar"
+  - model_id: "geometric_aggregation"
+    description: "Robustness 3: Weighted Geometric Mean Aggregation"
+  - model_id: "no_saturation_dampener"
+    description: "Robustness 4: Pure Positive Drivers without Competition Penalty"

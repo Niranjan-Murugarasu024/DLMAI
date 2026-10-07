@@ -1,0 +1,9 @@
+pillar_code,pillar_name,construct,supporting_datasets,num_candidate_vars,empirical_feasibility,evidence_type
+P1,Healthcare Need,Disease burden and morbidity requiring pharmaceutical therapy,NFHS-5 District Factsheets,4,VERY_HIGH,DIRECT_OBSERVED
+P2,Demographic Market Potential,Population scale and urbanization driving commercial volume,Census 2011 PCA / LGD Master,3,VERY_HIGH,DIRECT_OBSERVED
+P3,Healthcare Access & Inpatient Capacity,Physical healthcare facility and medical consultation access,MoHFW RHS Health Statistics,4,HIGH,DIRECT_OBSERVED
+P4,Healthcare Utilization & Treatment-Seeking,Frequency of formal institutional medical consultation,"NFHS-5 Factsheets (Institutional births, antenatal care)",3,HIGH,DIRECT_OBSERVED
+P5,Affordability & Purchasing Capacity,Household private ability to pay for healthcare and medicines,"NFHS-5 (OOPE, Insurance, Living standards) / SECC",4,HIGH,DIRECT_OBSERVED_PLUS_PROXY
+P6,Medicine Availability & Retail Access,Density of retail pharmacy and generic medicine distribution points,PMBJP Jan Aushadhi Kendra Registry,2,VERY_HIGH,DIRECT_OBSERVED
+P7,Pharmaceutical Corporate & Manufacturing Concentration,Macro industrial clusters and active pharmaceutical corporate presence,MCA21 Corporate Master Registry (943k records),3,VERY_HIGH,DIRECT_OBSERVED
+P8,Market Expansion & Policy Momentum,Government investment priority and demographic momentum,NITI Aayog Aspirational Programme / Census,2,VERY_HIGH,DIRECT_OBSERVED

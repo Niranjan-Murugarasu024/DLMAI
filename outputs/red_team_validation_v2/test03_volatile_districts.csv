@@ -1,0 +1,1 @@
+lgd_district_code,district_name,state_name,baseline_rank,baseline_score,top_5_frequency_pct,top_10_frequency_pct,top_20_frequency_pct,top_30_frequency_pct,mean_rank,median_rank,rank_std_dev,rank_p05,rank_p95,rank_min,rank_max,rank_spread,robustness_classification

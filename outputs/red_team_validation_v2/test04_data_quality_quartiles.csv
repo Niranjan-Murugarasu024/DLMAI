@@ -1,0 +1,5 @@
+data_quality_quartile,district_count,mean_data_quality_score,mean_dlmai_score,top_10_count,top_10_probability_pct,top_20_count,top_20_probability_pct,top_30_count,top_30_probability_pct
+Q1_Lowest,37,85.77,44.39,5,13.5,7,18.9,8,21.6
+Q2_Low_Mid,37,99.27,50.13,5,13.5,13,35.1,22,59.5
+Q3_High_Mid,37,100.0,44.34,0,0.0,0,0.0,0,0.0
+Q4_Highest,37,100.0,30.89,0,0.0,0,0.0,0,0.0

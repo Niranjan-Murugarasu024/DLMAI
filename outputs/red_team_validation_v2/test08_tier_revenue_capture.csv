@@ -1,0 +1,5 @@
+commercial_tier,District_Count,Total_Sales_INR_Cr,Total_Population,Mean_DLMAI_Score,Sales_Share_Pct,Population_Share_Pct,Sales_to_Population_Ratio
+Tier 1 (High Priority),30,13993.6,67620000.0,52.41025666666667,21.07,19.44,1.084
+Tier 2 (Growth Markets),44,18940.01,103080000.0,47.50236136363637,28.52,29.64,0.962
+Tier 3 (Moderate Opportunity),44,18617.24,98340000.0,39.400195454545454,28.04,28.27,0.992
+Tier 4 (Nascent / Rural),30,14849.119999999999,78760000.0,29.484316666666665,22.36,22.65,0.987

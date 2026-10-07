@@ -1,0 +1,4 @@
+therapy_variable,independently_observed_external,source_provenance,pearson_r,spearman_rho,r_squared,p_value,provenance_verdict
+Chronic NCD Sales (INR Cr),False,Calibrated Split from Total Sales via Urbanization Share,-0.084,0.1179,0.0071,3.1015e-01,SYNTHETIC_DERIVATION (Cannot claim independent external validation)
+Acute Therapy Sales (INR Cr),False,Residual Split (Total Sales - Chronic Sales),-0.0475,0.1098,0.0023,5.6632e-01,SYNTHETIC_DERIVATION (Cannot claim independent external validation)
+Monthly Rx Volume Index,False,Synthetically Calibrated from Per-Capita Spend (/ 22.0 + noise),0.0655,0.1865,0.0043,4.2889e-01,SYNTHETIC_DERIVATION (Cannot claim independent external validation)

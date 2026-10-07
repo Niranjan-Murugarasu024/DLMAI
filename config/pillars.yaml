@@ -1,0 +1,65 @@
+# South India DLMAI Pillars Configuration
+version: "2.0.0"
+
+pillars:
+  P1:
+    name: "Healthcare Demand & Disease Burden"
+    role: "VALUE_DRIVER"
+    description: "Epidemiological need, chronic NCD prevalence (diabetes, hypertension), child nutrition, demographic base."
+    indicators:
+      - "nfhs_hypertension_combined_pct"
+      - "nfhs_diabetes_combined_pct"
+      - "nfhs_stunting_pct"
+      - "nfhs_wasting_pct"
+      - "nfhs_underweight_pct"
+      - "census_urban_population_pct"
+      - "census_population_age_0_6_pct"
+
+  P2:
+    name: "Economic Access & Affordability"
+    role: "VALUE_DRIVER"
+    description: "Health insurance coverage, household living standards, out-of-pocket delivery costs."
+    indicators:
+      - "nfhs_insurance_pct"
+      - "nfhs_clean_fuel_pct"
+      - "nfhs_sanitation_pct"
+      - "nfhs_oope_delivery_rs"
+
+  P3:
+    name: "Healthcare Infrastructure"
+    role: "VALUE_DRIVER"
+    description: "Primary Health Centres, Community Health Centres, Sub-Divisional & District Hospitals per capita."
+    indicators:
+      - "rhs_phc_density_per_100k"
+      - "rhs_chc_density_per_100k"
+      - "rhs_subcentre_density_per_100k"
+      - "rhs_hospital_presence"
+
+  P4:
+    name: "Pharmaceutical Distribution Accessibility"
+    role: "VALUE_DRIVER"
+    description: "Retail generic pharmacy network accessibility (Jan Aushadhi Kendras per 100k population)."
+    indicators:
+      - "jan_aushadhi_density_per_100k"
+
+  P5:
+    name: "Market Competition & Saturation"
+    role: "VALUE_DAMPENER"
+    description: "Competitive crowding, local manufacturing density, field-force saturation per 100k population."
+    indicators:
+      - "mca21_pharma_density_per_100k"
+
+  P6:
+    name: "Policy & Healthcare Development Environment"
+    role: "VALUE_DRIVER"
+    description: "Government health scheme priority status, CSR allocation focus, PMJAY hospital empanelment acceleration."
+    indicators:
+      - "niti_aspirational_district_flag"
+
+  P7:
+    name: "Demographic & Market Growth"
+    role: "VALUE_DRIVER"
+    description: "Decadal population growth, health literacy, treatment compliance."
+    indicators:
+      - "census_decadal_growth_pct"
+      - "census_literacy_rate_pct"

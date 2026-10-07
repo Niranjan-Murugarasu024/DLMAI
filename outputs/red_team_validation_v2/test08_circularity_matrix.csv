@@ -1,0 +1,8 @@
+variable_name,variable_description,used_in_benchmark_construction,pearson_r_with_sales,spearman_rho_with_sales,pearson_r_with_per_capita,spearman_rho_with_chronic_sales,circularity_risk_assessment
+census_total_population,Total Population (Persons),True,0.8666,0.4736,0.0069,0.8714,HIGH (Direct Construction Component)
+census_urban_population_pct,Urban Population Share (%),True,0.796,0.4754,0.0652,0.7985,HIGH (Direct Construction Component)
+rhs_hospital_presence,Hospital Presence Count,True,0.1351,0.2871,0.0038,0.1125,MODERATE
+jan_aushadhi_raw_count,Jan Aushadhi Outlet Count,True,0.8315,0.4194,0.12,0.8501,MODERATE
+nfhs_insurance_pct,Health Insurance Coverage (%),False,-0.0908,0.0176,0.0512,-0.0958,LOW
+nfhs_clean_fuel_pct,Clean Fuel Access (%),False,0.0,0.0,0.0,0.0,LOW
+dlmai_score,DLMAI Composite Score,False,-0.0693,0.1236,0.0593,-0.084,LOW

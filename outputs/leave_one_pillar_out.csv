@@ -1,0 +1,8 @@
+dropped_pillar,pillar_name,baseline_weight,spearman_rho,rank_disruption,top_10_overlap,top_20_overlap
+P1,Healthcare Demand & Disease Burden,0.354117,0.8018,0.1982,6,17
+P3,Healthcare Infrastructure,0.238561,0.8968,0.1032,4,10
+P7,Demographic & Market Growth,0.058541,0.9625,0.0375,9,16
+P2,Economic Access & Affordability,0.156329,0.9626,0.0374,7,17
+P6,Policy & Healthcare Development Environment,0.058541,0.9754,0.0246,7,15
+P5,Market Competition & Saturation,0.033529,0.9804,0.0196,10,19
+P4,Pharmaceutical Distribution Accessibility,0.100382,0.9929,0.0071,10,20

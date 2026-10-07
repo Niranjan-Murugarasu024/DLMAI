@@ -1,0 +1,149 @@
+lgd_district_code,district_name,state_lgd_code,state_name,census_2011_code
+745,Alluri Sitharama Raju,28,Andhra Pradesh,0
+744,Anakapalli,28,Andhra Pradesh,0
+502,Ananthapuramu,28,Andhra Pradesh,553
+753,Annamayya,28,Andhra Pradesh,0
+750,Bapatla,28,Andhra Pradesh,0
+503,Chittoor,28,Andhra Pradesh,554
+747,Dr. B.R. Ambedkar Konaseema,28,Andhra Pradesh,0
+505,East Godavari,28,Andhra Pradesh,545
+748,Eluru,28,Andhra Pradesh,0
+506,Guntur,28,Andhra Pradesh,548
+746,Kakinada,28,Andhra Pradesh,0
+510,Krishna,28,Andhra Pradesh,547
+511,Kurnool,28,Andhra Pradesh,552
+755,Nandyal,28,Andhra Pradesh,0
+749,Ntr,28,Andhra Pradesh,0
+751,Palnadu,28,Andhra Pradesh,0
+743,Parvathipuram Manyam,28,Andhra Pradesh,0
+517,Prakasam,28,Andhra Pradesh,549
+515,Sri Potti Sriramulu Nellore,28,Andhra Pradesh,550
+754,Sri Sathya Sai,28,Andhra Pradesh,0
+519,Srikakulam,28,Andhra Pradesh,542
+752,Tirupati,28,Andhra Pradesh,0
+520,Visakhapatnam,28,Andhra Pradesh,544
+521,Vizianagaram,28,Andhra Pradesh,543
+523,West Godavari,28,Andhra Pradesh,546
+504,Y.S.R.,28,Andhra Pradesh,551
+551,North Goa,30,Goa,585
+552,South Goa,30,Goa,586
+524,Bagalkote,29,Karnataka,556
+528,Ballari,29,Karnataka,565
+527,Belagavi,29,Karnataka,555
+526,Bengaluru Rural,29,Karnataka,583
+525,Bengaluru Urban,29,Karnataka,572
+529,Bidar,29,Karnataka,558
+531,Chamarajanagara,29,Karnataka,578
+630,Chikkaballapura,29,Karnataka,582
+532,Chikkamagaluru,29,Karnataka,570
+533,Chitradurga,29,Karnataka,566
+534,Dakshina Kannada,29,Karnataka,575
+535,Davangere,29,Karnataka,567
+536,Dharwad,29,Karnataka,562
+537,Gadag,29,Karnataka,561
+539,Hassan,29,Karnataka,574
+540,Haveri,29,Karnataka,564
+538,Kalaburagi,29,Karnataka,579
+541,Kodagu,29,Karnataka,576
+542,Kolar,29,Karnataka,581
+543,Koppal,29,Karnataka,560
+544,Mandya,29,Karnataka,573
+545,Mysuru,29,Karnataka,577
+546,Raichur,29,Karnataka,559
+631,Ramanagara,29,Karnataka,584
+547,Shivamogga,29,Karnataka,568
+548,Tumakuru,29,Karnataka,571
+549,Udupi,29,Karnataka,569
+550,Uttara Kannada,29,Karnataka,563
+738,Vijayanagar,29,Karnataka,0
+530,Vijayapura,29,Karnataka,557
+635,Yadgir,29,Karnataka,580
+554,Alappuzha,32,Kerala,598
+555,Ernakulam,32,Kerala,595
+556,Idukki,32,Kerala,596
+557,Kannur,32,Kerala,589
+558,Kasaragod,32,Kerala,588
+559,Kollam,32,Kerala,600
+560,Kottayam,32,Kerala,597
+561,Kozhikode,32,Kerala,591
+562,Malappuram,32,Kerala,592
+563,Palakkad,32,Kerala,593
+564,Pathanamthitta,32,Kerala,599
+565,Thiruvananthapuram,32,Kerala,601
+566,Thrissur,32,Kerala,594
+567,Wayanad,32,Kerala,590
+598,Karaikal,34,Puducherry,637
+599,Mahe,34,Puducherry,636
+600,Puducherry,34,Puducherry,635
+601,Yanam,34,Puducherry,634
+610,Ariyalur,33,Tamil Nadu,616
+730,Chengalpattu,33,Tamil Nadu,0
+568,Chennai,33,Tamil Nadu,603
+569,Coimbatore,33,Tamil Nadu,632
+570,Cuddalore,33,Tamil Nadu,617
+571,Dharmapuri,33,Tamil Nadu,630
+572,Dindigul,33,Tamil Nadu,612
+573,Erode,33,Tamil Nadu,610
+729,Kallakurichi,33,Tamil Nadu,0
+574,Kancheepuram,33,Tamil Nadu,604
+575,Kanniyakumari,33,Tamil Nadu,629
+576,Karur,33,Tamil Nadu,613
+577,Krishnagiri,33,Tamil Nadu,631
+578,Madurai,33,Tamil Nadu,623
+735,Mayiladuthurai,33,Tamil Nadu,0
+579,Nagapattinam,33,Tamil Nadu,618
+580,Namakkal,33,Tamil Nadu,609
+581,Perambalur,33,Tamil Nadu,615
+582,Pudukkottai,33,Tamil Nadu,621
+583,Ramanathapuram,33,Tamil Nadu,626
+731,Ranipet,33,Tamil Nadu,0
+584,Salem,33,Tamil Nadu,608
+585,Sivaganga,33,Tamil Nadu,622
+733,Tenkasi,33,Tamil Nadu,0
+586,Thanjavur,33,Tamil Nadu,620
+587,The Nilgiris,33,Tamil Nadu,611
+588,Theni,33,Tamil Nadu,624
+589,Thiruvallur,33,Tamil Nadu,602
+590,Thiruvarur,33,Tamil Nadu,619
+594,Thoothukkudi,33,Tamil Nadu,627
+591,Tiruchirappalli,33,Tamil Nadu,614
+592,Tirunelveli,33,Tamil Nadu,628
+732,Tirupathur,33,Tamil Nadu,0
+634,Tiruppur,33,Tamil Nadu,633
+593,Tiruvannamalai,33,Tamil Nadu,606
+595,Vellore,33,Tamil Nadu,605
+596,Viluppuram,33,Tamil Nadu,607
+597,Virudhunagar,33,Tamil Nadu,625
+501,Adilabad,36,Telangana,532
+690,Bhadradri Kothagudem,36,Telangana,0
+686,Hanumakonda,36,Telangana,0
+507,Hyderabad,36,Telangana,536
+681,Jagitial,36,Telangana,0
+689,Jangoan,36,Telangana,0
+687,Jayashankar Bhupalapally,36,Telangana,0
+695,Jogulamba Gadwal,36,Telangana,0
+685,Kamareddy,36,Telangana,0
+508,Karimnagar,36,Telangana,534
+509,Khammam,36,Telangana,541
+699,Kumuram Bheem Asifabad,36,Telangana,0
+688,Mahabubabad,36,Telangana,0
+512,Mahabubnagar,36,Telangana,538
+684,Mancherial,36,Telangana,0
+513,Medak,36,Telangana,535
+700,Medchal Malkajgiri,36,Telangana,0
+720,Mulugu,36,Telangana,0
+694,Nagarkurnool,36,Telangana,0
+514,Nalgonda,36,Telangana,539
+721,Narayanpet,36,Telangana,0
+680,Nirmal,36,Telangana,0
+516,Nizamabad,36,Telangana,533
+682,Peddapalli,36,Telangana,0
+683,Rajanna Sircilla,36,Telangana,0
+518,Ranga Reddy,36,Telangana,537
+691,Sangareddy,36,Telangana,0
+692,Siddipet,36,Telangana,0
+696,Suryapet,36,Telangana,0
+698,Vikarabad,36,Telangana,0
+693,Wanaparthy,36,Telangana,0
+522,Warangal,36,Telangana,540
+697,Yadadri Bhuvanagiri,36,Telangana,0

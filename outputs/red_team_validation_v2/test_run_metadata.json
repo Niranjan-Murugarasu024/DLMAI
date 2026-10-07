@@ -1,0 +1,33 @@
+{
+  "validation_suite_version": "2.1.0",
+  "model_version_audited": "DLMAI v2.0.0 (South India 148 Districts)",
+  "execution_timestamp": "2026-08-22T12:06:36.636894",
+  "total_execution_duration_seconds": 22.17,
+  "environment": {
+    "python_version": "3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy_version": "2.4.4",
+    "pandas_version": "3.0.2"
+  },
+  "file_integrity_hashes": {
+    "config_geography_yaml": "413b147afb7e2921",
+    "config_indicators_yaml": "75f46f30e8194a88",
+    "config_pillars_yaml": "767f5d68f6938b70",
+    "config_weights_yaml": "f4552644be7158c8",
+    "config_scoring_yaml": "c514f1e5576de8f6",
+    "config_sensitivity_yaml": "bd189e520061651d",
+    "lgd_south_india_csv": "042d2e84408e615a",
+    "production_scores_csv": "9bf1f5e2ac126e71"
+  },
+  "test_results_summary": {
+    "test01_independent_recomputation": "PASSED (Exact float error 0.00000000, 0 rank diffs)",
+    "test02_normalization_decomposition": "PASSED (Robust Scaling Rho=1.0000, Percentile Rho=0.8967)",
+    "test03_topn_robustness": "PASSED (1 Invariant, 81 High-Robustness, 63 Sensitive across 10 variants)",
+    "test04_data_quality_bias": "PASSED (No Quality Bias; Pearson r = -0.0820)",
+    "test05_p5_saturation_ablation": "PASSED (Ablation Rho=0.9804; Lambda Sweep 0.05-0.25 highly stable)",
+    "test06_component_decomposition": "PASSED (4 Strategic Axes evaluated; Need r=0.63, Access r=0.65)",
+    "test07_monte_carlo_uncertainty": "PASSED (N=1000 & N=5000; Mean Rho=0.9922, Kendall Tau=0.9367)",
+    "test08_external_commercial_validation": "AUDITED \u2014 CLASS D: CALIBRATED / SYNTHETIC BENCHMARK (NOT TRUE EXTERNAL VALIDATION)"
+  },
+  "verdict": "CLASS D (Test 8) / CLASS B (Core Methodology) \u2014 Statistically Defensible Internal Index; Not Yet Empirically Validated against Independent External Sales Invoices."
+}

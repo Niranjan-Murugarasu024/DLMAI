@@ -1,0 +1,11 @@
+model_variant,spearman_rho,top_5_overlap_pct,top_10_overlap_pct,top_20_overlap_pct,top_30_overlap_pct
+Variant 1: Baseline AHP + Entropy + Saturation (λ=0.15),1.0,100.0,100.0,100.0,100.0
+Variant 2: Equal Pillar Weights,0.8804,60.0,40.0,40.0,66.7
+Variant 3: Equal Indicator Weights,0.9443,80.0,90.0,80.0,80.0
+Variant 4: Robust Normalization (IQR),1.0,100.0,100.0,100.0,100.0
+Variant 5: No Saturation Dampener (λ=0.0),0.9804,100.0,100.0,95.0,93.3
+Variant 6: Low Saturation (λ=0.10),0.9979,100.0,100.0,100.0,100.0
+Variant 7: High Saturation (λ=0.20),0.9982,100.0,100.0,100.0,100.0
+Variant 8: Geometric Aggregation,0.9389,60.0,80.0,95.0,90.0
+Variant 9: Exclude Child Nutrition Proxies,0.9046,20.0,60.0,70.0,76.7
+Variant 10: P6 Aspirational Neutral (Weight=0),0.9754,40.0,70.0,75.0,86.7

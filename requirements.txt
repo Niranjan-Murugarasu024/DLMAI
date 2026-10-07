@@ -1,0 +1,5 @@
+pdfplumber>=0.10
+reportlab>=4.0
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.24

@@ -1,0 +1,149 @@
+south_india_rank,district_name,state_name,dlmai_score,commercial_tier,need_score,access_score,growth_score,competition_score,strategic_commercial_archetype
+1,Jayashankar Bhupalapally,Telangana,56.1698,Tier 1 (High Priority),60.93,51.8,47.98,0.49,Crowded Core: High Need + High Access + High Competition
+2,Palakkad,Kerala,55.887,Tier 1 (High Priority),57.12,55.92,47.98,0.49,Crowded Core: High Need + High Access + High Competition
+3,Ramanathapuram,Tamil Nadu,55.7019,Tier 1 (High Priority),46.38,55.21,56.31,0.49,Crowded Core: High Need + High Access + High Competition
+4,Kumuram Bheem Asifabad,Telangana,54.5396,Tier 1 (High Priority),63.48,47.95,47.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+5,Dindigul,Tamil Nadu,54.2876,Tier 1 (High Priority),54.77,56.69,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+6,Tirupathur,Tamil Nadu,53.8578,Tier 1 (High Priority),45.79,63.78,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+6,Ranipet,Tamil Nadu,53.8578,Tier 1 (High Priority),45.79,63.78,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+6,Vellore,Tamil Nadu,53.8578,Tier 1 (High Priority),45.79,63.78,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+9,Tirunelveli,Tamil Nadu,53.8135,Tier 1 (High Priority),46.73,62.31,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+9,Tenkasi,Tamil Nadu,53.8135,Tier 1 (High Priority),46.73,62.31,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+11,Sivaganga,Tamil Nadu,52.8579,Tier 1 (High Priority),56.53,54.28,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+12,Kallakurichi,Tamil Nadu,52.4002,Tier 1 (High Priority),41.93,62.51,31.31,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+12,Viluppuram,Tamil Nadu,52.4002,Tier 1 (High Priority),41.93,62.51,31.31,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+14,Bhadradri Kothagudem,Telangana,52.3983,Tier 1 (High Priority),50.83,54.21,47.98,0.49,Crowded Core: High Need + High Access + High Competition
+15,Kollam,Kerala,52.37,Tier 1 (High Priority),48.84,53.35,47.98,0.49,Crowded Core: High Need + High Access + High Competition
+16,Wayanad,Kerala,52.0823,Tier 1 (High Priority),47.35,43.12,72.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+17,Thrissur,Kerala,52.0529,Tier 1 (High Priority),45.91,57.84,47.98,0.49,Crowded Core: High Need + High Access + High Competition
+18,Tiruchirappalli,Tamil Nadu,51.9471,Tier 1 (High Priority),55.12,53.94,32.74,0.52,Crowded Core: High Need + High Access + High Competition
+19,Thanjavur,Tamil Nadu,51.9311,Tier 1 (High Priority),43.45,60.41,31.31,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+20,Tiruvannamalai,Tamil Nadu,51.2706,Tier 1 (High Priority),48.84,57.76,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+21,Virudhunagar,Tamil Nadu,51.1637,Tier 1 (High Priority),47.6,47.08,56.31,0.49,Latent Demand: High Need + Under-Served Infrastructure
+21,Kozhikode,Kerala,51.1637,Tier 1 (High Priority),44.25,55.68,47.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+23,Kamareddy,Telangana,50.6998,Tier 1 (High Priority),65.62,48.97,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+24,Nagapattinam,Tamil Nadu,50.5937,Tier 1 (High Priority),47.45,53.78,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+24,Mayiladuthurai,Tamil Nadu,50.5937,Tier 1 (High Priority),47.45,53.78,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+26,Adilabad,Telangana,50.1487,Tier 1 (High Priority),68.57,47.4,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+27,Alappuzha,Kerala,50.1293,Tier 1 (High Priority),46.0,50.0,47.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+28,Hanumakonda,Telangana,50.1218,Tier 1 (High Priority),59.9,55.94,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+29,Pudukkottai,Tamil Nadu,50.103,Tier 1 (High Priority),45.32,54.56,31.31,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+30,Thiruvananthapuram,Kerala,50.0934,Tier 1 (High Priority),49.38,46.52,50.99,0.73,Latent Demand: High Need + Under-Served Infrastructure
+31,Karur,Tamil Nadu,49.9906,Tier 2 (Growth Markets),60.74,46.46,31.31,0.49,Latent Demand: High Need + Under-Served Infrastructure
+32,Mulugu,Telangana,49.763,Tier 2 (Growth Markets),56.37,55.67,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+32,Warangal,Telangana,49.763,Tier 2 (Growth Markets),56.37,55.67,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+34,Erode,Tamil Nadu,49.6427,Tier 2 (Growth Markets),46.03,55.51,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+35,Jangoan,Telangana,49.4578,Tier 2 (Growth Markets),54.36,56.35,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+36,Idukki,Kerala,49.4305,Tier 2 (Growth Markets),47.69,50.08,47.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+37,Peddapalli,Telangana,49.3926,Tier 2 (Growth Markets),55.6,56.17,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+38,Jogulamba Gadwal,Telangana,49.2088,Tier 2 (Growth Markets),58.86,53.23,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+39,Kottayam,Kerala,48.8646,Tier 2 (Growth Markets),45.12,50.79,47.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+40,Nagarkurnool,Telangana,48.769,Tier 2 (Growth Markets),55.64,54.24,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+41,Ernakulam,Kerala,48.4888,Tier 2 (Growth Markets),48.15,50.96,50.94,13.51,Latent Demand: High Need + Under-Served Infrastructure
+41,Narayanpet,Telangana,48.4888,Tier 2 (Growth Markets),53.27,55.24,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+41,Mahabubnagar,Telangana,48.4888,Tier 2 (Growth Markets),53.27,55.24,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+44,Kanniyakumari,Tamil Nadu,48.4271,Tier 2 (Growth Markets),41.97,57.83,31.31,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+45,Thiruvallur,Tamil Nadu,48.4167,Tier 2 (Growth Markets),45.19,54.11,31.31,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+46,Suryapet,Telangana,48.3307,Tier 2 (Growth Markets),56.54,53.24,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+47,Wanaparthy,Telangana,48.2225,Tier 2 (Growth Markets),52.76,54.98,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+48,Nalgonda,Telangana,48.1637,Tier 2 (Growth Markets),55.86,52.59,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+49,Medak,Telangana,47.897,Tier 2 (Growth Markets),59.43,49.18,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+50,Jagitial,Telangana,47.8638,Tier 2 (Growth Markets),51.2,56.31,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+51,Kannur,Kerala,47.8057,Tier 2 (Growth Markets),43.85,50.78,47.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+52,Thoothukkudi,Tamil Nadu,47.5861,Tier 2 (Growth Markets),47.55,52.11,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+53,Perambalur,Tamil Nadu,47.5336,Tier 2 (Growth Markets),49.02,48.86,31.31,0.49,Latent Demand: High Need + Under-Served Infrastructure
+53,Ariyalur,Tamil Nadu,47.5336,Tier 2 (Growth Markets),49.02,48.86,31.31,0.49,Latent Demand: High Need + Under-Served Infrastructure
+55,Thiruvarur,Tamil Nadu,47.4865,Tier 2 (Growth Markets),49.27,48.74,31.31,0.49,Latent Demand: High Need + Under-Served Infrastructure
+56,Chengalpattu,Tamil Nadu,47.429,Tier 2 (Growth Markets),45.54,53.31,31.31,0.49,Crowded Core: High Need + High Access + High Competition
+57,Malappuram,Kerala,47.046,Tier 2 (Growth Markets),50.52,44.17,53.21,0.69,Latent Demand: High Need + Under-Served Infrastructure
+58,Namakkal,Tamil Nadu,46.8653,Tier 2 (Growth Markets),41.36,53.62,31.31,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+59,Rajanna Sircilla,Telangana,46.7016,Tier 2 (Growth Markets),46.29,57.55,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+60,Mahabubabad,Telangana,46.6505,Tier 2 (Growth Markets),49.52,54.66,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+61,Khammam,Telangana,46.5844,Tier 2 (Growth Markets),49.98,55.49,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+62,Karimnagar,Telangana,46.5414,Tier 2 (Growth Markets),47.92,55.54,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+63,Pathanamthitta,Kerala,46.3474,Tier 2 (Growth Markets),47.07,44.58,47.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+64,Ranga Reddy,Telangana,46.0734,Tier 2 (Growth Markets),51.06,53.23,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+65,Yadadri Bhuvanagiri,Telangana,46.0322,Tier 2 (Growth Markets),47.44,54.87,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+66,Nizamabad,Telangana,45.9479,Tier 2 (Growth Markets),56.96,47.82,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+67,Madurai,Tamil Nadu,45.6213,Tier 2 (Growth Markets),46.18,48.94,33.61,0.74,Latent Demand: High Need + Under-Served Infrastructure
+68,Sangareddy,Telangana,45.5959,Tier 2 (Growth Markets),55.36,48.23,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+69,Vikarabad,Telangana,45.5566,Tier 2 (Growth Markets),52.1,51.24,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+70,Cuddalore,Tamil Nadu,45.4184,Tier 2 (Growth Markets),41.55,50.95,31.31,0.49,Emerging Battleground: Rapid Growth + High Competition
+71,Chennai,Tamil Nadu,45.372,Tier 2 (Growth Markets),48.55,57.51,45.83,47.76,Crowded Core: High Need + High Access + High Competition
+72,Tiruppur,Tamil Nadu,45.158,Tier 2 (Growth Markets),43.49,49.12,31.31,0.49,Emerging Battleground: Rapid Growth + High Competition
+73,Mancherial,Telangana,45.0753,Tier 2 (Growth Markets),48.68,53.38,22.98,0.49,Crowded Core: High Need + High Access + High Competition
+74,Siddipet,Telangana,45.0713,Tier 2 (Growth Markets),50.33,50.77,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+75,Dharmapuri,Tamil Nadu,44.6524,Tier 3 (Moderate Opportunity),46.15,47.31,31.31,0.49,Latent Demand: High Need + Under-Served Infrastructure
+76,Salem,Tamil Nadu,44.5298,Tier 3 (Moderate Opportunity),41.66,49.19,34.82,0.57,Emerging Battleground: Rapid Growth + High Competition
+77,Krishnagiri,Tamil Nadu,44.4282,Tier 3 (Moderate Opportunity),39.36,51.28,31.31,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+78,The Nilgiris,Tamil Nadu,44.399,Tier 3 (Moderate Opportunity),43.91,47.84,31.31,0.49,Emerging Battleground: Rapid Growth + High Competition
+79,Kasaragod,Kerala,44.3645,Tier 3 (Moderate Opportunity),44.72,44.97,47.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+80,Theni,Tamil Nadu,43.8465,Tier 3 (Moderate Opportunity),44.45,47.68,31.31,0.49,Emerging Battleground: Rapid Growth + High Competition
+81,Karaikal,Puducherry,43.5222,Tier 3 (Moderate Opportunity),46.53,51.7,17.5,1.59,Crowded Core: High Need + High Access + High Competition
+82,Vizianagaram,Andhra Pradesh,42.712,Tier 3 (Moderate Opportunity),37.84,51.53,47.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+82,Parvathipuram Manyam,Andhra Pradesh,42.712,Tier 3 (Moderate Opportunity),37.84,51.53,47.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+84,Coimbatore,Tamil Nadu,42.4448,Tier 3 (Moderate Opportunity),37.56,48.24,34.76,10.36,Emerging Battleground: Rapid Growth + High Competition
+85,Nirmal,Telangana,42.0277,Tier 3 (Moderate Opportunity),50.14,46.19,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+86,Kancheepuram,Tamil Nadu,41.8318,Tier 3 (Moderate Opportunity),45.54,53.31,31.31,37.81,Crowded Core: High Need + High Access + High Competition
+87,East Godavari,Andhra Pradesh,41.0983,Tier 3 (Moderate Opportunity),34.36,60.25,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+87,Dr. B.R. Ambedkar Konaseema,Andhra Pradesh,41.0983,Tier 3 (Moderate Opportunity),34.36,60.25,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+87,Kakinada,Andhra Pradesh,41.0983,Tier 3 (Moderate Opportunity),34.36,60.25,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+90,Nandyal,Andhra Pradesh,41.0915,Tier 3 (Moderate Opportunity),51.62,49.76,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+91,Sri Sathya Sai,Andhra Pradesh,40.8471,Tier 3 (Moderate Opportunity),42.29,56.92,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+91,Ananthapuramu,Andhra Pradesh,40.8471,Tier 3 (Moderate Opportunity),42.29,56.92,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+93,Alluri Sitharama Raju,Andhra Pradesh,40.5917,Tier 3 (Moderate Opportunity),40.69,46.49,47.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+94,Tirupati,Andhra Pradesh,39.8424,Tier 3 (Moderate Opportunity),34.0,60.36,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+94,Chittoor,Andhra Pradesh,39.8424,Tier 3 (Moderate Opportunity),34.0,60.36,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+96,South Goa,Goa,39.7748,Tier 3 (Moderate Opportunity),51.4,48.71,18.71,37.81,Latent Demand: High Need + Under-Served Infrastructure
+97,Eluru,Andhra Pradesh,39.6019,Tier 3 (Moderate Opportunity),33.73,60.17,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+97,West Godavari,Andhra Pradesh,39.6019,Tier 3 (Moderate Opportunity),33.73,60.17,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+99,North Goa,Goa,39.306,Tier 3 (Moderate Opportunity),50.0,48.75,19.2,34.86,Latent Demand: High Need + Under-Served Infrastructure
+100,Sri Potti Sriramulu Nellore,Andhra Pradesh,39.2421,Tier 3 (Moderate Opportunity),36.86,58.62,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+101,Kurnool,Andhra Pradesh,38.4824,Tier 3 (Moderate Opportunity),51.62,46.73,28.05,0.74,Latent Demand: High Need + Under-Served Infrastructure
+102,Y.S.R.,Andhra Pradesh,38.1122,Tier 3 (Moderate Opportunity),37.75,54.26,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+102,Annamayya,Andhra Pradesh,38.1122,Tier 3 (Moderate Opportunity),37.75,54.26,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+104,Prakasam,Andhra Pradesh,37.9048,Tier 3 (Moderate Opportunity),33.43,57.32,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+105,Tumakuru,Karnataka,37.7788,Tier 3 (Moderate Opportunity),36.57,55.81,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+106,Hassan,Karnataka,37.5461,Tier 3 (Moderate Opportunity),31.53,60.32,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+107,Visakhapatnam,Andhra Pradesh,37.5401,Tier 3 (Moderate Opportunity),40.69,45.3,53.71,15.38,Emerging Battleground: Rapid Growth + High Competition
+108,Ntr,Andhra Pradesh,36.8519,Tier 3 (Moderate Opportunity),34.44,54.63,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+108,Krishna,Andhra Pradesh,36.8519,Tier 3 (Moderate Opportunity),34.44,54.63,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+110,Palnadu,Andhra Pradesh,35.2559,Tier 3 (Moderate Opportunity),38.06,47.81,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+110,Bapatla,Andhra Pradesh,35.2559,Tier 3 (Moderate Opportunity),38.06,47.81,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+112,Srikakulam,Andhra Pradesh,35.0994,Tier 3 (Moderate Opportunity),28.62,55.8,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+113,Uttara Kannada,Karnataka,34.5805,Tier 3 (Moderate Opportunity),36.38,49.29,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+114,Anakapalli,Andhra Pradesh,34.5345,Tier 3 (Moderate Opportunity),40.69,46.49,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+115,Dakshina Kannada,Karnataka,34.53,Tier 3 (Moderate Opportunity),39.13,49.94,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+116,Mahe,Puducherry,33.6345,Tier 3 (Moderate Opportunity),59.73,24.95,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+117,Chikkamagaluru,Karnataka,33.0983,Tier 3 (Moderate Opportunity),36.45,48.63,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+118,Chitradurga,Karnataka,33.0845,Tier 3 (Moderate Opportunity),38.5,45.22,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+119,Shivamogga,Karnataka,32.9403,Tier 4 (Nascent / Rural),40.05,45.47,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+120,Guntur,Andhra Pradesh,32.788,Tier 4 (Nascent / Rural),38.06,44.8,30.32,0.69,Emerging Battleground: Rapid Growth + High Competition
+121,Davangere,Karnataka,32.5881,Tier 4 (Nascent / Rural),41.29,43.08,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+122,Udupi,Karnataka,31.8944,Tier 4 (Nascent / Rural),30.67,49.94,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+123,Mandya,Karnataka,31.892,Tier 4 (Nascent / Rural),25.37,53.12,22.98,0.49,Affluent Metro / Commercial Base: Low Need + High Access
+124,Kalaburagi,Karnataka,31.8577,Tier 4 (Nascent / Rural),41.24,42.29,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+125,Kodagu,Karnataka,31.5911,Tier 4 (Nascent / Rural),37.57,43.98,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+126,Yadgir,Karnataka,31.4945,Tier 4 (Nascent / Rural),46.32,27.48,47.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+127,Raichur,Karnataka,31.2915,Tier 4 (Nascent / Rural),39.41,31.44,47.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+128,Hyderabad,Telangana,31.1017,Tier 4 (Nascent / Rural),50.49,42.74,37.5,83.36,Latent Demand: High Need + Under-Served Infrastructure
+129,Bengaluru Rural,Karnataka,30.5198,Tier 4 (Nascent / Rural),34.9,45.95,12.5,0.0,Developing Frontier: Nascent Market
+130,Koppal,Karnataka,29.8008,Tier 4 (Nascent / Rural),48.42,33.87,22.98,0.49,Latent Demand: High Need + Under-Served Infrastructure
+131,Belagavi,Karnataka,29.7867,Tier 4 (Nascent / Rural),38.97,41.27,30.05,0.76,Emerging Battleground: Rapid Growth + High Competition
+132,Medchal Malkajgiri,Telangana,29.1216,Tier 4 (Nascent / Rural),46.45,53.27,22.98,100.0,Crowded Core: High Need + High Access + High Competition
+133,Bagalkote,Karnataka,29.0704,Tier 4 (Nascent / Rural),42.97,35.35,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+134,Yanam,Puducherry,28.9722,Tier 4 (Nascent / Rural),44.75,28.68,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+135,Mysuru,Karnataka,28.7889,Tier 4 (Nascent / Rural),30.78,47.6,25.17,8.83,Emerging Battleground: Rapid Growth + High Competition
+136,Puducherry,Puducherry,28.6171,Tier 4 (Nascent / Rural),36.57,37.32,19.55,18.75,Developing Frontier: Nascent Market
+137,Ballari,Karnataka,28.5706,Tier 4 (Nascent / Rural),37.94,34.32,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+137,Vijayanagar,Karnataka,28.5706,Tier 4 (Nascent / Rural),37.94,34.32,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+139,Vijayapura,Karnataka,28.3305,Tier 4 (Nascent / Rural),40.02,37.41,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+140,Chamarajanagara,Karnataka,28.2033,Tier 4 (Nascent / Rural),35.18,39.4,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+141,Haveri,Karnataka,27.9665,Tier 4 (Nascent / Rural),35.07,35.28,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+142,Kolar,Karnataka,27.7513,Tier 4 (Nascent / Rural),27.08,44.66,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+143,Chikkaballapura,Karnataka,27.7301,Tier 4 (Nascent / Rural),32.71,40.16,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+144,Dharwad,Karnataka,27.6686,Tier 4 (Nascent / Rural),42.48,35.09,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+145,Bidar,Karnataka,27.3356,Tier 4 (Nascent / Rural),38.55,36.11,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+146,Gadag,Karnataka,27.099,Tier 4 (Nascent / Rural),42.38,30.9,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+147,Ramanagara,Karnataka,26.723,Tier 4 (Nascent / Rural),29.18,41.36,22.98,0.49,Emerging Battleground: Rapid Growth + High Competition
+148,Bengaluru Urban,Karnataka,24.4636,Tier 4 (Nascent / Rural),40.13,35.16,37.5,26.84,Emerging Battleground: Rapid Growth + High Competition

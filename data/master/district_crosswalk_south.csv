@@ -1,0 +1,187 @@
+source_district_name,source_state,canonical_lgd_code,canonical_district_name,mapping_type,parent_district_name,parent_lgd_code,confidence,notes
+Alluri Sitharama Raju,Andhra Pradesh,745,Alluri Sitharama Raju,SPLIT,Visakhapatnam,520,1.0,Official canonical LGD entity. Parent: Visakhapatnam
+Anakapalli,Andhra Pradesh,744,Anakapalli,SPLIT,Visakhapatnam,520,1.0,Official canonical LGD entity. Parent: Visakhapatnam
+Ananthapuramu,Andhra Pradesh,502,Ananthapuramu,EXACT,,,1.0,Official canonical LGD entity
+Annamayya,Andhra Pradesh,753,Annamayya,SPLIT,Y.S.R.,504,1.0,Official canonical LGD entity. Parent: Y.S.R.
+Bapatla,Andhra Pradesh,750,Bapatla,SPLIT,Guntur,506,1.0,Official canonical LGD entity. Parent: Guntur
+Chittoor,Andhra Pradesh,503,Chittoor,EXACT,,,1.0,Official canonical LGD entity
+Dr. B.R. Ambedkar Konaseema,Andhra Pradesh,747,Dr. B.R. Ambedkar Konaseema,SPLIT,East Godavari,505,1.0,Official canonical LGD entity. Parent: East Godavari
+East Godavari,Andhra Pradesh,505,East Godavari,EXACT,,,1.0,Official canonical LGD entity
+Eluru,Andhra Pradesh,748,Eluru,SPLIT,West Godavari,523,1.0,Official canonical LGD entity. Parent: West Godavari
+Guntur,Andhra Pradesh,506,Guntur,EXACT,,,1.0,Official canonical LGD entity
+Kakinada,Andhra Pradesh,746,Kakinada,SPLIT,East Godavari,505,1.0,Official canonical LGD entity. Parent: East Godavari
+Krishna,Andhra Pradesh,510,Krishna,EXACT,,,1.0,Official canonical LGD entity
+Kurnool,Andhra Pradesh,511,Kurnool,EXACT,,,1.0,Official canonical LGD entity
+Nandyal,Andhra Pradesh,755,Nandyal,SPLIT,Kurnool,511,1.0,Official canonical LGD entity. Parent: Kurnool
+Ntr,Andhra Pradesh,749,Ntr,SPLIT,Krishna,510,1.0,Official canonical LGD entity. Parent: Krishna
+Palnadu,Andhra Pradesh,751,Palnadu,SPLIT,Guntur,506,1.0,Official canonical LGD entity. Parent: Guntur
+Parvathipuram Manyam,Andhra Pradesh,743,Parvathipuram Manyam,SPLIT,Vizianagaram,521,1.0,Official canonical LGD entity. Parent: Vizianagaram
+Prakasam,Andhra Pradesh,517,Prakasam,EXACT,,,1.0,Official canonical LGD entity
+Sri Potti Sriramulu Nellore,Andhra Pradesh,515,Sri Potti Sriramulu Nellore,EXACT,,,1.0,Official canonical LGD entity
+Sri Sathya Sai,Andhra Pradesh,754,Sri Sathya Sai,SPLIT,Ananthapuramu,502,1.0,Official canonical LGD entity. Parent: Ananthapuramu
+Srikakulam,Andhra Pradesh,519,Srikakulam,EXACT,,,1.0,Official canonical LGD entity
+Tirupati,Andhra Pradesh,752,Tirupati,SPLIT,Chittoor,503,1.0,Official canonical LGD entity. Parent: Chittoor
+Visakhapatnam,Andhra Pradesh,520,Visakhapatnam,EXACT,,,1.0,Official canonical LGD entity
+Vizianagaram,Andhra Pradesh,521,Vizianagaram,EXACT,,,1.0,Official canonical LGD entity
+West Godavari,Andhra Pradesh,523,West Godavari,EXACT,,,1.0,Official canonical LGD entity
+Y.S.R.,Andhra Pradesh,504,Y.S.R.,EXACT,,,1.0,Official canonical LGD entity
+North Goa,Goa,551,North Goa,EXACT,,,1.0,Official canonical LGD entity
+South Goa,Goa,552,South Goa,EXACT,,,1.0,Official canonical LGD entity
+Bagalkote,Karnataka,524,Bagalkote,EXACT,,,1.0,Official canonical LGD entity
+Ballari,Karnataka,528,Ballari,EXACT,,,1.0,Official canonical LGD entity
+Belagavi,Karnataka,527,Belagavi,EXACT,,,1.0,Official canonical LGD entity
+Bengaluru Rural,Karnataka,526,Bengaluru Rural,EXACT,,,1.0,Official canonical LGD entity
+Bengaluru Urban,Karnataka,525,Bengaluru Urban,EXACT,,,1.0,Official canonical LGD entity
+Bidar,Karnataka,529,Bidar,EXACT,,,1.0,Official canonical LGD entity
+Chamarajanagara,Karnataka,531,Chamarajanagara,EXACT,,,1.0,Official canonical LGD entity
+Chikkaballapura,Karnataka,630,Chikkaballapura,EXACT,,,1.0,Official canonical LGD entity
+Chikkamagaluru,Karnataka,532,Chikkamagaluru,EXACT,,,1.0,Official canonical LGD entity
+Chitradurga,Karnataka,533,Chitradurga,EXACT,,,1.0,Official canonical LGD entity
+Dakshina Kannada,Karnataka,534,Dakshina Kannada,EXACT,,,1.0,Official canonical LGD entity
+Davangere,Karnataka,535,Davangere,EXACT,,,1.0,Official canonical LGD entity
+Dharwad,Karnataka,536,Dharwad,EXACT,,,1.0,Official canonical LGD entity
+Gadag,Karnataka,537,Gadag,EXACT,,,1.0,Official canonical LGD entity
+Hassan,Karnataka,539,Hassan,EXACT,,,1.0,Official canonical LGD entity
+Haveri,Karnataka,540,Haveri,EXACT,,,1.0,Official canonical LGD entity
+Kalaburagi,Karnataka,538,Kalaburagi,EXACT,,,1.0,Official canonical LGD entity
+Kodagu,Karnataka,541,Kodagu,EXACT,,,1.0,Official canonical LGD entity
+Kolar,Karnataka,542,Kolar,EXACT,,,1.0,Official canonical LGD entity
+Koppal,Karnataka,543,Koppal,EXACT,,,1.0,Official canonical LGD entity
+Mandya,Karnataka,544,Mandya,EXACT,,,1.0,Official canonical LGD entity
+Mysuru,Karnataka,545,Mysuru,EXACT,,,1.0,Official canonical LGD entity
+Raichur,Karnataka,546,Raichur,EXACT,,,1.0,Official canonical LGD entity
+Ramanagara,Karnataka,631,Ramanagara,EXACT,,,1.0,Official canonical LGD entity
+Shivamogga,Karnataka,547,Shivamogga,EXACT,,,1.0,Official canonical LGD entity
+Tumakuru,Karnataka,548,Tumakuru,EXACT,,,1.0,Official canonical LGD entity
+Udupi,Karnataka,549,Udupi,EXACT,,,1.0,Official canonical LGD entity
+Uttara Kannada,Karnataka,550,Uttara Kannada,EXACT,,,1.0,Official canonical LGD entity
+Vijayanagar,Karnataka,738,Vijayanagar,SPLIT,Ballari,528,1.0,Official canonical LGD entity. Parent: Ballari
+Vijayapura,Karnataka,530,Vijayapura,EXACT,,,1.0,Official canonical LGD entity
+Yadgir,Karnataka,635,Yadgir,EXACT,,,1.0,Official canonical LGD entity
+Alappuzha,Kerala,554,Alappuzha,EXACT,,,1.0,Official canonical LGD entity
+Ernakulam,Kerala,555,Ernakulam,EXACT,,,1.0,Official canonical LGD entity
+Idukki,Kerala,556,Idukki,EXACT,,,1.0,Official canonical LGD entity
+Kannur,Kerala,557,Kannur,EXACT,,,1.0,Official canonical LGD entity
+Kasaragod,Kerala,558,Kasaragod,EXACT,,,1.0,Official canonical LGD entity
+Kollam,Kerala,559,Kollam,EXACT,,,1.0,Official canonical LGD entity
+Kottayam,Kerala,560,Kottayam,EXACT,,,1.0,Official canonical LGD entity
+Kozhikode,Kerala,561,Kozhikode,EXACT,,,1.0,Official canonical LGD entity
+Malappuram,Kerala,562,Malappuram,EXACT,,,1.0,Official canonical LGD entity
+Palakkad,Kerala,563,Palakkad,EXACT,,,1.0,Official canonical LGD entity
+Pathanamthitta,Kerala,564,Pathanamthitta,EXACT,,,1.0,Official canonical LGD entity
+Thiruvananthapuram,Kerala,565,Thiruvananthapuram,EXACT,,,1.0,Official canonical LGD entity
+Thrissur,Kerala,566,Thrissur,EXACT,,,1.0,Official canonical LGD entity
+Wayanad,Kerala,567,Wayanad,EXACT,,,1.0,Official canonical LGD entity
+Karaikal,Puducherry,598,Karaikal,EXACT,,,1.0,Official canonical LGD entity
+Mahe,Puducherry,599,Mahe,EXACT,,,1.0,Official canonical LGD entity
+Puducherry,Puducherry,600,Puducherry,EXACT,,,1.0,Official canonical LGD entity
+Yanam,Puducherry,601,Yanam,EXACT,,,1.0,Official canonical LGD entity
+Ariyalur,Tamil Nadu,610,Ariyalur,SPLIT,Perambalur,581,1.0,Official canonical LGD entity. Parent: Perambalur
+Chengalpattu,Tamil Nadu,730,Chengalpattu,SPLIT,Kancheepuram,574,1.0,Official canonical LGD entity. Parent: Kancheepuram
+Chennai,Tamil Nadu,568,Chennai,EXACT,,,1.0,Official canonical LGD entity
+Coimbatore,Tamil Nadu,569,Coimbatore,EXACT,,,1.0,Official canonical LGD entity
+Cuddalore,Tamil Nadu,570,Cuddalore,EXACT,,,1.0,Official canonical LGD entity
+Dharmapuri,Tamil Nadu,571,Dharmapuri,EXACT,,,1.0,Official canonical LGD entity
+Dindigul,Tamil Nadu,572,Dindigul,EXACT,,,1.0,Official canonical LGD entity
+Erode,Tamil Nadu,573,Erode,EXACT,,,1.0,Official canonical LGD entity
+Kallakurichi,Tamil Nadu,729,Kallakurichi,SPLIT,Viluppuram,596,1.0,Official canonical LGD entity. Parent: Viluppuram
+Kancheepuram,Tamil Nadu,574,Kancheepuram,EXACT,,,1.0,Official canonical LGD entity
+Kanniyakumari,Tamil Nadu,575,Kanniyakumari,EXACT,,,1.0,Official canonical LGD entity
+Karur,Tamil Nadu,576,Karur,EXACT,,,1.0,Official canonical LGD entity
+Krishnagiri,Tamil Nadu,577,Krishnagiri,EXACT,,,1.0,Official canonical LGD entity
+Madurai,Tamil Nadu,578,Madurai,EXACT,,,1.0,Official canonical LGD entity
+Mayiladuthurai,Tamil Nadu,735,Mayiladuthurai,SPLIT,Nagapattinam,579,1.0,Official canonical LGD entity. Parent: Nagapattinam
+Nagapattinam,Tamil Nadu,579,Nagapattinam,EXACT,,,1.0,Official canonical LGD entity
+Namakkal,Tamil Nadu,580,Namakkal,EXACT,,,1.0,Official canonical LGD entity
+Perambalur,Tamil Nadu,581,Perambalur,EXACT,,,1.0,Official canonical LGD entity
+Pudukkottai,Tamil Nadu,582,Pudukkottai,EXACT,,,1.0,Official canonical LGD entity
+Ramanathapuram,Tamil Nadu,583,Ramanathapuram,EXACT,,,1.0,Official canonical LGD entity
+Ranipet,Tamil Nadu,731,Ranipet,SPLIT,Vellore,595,1.0,Official canonical LGD entity. Parent: Vellore
+Salem,Tamil Nadu,584,Salem,EXACT,,,1.0,Official canonical LGD entity
+Sivaganga,Tamil Nadu,585,Sivaganga,EXACT,,,1.0,Official canonical LGD entity
+Tenkasi,Tamil Nadu,733,Tenkasi,SPLIT,Tirunelveli,592,1.0,Official canonical LGD entity. Parent: Tirunelveli
+Thanjavur,Tamil Nadu,586,Thanjavur,EXACT,,,1.0,Official canonical LGD entity
+The Nilgiris,Tamil Nadu,587,The Nilgiris,EXACT,,,1.0,Official canonical LGD entity
+Theni,Tamil Nadu,588,Theni,EXACT,,,1.0,Official canonical LGD entity
+Thiruvallur,Tamil Nadu,589,Thiruvallur,EXACT,,,1.0,Official canonical LGD entity
+Thiruvarur,Tamil Nadu,590,Thiruvarur,EXACT,,,1.0,Official canonical LGD entity
+Thoothukkudi,Tamil Nadu,594,Thoothukkudi,EXACT,,,1.0,Official canonical LGD entity
+Tiruchirappalli,Tamil Nadu,591,Tiruchirappalli,EXACT,,,1.0,Official canonical LGD entity
+Tirunelveli,Tamil Nadu,592,Tirunelveli,EXACT,,,1.0,Official canonical LGD entity
+Tirupathur,Tamil Nadu,732,Tirupathur,SPLIT,Vellore,595,1.0,Official canonical LGD entity. Parent: Vellore
+Tiruppur,Tamil Nadu,634,Tiruppur,EXACT,,,1.0,Official canonical LGD entity
+Tiruvannamalai,Tamil Nadu,593,Tiruvannamalai,EXACT,,,1.0,Official canonical LGD entity
+Vellore,Tamil Nadu,595,Vellore,EXACT,,,1.0,Official canonical LGD entity
+Viluppuram,Tamil Nadu,596,Viluppuram,EXACT,,,1.0,Official canonical LGD entity
+Virudhunagar,Tamil Nadu,597,Virudhunagar,EXACT,,,1.0,Official canonical LGD entity
+Adilabad,Telangana,501,Adilabad,EXACT,,,1.0,Official canonical LGD entity
+Bhadradri Kothagudem,Telangana,690,Bhadradri Kothagudem,SPLIT,Khammam,509,1.0,Official canonical LGD entity. Parent: Khammam
+Hanumakonda,Telangana,686,Hanumakonda,SPLIT,Warangal,522,1.0,Official canonical LGD entity. Parent: Warangal
+Hyderabad,Telangana,507,Hyderabad,EXACT,,,1.0,Official canonical LGD entity
+Jagitial,Telangana,681,Jagitial,SPLIT,Karimnagar,508,1.0,Official canonical LGD entity. Parent: Karimnagar
+Jangoan,Telangana,689,Jangoan,SPLIT,Warangal,522,1.0,Official canonical LGD entity. Parent: Warangal
+Jayashankar Bhupalapally,Telangana,687,Jayashankar Bhupalapally,SPLIT,Warangal,522,1.0,Official canonical LGD entity. Parent: Warangal
+Jogulamba Gadwal,Telangana,695,Jogulamba Gadwal,SPLIT,Mahabubnagar,512,1.0,Official canonical LGD entity. Parent: Mahabubnagar
+Kamareddy,Telangana,685,Kamareddy,SPLIT,Nizamabad,516,1.0,Official canonical LGD entity. Parent: Nizamabad
+Karimnagar,Telangana,508,Karimnagar,EXACT,,,1.0,Official canonical LGD entity
+Khammam,Telangana,509,Khammam,EXACT,,,1.0,Official canonical LGD entity
+Kumuram Bheem Asifabad,Telangana,699,Kumuram Bheem Asifabad,SPLIT,Adilabad,501,1.0,Official canonical LGD entity. Parent: Adilabad
+Mahabubabad,Telangana,688,Mahabubabad,SPLIT,Warangal,522,1.0,Official canonical LGD entity. Parent: Warangal
+Mahabubnagar,Telangana,512,Mahabubnagar,EXACT,,,1.0,Official canonical LGD entity
+Mancherial,Telangana,684,Mancherial,SPLIT,Adilabad,501,1.0,Official canonical LGD entity. Parent: Adilabad
+Medak,Telangana,513,Medak,EXACT,,,1.0,Official canonical LGD entity
+Medchal Malkajgiri,Telangana,700,Medchal Malkajgiri,SPLIT,Ranga Reddy,518,1.0,Official canonical LGD entity. Parent: Ranga Reddy
+Mulugu,Telangana,720,Mulugu,SPLIT,Warangal,522,1.0,Official canonical LGD entity. Parent: Warangal
+Nagarkurnool,Telangana,694,Nagarkurnool,SPLIT,Mahabubnagar,512,1.0,Official canonical LGD entity. Parent: Mahabubnagar
+Nalgonda,Telangana,514,Nalgonda,EXACT,,,1.0,Official canonical LGD entity
+Narayanpet,Telangana,721,Narayanpet,SPLIT,Mahabubnagar,512,1.0,Official canonical LGD entity. Parent: Mahabubnagar
+Nirmal,Telangana,680,Nirmal,SPLIT,Adilabad,501,1.0,Official canonical LGD entity. Parent: Adilabad
+Nizamabad,Telangana,516,Nizamabad,EXACT,,,1.0,Official canonical LGD entity
+Peddapalli,Telangana,682,Peddapalli,SPLIT,Karimnagar,508,1.0,Official canonical LGD entity. Parent: Karimnagar
+Rajanna Sircilla,Telangana,683,Rajanna Sircilla,SPLIT,Karimnagar,508,1.0,Official canonical LGD entity. Parent: Karimnagar
+Ranga Reddy,Telangana,518,Ranga Reddy,EXACT,,,1.0,Official canonical LGD entity
+Sangareddy,Telangana,691,Sangareddy,SPLIT,Medak,513,1.0,Official canonical LGD entity. Parent: Medak
+Siddipet,Telangana,692,Siddipet,SPLIT,Medak,513,1.0,Official canonical LGD entity. Parent: Medak
+Suryapet,Telangana,696,Suryapet,SPLIT,Nalgonda,514,1.0,Official canonical LGD entity. Parent: Nalgonda
+Vikarabad,Telangana,698,Vikarabad,SPLIT,Ranga Reddy,518,1.0,Official canonical LGD entity. Parent: Ranga Reddy
+Wanaparthy,Telangana,693,Wanaparthy,SPLIT,Mahabubnagar,512,1.0,Official canonical LGD entity. Parent: Mahabubnagar
+Warangal,Telangana,522,Warangal,EXACT,,,1.0,Official canonical LGD entity
+Yadadri Bhuvanagiri,Telangana,697,Yadadri Bhuvanagiri,SPLIT,Nalgonda,514,1.0,Official canonical LGD entity. Parent: Nalgonda
+Bangalore,Karnataka,525,Bengaluru Urban,ALIAS,,,1.0,Alias / alternate spelling for Bengaluru Urban
+Bangalore Urban,Karnataka,525,Bengaluru Urban,ALIAS,,,1.0,Alias / alternate spelling for Bengaluru Urban
+Bengaluru,Karnataka,525,Bengaluru Urban,ALIAS,,,1.0,Alias / alternate spelling for Bengaluru Urban
+Bangalore Rural,Karnataka,526,Bengaluru Rural,ALIAS,,,1.0,Alias / alternate spelling for Bengaluru Rural
+Belgaum,Karnataka,527,Belagavi,RENAMED,,,1.0,Alias / alternate spelling for Belagavi
+Bellary,Karnataka,528,Ballari,RENAMED,,,1.0,Alias / alternate spelling for Ballari
+Bijapur,Karnataka,530,Vijayapura,RENAMED,,,1.0,Alias / alternate spelling for Vijayapura
+Chikmagalur,Karnataka,532,Chikkamagaluru,RENAMED,,,1.0,Alias / alternate spelling for Chikkamagaluru
+Gulbarga,Karnataka,538,Kalaburagi,RENAMED,,,1.0,Alias / alternate spelling for Kalaburagi
+Mysore,Karnataka,545,Mysuru,RENAMED,,,1.0,Alias / alternate spelling for Mysuru
+Shimoga,Karnataka,547,Shivamogga,RENAMED,,,1.0,Alias / alternate spelling for Shivamogga
+Tumkur,Karnataka,548,Tumakuru,RENAMED,,,1.0,Alias / alternate spelling for Tumakuru
+Nellore,Andhra Pradesh,515,Sri Potti Sriramulu Nellore,ALIAS,,,1.0,Alias / alternate spelling for Sri Potti Sriramulu Nellore
+SPSR Nellore,Andhra Pradesh,515,Sri Potti Sriramulu Nellore,ALIAS,,,1.0,Alias / alternate spelling for Sri Potti Sriramulu Nellore
+Anantapur,Andhra Pradesh,502,Ananthapuramu,RENAMED,,,1.0,Alias / alternate spelling for Ananthapuramu
+Visakhapatnam,Andhra Pradesh,520,Visakhapatnam,EXACT,,,1.0,Alias / alternate spelling for Visakhapatnam
+Vizag,Andhra Pradesh,520,Visakhapatnam,ALIAS,,,1.0,Alias / alternate spelling for Visakhapatnam
+Thoothukkudi,Tamil Nadu,594,Thoothukkudi,EXACT,,,1.0,Alias / alternate spelling for Thoothukkudi
+Tuticorin,Tamil Nadu,594,Thoothukkudi,ALIAS,,,1.0,Alias / alternate spelling for Thoothukkudi
+Tiruchirappalli,Tamil Nadu,591,Tiruchirappalli,EXACT,,,1.0,Alias / alternate spelling for Tiruchirappalli
+Trichy,Tamil Nadu,591,Tiruchirappalli,ALIAS,,,1.0,Alias / alternate spelling for Tiruchirappalli
+Tirunelveli Kattabo,Tamil Nadu,592,Tirunelveli,HISTORICAL,,,1.0,Alias / alternate spelling for Tirunelveli
+Villupuram,Tamil Nadu,596,Viluppuram,ALIAS,,,1.0,Alias / alternate spelling for Viluppuram
+Warangal Urban,Telangana,686,Hanumakonda,RENAMED,,,1.0,Alias / alternate spelling for Hanumakonda
+Warangal Rural,Telangana,522,Warangal,RENAMED,,,1.0,Alias / alternate spelling for Warangal
+Komaram Bheem Asifabad,Telangana,699,Kumuram Bheem Asifabad,ALIAS,,,1.0,Alias / alternate spelling for Kumuram Bheem Asifabad
+Medchal-Malkajgiri,Telangana,700,Medchal Malkajgiri,ALIAS,,,1.0,Alias / alternate spelling for Medchal Malkajgiri
+Jangaon,Telangana,689,Jangoan,ALIAS,,,1.0,Alias / alternate spelling for Jangoan
+K.B. Asifabad,Telangana,699,Kumuram Bheem Asifabad,ALIAS,,,1.0,Alias / alternate spelling for Kumuram Bheem Asifabad
+Kasargod,Kerala,558,Kasaragod,ALIAS,,,1.0,Alias / alternate spelling for Kasaragod
+Trivandrum,Kerala,565,Thiruvananthapuram,ALIAS,,,1.0,Alias / alternate spelling for Thiruvananthapuram
+Cochin,Kerala,555,Ernakulam,ALIAS,,,1.0,Alias / alternate spelling for Ernakulam
+Calicut,Kerala,561,Kozhikode,ALIAS,,,1.0,Alias / alternate spelling for Kozhikode
+Palghat,Kerala,563,Palakkad,ALIAS,,,1.0,Alias / alternate spelling for Palakkad
+Quilon,Kerala,559,Kollam,ALIAS,,,1.0,Alias / alternate spelling for Kollam
+Trichur,Kerala,566,Thrissur,ALIAS,,,1.0,Alias / alternate spelling for Thrissur
+Alleppey,Kerala,554,Alappuzha,ALIAS,,,1.0,Alias / alternate spelling for Alappuzha
+Pondicherry,Puducherry,600,Puducherry,ALIAS,,,1.0,Alias / alternate spelling for Puducherry

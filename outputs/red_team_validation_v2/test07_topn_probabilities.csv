@@ -1,0 +1,149 @@
+lgd_district_code,district_name,state_name,baseline_rank,top_5_prob_pct,top_10_prob_pct,top_20_prob_pct,top_30_prob_pct
+687,Jayashankar Bhupalapally,Telangana,1,86.4,94.8,100.0,100.0
+563,Palakkad,Kerala,2,91.6,98.1,100.0,100.0
+583,Ramanathapuram,Tamil Nadu,3,87.2,99.0,100.0,100.0
+699,Kumuram Bheem Asifabad,Telangana,4,55.8,74.7,98.2,99.9
+572,Dindigul,Tamil Nadu,5,50.5,98.1,100.0,100.0
+732,Tirupathur,Tamil Nadu,6,30.6,88.1,99.9,100.0
+731,Ranipet,Tamil Nadu,6,30.6,88.1,99.9,100.0
+595,Vellore,Tamil Nadu,6,30.6,88.1,99.9,100.0
+592,Tirunelveli,Tamil Nadu,9,25.1,77.3,99.6,100.0
+733,Tenkasi,Tamil Nadu,9,25.1,77.3,99.6,100.0
+585,Sivaganga,Tamil Nadu,11,0.4,20.9,99.8,100.0
+729,Kallakurichi,Tamil Nadu,12,0.0,16.1,84.8,97.8
+596,Viluppuram,Tamil Nadu,12,0.0,16.1,84.8,97.8
+690,Bhadradri Kothagudem,Telangana,14,4.8,18.2,80.2,99.3
+559,Kollam,Kerala,15,4.0,15.1,95.6,100.0
+567,Wayanad,Kerala,16,17.9,30.6,63.5,85.6
+566,Thrissur,Kerala,17,0.6,6.9,84.5,99.0
+591,Tiruchirappalli,Tamil Nadu,18,0.0,0.9,90.6,100.0
+586,Thanjavur,Tamil Nadu,19,0.0,0.3,74.1,97.3
+593,Tiruvannamalai,Tamil Nadu,20,0.0,0.0,39.3,99.9
+597,Virudhunagar,Tamil Nadu,21,0.3,6.2,39.0,81.6
+561,Kozhikode,Kerala,21,0.0,2.3,43.8,90.1
+685,Kamareddy,Telangana,23,0.1,4.7,33.4,79.5
+579,Nagapattinam,Tamil Nadu,24,0.0,0.0,8.7,89.1
+735,Mayiladuthurai,Tamil Nadu,24,0.0,0.0,8.7,89.1
+501,Adilabad,Telangana,26,1.1,4.5,20.3,54.6
+554,Alappuzha,Kerala,27,0.0,0.5,8.4,61.0
+686,Hanumakonda,Telangana,28,0.0,0.0,9.2,68.0
+582,Pudukkottai,Tamil Nadu,29,0.0,0.0,0.5,56.8
+565,Thiruvananthapuram,Kerala,30,0.4,3.4,18.2,58.1
+576,Karur,Tamil Nadu,31,0.0,1.2,13.0,52.8
+720,Mulugu,Telangana,32,0.0,0.0,2.8,47.0
+522,Warangal,Telangana,32,0.0,0.0,2.8,47.0
+573,Erode,Tamil Nadu,34,0.0,0.0,0.1,34.0
+689,Jangoan,Telangana,35,0.0,0.0,0.0,16.2
+556,Idukki,Kerala,36,0.0,0.0,3.0,34.5
+682,Peddapalli,Telangana,37,0.0,0.0,0.0,19.1
+695,Jogulamba Gadwal,Telangana,38,0.0,0.0,1.7,11.9
+560,Kottayam,Kerala,39,0.0,0.0,0.8,16.7
+694,Nagarkurnool,Telangana,40,0.0,0.0,0.0,2.2
+555,Ernakulam,Kerala,41,0.0,0.0,1.6,13.5
+721,Narayanpet,Telangana,41,0.0,0.0,0.0,0.1
+512,Mahabubnagar,Telangana,41,0.0,0.0,0.0,0.1
+575,Kanniyakumari,Tamil Nadu,44,0.0,0.0,0.0,4.8
+589,Thiruvallur,Tamil Nadu,45,0.0,0.0,0.0,5.2
+696,Suryapet,Telangana,46,0.0,0.0,0.0,0.4
+693,Wanaparthy,Telangana,47,0.0,0.0,0.0,0.0
+514,Nalgonda,Telangana,48,0.0,0.0,0.0,0.1
+513,Medak,Telangana,49,0.0,0.0,0.0,1.4
+681,Jagitial,Telangana,50,0.0,0.0,0.0,0.1
+557,Kannur,Kerala,51,0.0,0.0,0.0,1.6
+594,Thoothukkudi,Tamil Nadu,52,0.0,0.0,0.0,0.0
+581,Perambalur,Tamil Nadu,53,0.0,0.0,0.0,0.0
+610,Ariyalur,Tamil Nadu,53,0.0,0.0,0.0,0.0
+590,Thiruvarur,Tamil Nadu,55,0.0,0.0,0.0,0.0
+730,Chengalpattu,Tamil Nadu,56,0.0,0.0,0.0,0.1
+562,Malappuram,Kerala,57,0.0,0.0,0.0,1.4
+580,Namakkal,Tamil Nadu,58,0.0,0.0,0.0,0.0
+683,Rajanna Sircilla,Telangana,59,0.0,0.0,0.0,0.0
+688,Mahabubabad,Telangana,60,0.0,0.0,0.0,0.0
+509,Khammam,Telangana,61,0.0,0.0,0.0,0.0
+508,Karimnagar,Telangana,62,0.0,0.0,0.0,0.0
+564,Pathanamthitta,Kerala,63,0.0,0.0,0.0,0.3
+518,Ranga Reddy,Telangana,64,0.0,0.0,0.0,0.0
+697,Yadadri Bhuvanagiri,Telangana,65,0.0,0.0,0.0,0.0
+516,Nizamabad,Telangana,66,0.0,0.0,0.0,0.0
+578,Madurai,Tamil Nadu,67,0.0,0.0,0.0,0.0
+691,Sangareddy,Telangana,68,0.0,0.0,0.0,0.0
+698,Vikarabad,Telangana,69,0.0,0.0,0.0,0.0
+570,Cuddalore,Tamil Nadu,70,0.0,0.0,0.0,0.0
+568,Chennai,Tamil Nadu,71,0.0,0.0,0.0,0.0
+634,Tiruppur,Tamil Nadu,72,0.0,0.0,0.0,0.0
+684,Mancherial,Telangana,73,0.0,0.0,0.0,0.0
+692,Siddipet,Telangana,74,0.0,0.0,0.0,0.0
+571,Dharmapuri,Tamil Nadu,75,0.0,0.0,0.0,0.0
+584,Salem,Tamil Nadu,76,0.0,0.0,0.0,0.0
+577,Krishnagiri,Tamil Nadu,77,0.0,0.0,0.0,0.0
+587,The Nilgiris,Tamil Nadu,78,0.0,0.0,0.0,0.0
+558,Kasaragod,Kerala,79,0.0,0.0,0.0,0.0
+588,Theni,Tamil Nadu,80,0.0,0.0,0.0,0.0
+598,Karaikal,Puducherry,81,0.0,0.0,0.0,0.4
+521,Vizianagaram,Andhra Pradesh,82,0.0,0.0,0.0,0.1
+743,Parvathipuram Manyam,Andhra Pradesh,82,0.0,0.0,0.0,0.1
+569,Coimbatore,Tamil Nadu,84,0.0,0.0,0.0,0.0
+680,Nirmal,Telangana,85,0.0,0.0,0.0,0.0
+574,Kancheepuram,Tamil Nadu,86,0.0,0.0,0.0,0.0
+505,East Godavari,Andhra Pradesh,87,0.0,0.0,0.0,0.0
+747,Dr. B.R. Ambedkar Konaseema,Andhra Pradesh,87,0.0,0.0,0.0,0.0
+746,Kakinada,Andhra Pradesh,87,0.0,0.0,0.0,0.0
+755,Nandyal,Andhra Pradesh,90,0.0,0.0,0.0,0.0
+754,Sri Sathya Sai,Andhra Pradesh,91,0.0,0.0,0.0,0.0
+502,Ananthapuramu,Andhra Pradesh,91,0.0,0.0,0.0,0.0
+745,Alluri Sitharama Raju,Andhra Pradesh,93,0.0,0.0,0.0,0.0
+752,Tirupati,Andhra Pradesh,94,0.0,0.0,0.0,0.0
+503,Chittoor,Andhra Pradesh,94,0.0,0.0,0.0,0.0
+552,South Goa,Goa,96,0.0,0.0,0.0,0.0
+748,Eluru,Andhra Pradesh,97,0.0,0.0,0.0,0.0
+523,West Godavari,Andhra Pradesh,97,0.0,0.0,0.0,0.0
+551,North Goa,Goa,99,0.0,0.0,0.0,0.0
+515,Sri Potti Sriramulu Nellore,Andhra Pradesh,100,0.0,0.0,0.0,0.0
+511,Kurnool,Andhra Pradesh,101,0.0,0.0,0.0,0.0
+504,Y.S.R.,Andhra Pradesh,102,0.0,0.0,0.0,0.0
+753,Annamayya,Andhra Pradesh,102,0.0,0.0,0.0,0.0
+517,Prakasam,Andhra Pradesh,104,0.0,0.0,0.0,0.0
+548,Tumakuru,Karnataka,105,0.0,0.0,0.0,0.0
+539,Hassan,Karnataka,106,0.0,0.0,0.0,0.0
+520,Visakhapatnam,Andhra Pradesh,107,0.0,0.0,0.0,0.0
+749,Ntr,Andhra Pradesh,108,0.0,0.0,0.0,0.0
+510,Krishna,Andhra Pradesh,108,0.0,0.0,0.0,0.0
+751,Palnadu,Andhra Pradesh,110,0.0,0.0,0.0,0.0
+750,Bapatla,Andhra Pradesh,110,0.0,0.0,0.0,0.0
+519,Srikakulam,Andhra Pradesh,112,0.0,0.0,0.0,0.0
+550,Uttara Kannada,Karnataka,113,0.0,0.0,0.0,0.0
+744,Anakapalli,Andhra Pradesh,114,0.0,0.0,0.0,0.0
+534,Dakshina Kannada,Karnataka,115,0.0,0.0,0.0,0.0
+599,Mahe,Puducherry,116,0.0,0.0,0.0,0.0
+532,Chikkamagaluru,Karnataka,117,0.0,0.0,0.0,0.0
+533,Chitradurga,Karnataka,118,0.0,0.0,0.0,0.0
+547,Shivamogga,Karnataka,119,0.0,0.0,0.0,0.0
+506,Guntur,Andhra Pradesh,120,0.0,0.0,0.0,0.0
+535,Davangere,Karnataka,121,0.0,0.0,0.0,0.0
+549,Udupi,Karnataka,122,0.0,0.0,0.0,0.0
+544,Mandya,Karnataka,123,0.0,0.0,0.0,0.0
+538,Kalaburagi,Karnataka,124,0.0,0.0,0.0,0.0
+541,Kodagu,Karnataka,125,0.0,0.0,0.0,0.0
+635,Yadgir,Karnataka,126,0.0,0.0,0.0,0.0
+546,Raichur,Karnataka,127,0.0,0.0,0.0,0.0
+507,Hyderabad,Telangana,128,0.0,0.0,0.0,0.0
+526,Bengaluru Rural,Karnataka,129,0.0,0.0,0.0,0.0
+543,Koppal,Karnataka,130,0.0,0.0,0.0,0.0
+527,Belagavi,Karnataka,131,0.0,0.0,0.0,0.0
+700,Medchal Malkajgiri,Telangana,132,0.0,0.0,0.0,0.0
+524,Bagalkote,Karnataka,133,0.0,0.0,0.0,0.0
+601,Yanam,Puducherry,134,0.0,0.0,0.0,0.0
+545,Mysuru,Karnataka,135,0.0,0.0,0.0,0.0
+600,Puducherry,Puducherry,136,0.0,0.0,0.0,0.0
+528,Ballari,Karnataka,137,0.0,0.0,0.0,0.0
+738,Vijayanagar,Karnataka,137,0.0,0.0,0.0,0.0
+530,Vijayapura,Karnataka,139,0.0,0.0,0.0,0.0
+531,Chamarajanagara,Karnataka,140,0.0,0.0,0.0,0.0
+540,Haveri,Karnataka,141,0.0,0.0,0.0,0.0
+542,Kolar,Karnataka,142,0.0,0.0,0.0,0.0
+630,Chikkaballapura,Karnataka,143,0.0,0.0,0.0,0.0
+536,Dharwad,Karnataka,144,0.0,0.0,0.0,0.0
+529,Bidar,Karnataka,145,0.0,0.0,0.0,0.0
+537,Gadag,Karnataka,146,0.0,0.0,0.0,0.0
+631,Ramanagara,Karnataka,147,0.0,0.0,0.0,0.0
+525,Bengaluru Urban,Karnataka,148,0.0,0.0,0.0,0.0

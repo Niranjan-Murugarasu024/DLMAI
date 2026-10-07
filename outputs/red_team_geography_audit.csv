@@ -1,0 +1,149 @@
+state,district,lgd_code,status,parent_code,mapping_type,source,issue
+Andhra Pradesh,Alluri Sitharama Raju,745,Canonical,520.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Anakapalli,744,Canonical,520.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Ananthapuramu,502,Canonical,None,RENAMED,LGD Master,None
+Andhra Pradesh,Annamayya,753,Canonical,None,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Bapatla,750,Canonical,506.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Chittoor,503,Canonical,None,EXACT,LGD Master,None
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema,747,Canonical,505.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,East Godavari,505,Canonical,None,EXACT,LGD Master,None
+Andhra Pradesh,Eluru,748,Canonical,523.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Guntur,506,Canonical,None,EXACT,LGD Master,None
+Andhra Pradesh,Kakinada,746,Canonical,505.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Krishna,510,Canonical,None,EXACT,LGD Master,None
+Andhra Pradesh,Kurnool,511,Canonical,None,EXACT,LGD Master,None
+Andhra Pradesh,Nandyal,755,Canonical,511.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Ntr,749,Canonical,510.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Palnadu,751,Canonical,506.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Parvathipuram Manyam,743,Canonical,521.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Prakasam,517,Canonical,None,EXACT,LGD Master,None
+Andhra Pradesh,Sri Potti Sriramulu Nellore,515,Canonical,None,ALIAS,LGD Master,None
+Andhra Pradesh,Sri Sathya Sai,754,Canonical,502.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Srikakulam,519,Canonical,None,EXACT,LGD Master,None
+Andhra Pradesh,Tirupati,752,Canonical,503.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Andhra Pradesh,Visakhapatnam,520,Canonical,None,ALIAS,LGD Master,None
+Andhra Pradesh,Vizianagaram,521,Canonical,None,EXACT,LGD Master,None
+Andhra Pradesh,West Godavari,523,Canonical,None,EXACT,LGD Master,None
+Andhra Pradesh,Y.S.R.,504,Canonical,None,EXACT,LGD Master,None
+Goa,North Goa,551,Canonical,None,EXACT,LGD Master,None
+Goa,South Goa,552,Canonical,None,EXACT,LGD Master,None
+Karnataka,Bagalkote,524,Canonical,None,EXACT,LGD Master,None
+Karnataka,Ballari,528,Canonical,None,RENAMED,LGD Master,None
+Karnataka,Belagavi,527,Canonical,None,RENAMED,LGD Master,None
+Karnataka,Bengaluru Rural,526,Canonical,None,ALIAS,LGD Master,None
+Karnataka,Bengaluru Urban,525,Canonical,None,ALIAS,LGD Master,None
+Karnataka,Bidar,529,Canonical,None,EXACT,LGD Master,None
+Karnataka,Chamarajanagara,531,Canonical,None,EXACT,LGD Master,None
+Karnataka,Chikkaballapura,630,Canonical,None,EXACT,LGD Master,None
+Karnataka,Chikkamagaluru,532,Canonical,None,RENAMED,LGD Master,None
+Karnataka,Chitradurga,533,Canonical,None,EXACT,LGD Master,None
+Karnataka,Dakshina Kannada,534,Canonical,None,EXACT,LGD Master,None
+Karnataka,Davangere,535,Canonical,None,EXACT,LGD Master,None
+Karnataka,Dharwad,536,Canonical,None,EXACT,LGD Master,None
+Karnataka,Gadag,537,Canonical,None,EXACT,LGD Master,None
+Karnataka,Hassan,539,Canonical,None,EXACT,LGD Master,None
+Karnataka,Haveri,540,Canonical,None,EXACT,LGD Master,None
+Karnataka,Kalaburagi,538,Canonical,None,RENAMED,LGD Master,None
+Karnataka,Kodagu,541,Canonical,None,EXACT,LGD Master,None
+Karnataka,Kolar,542,Canonical,None,EXACT,LGD Master,None
+Karnataka,Koppal,543,Canonical,None,EXACT,LGD Master,None
+Karnataka,Mandya,544,Canonical,None,EXACT,LGD Master,None
+Karnataka,Mysuru,545,Canonical,None,RENAMED,LGD Master,None
+Karnataka,Raichur,546,Canonical,None,EXACT,LGD Master,None
+Karnataka,Ramanagara,631,Canonical,None,EXACT,LGD Master,None
+Karnataka,Shivamogga,547,Canonical,None,RENAMED,LGD Master,None
+Karnataka,Tumakuru,548,Canonical,None,RENAMED,LGD Master,None
+Karnataka,Udupi,549,Canonical,None,EXACT,LGD Master,None
+Karnataka,Uttara Kannada,550,Canonical,None,EXACT,LGD Master,None
+Karnataka,Vijayanagar,738,Canonical,528.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Karnataka,Vijayapura,530,Canonical,None,RENAMED,LGD Master,None
+Karnataka,Yadgir,635,Canonical,None,EXACT,LGD Master,None
+Kerala,Alappuzha,554,Canonical,None,ALIAS,LGD Master,None
+Kerala,Ernakulam,555,Canonical,None,ALIAS,LGD Master,None
+Kerala,Idukki,556,Canonical,None,EXACT,LGD Master,None
+Kerala,Kannur,557,Canonical,None,EXACT,LGD Master,None
+Kerala,Kasaragod,558,Canonical,None,ALIAS,LGD Master,None
+Kerala,Kollam,559,Canonical,None,ALIAS,LGD Master,None
+Kerala,Kottayam,560,Canonical,None,EXACT,LGD Master,None
+Kerala,Kozhikode,561,Canonical,None,ALIAS,LGD Master,None
+Kerala,Malappuram,562,Canonical,None,EXACT,LGD Master,None
+Kerala,Palakkad,563,Canonical,None,ALIAS,LGD Master,None
+Kerala,Pathanamthitta,564,Canonical,None,EXACT,LGD Master,None
+Kerala,Thiruvananthapuram,565,Canonical,None,ALIAS,LGD Master,None
+Kerala,Thrissur,566,Canonical,None,ALIAS,LGD Master,None
+Kerala,Wayanad,567,Canonical,None,EXACT,LGD Master,None
+Puducherry,Karaikal,598,Canonical,None,EXACT,LGD Master,None
+Puducherry,Mahe,599,Canonical,None,EXACT,LGD Master,None
+Puducherry,Puducherry,600,Canonical,None,ALIAS,LGD Master,None
+Puducherry,Yanam,601,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Ariyalur,610,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Chengalpattu,730,Canonical,574.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Tamil Nadu,Chennai,568,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Coimbatore,569,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Cuddalore,570,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Dharmapuri,571,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Dindigul,572,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Erode,573,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Kallakurichi,729,Canonical,596.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Tamil Nadu,Kancheepuram,574,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Kanniyakumari,575,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Karur,576,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Krishnagiri,577,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Madurai,578,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Mayiladuthurai,735,Canonical,579.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Tamil Nadu,Nagapattinam,579,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Namakkal,580,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Perambalur,581,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Pudukkottai,582,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Ramanathapuram,583,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Ranipet,731,Canonical,595.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Tamil Nadu,Salem,584,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Sivaganga,585,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Tenkasi,733,Canonical,592.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Tamil Nadu,Thanjavur,586,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,The Nilgiris,587,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Theni,588,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Thiruvallur,589,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Thiruvarur,590,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Thoothukkudi,594,Canonical,None,ALIAS,LGD Master,None
+Tamil Nadu,Tiruchirappalli,591,Canonical,None,ALIAS,LGD Master,None
+Tamil Nadu,Tirunelveli,592,Canonical,None,HISTORICAL,LGD Master,None
+Tamil Nadu,Tirupathur,732,Canonical,595.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Tamil Nadu,Tiruppur,634,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Tiruvannamalai,593,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Vellore,595,Canonical,None,EXACT,LGD Master,None
+Tamil Nadu,Viluppuram,596,Canonical,None,ALIAS,LGD Master,None
+Tamil Nadu,Virudhunagar,597,Canonical,None,EXACT,LGD Master,None
+Telangana,Adilabad,501,Canonical,None,EXACT,LGD Master,None
+Telangana,Bhadradri Kothagudem,690,Canonical,509.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Hanumakonda,686,Canonical,None,RENAMED,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Hyderabad,507,Canonical,None,EXACT,LGD Master,None
+Telangana,Jagitial,681,Canonical,508.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Jangoan,689,Canonical,None,ALIAS,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Jayashankar Bhupalapally,687,Canonical,None,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Jogulamba Gadwal,695,Canonical,512.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Kamareddy,685,Canonical,516.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Karimnagar,508,Canonical,None,EXACT,LGD Master,None
+Telangana,Khammam,509,Canonical,None,EXACT,LGD Master,None
+Telangana,Kumuram Bheem Asifabad,699,Canonical,None,ALIAS,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Mahabubabad,688,Canonical,None,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Mahabubnagar,512,Canonical,None,EXACT,LGD Master,None
+Telangana,Mancherial,684,Canonical,501.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Medak,513,Canonical,None,EXACT,LGD Master,None
+Telangana,Medchal Malkajgiri,700,Canonical,None,ALIAS,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Mulugu,720,Canonical,None,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Nagarkurnool,694,Canonical,512.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Nalgonda,514,Canonical,None,EXACT,LGD Master,None
+Telangana,Narayanpet,721,Canonical,512.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Nirmal,680,Canonical,501.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Nizamabad,516,Canonical,None,EXACT,LGD Master,None
+Telangana,Peddapalli,682,Canonical,508.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Rajanna Sircilla,683,Canonical,508.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Ranga Reddy,518,Canonical,None,EXACT,LGD Master,None
+Telangana,Sangareddy,691,Canonical,513.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Siddipet,692,Canonical,513.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Suryapet,696,Canonical,514.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Vikarabad,698,Canonical,518.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Wanaparthy,693,Canonical,512.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
+Telangana,Warangal,522,Canonical,None,RENAMED,LGD Master,None
+Telangana,Yadadri Bhuvanagiri,697,Canonical,514.0,SPLIT,LGD Master,Post-2011 newly carved district; relies on parent inheritance
