@@ -45,7 +45,7 @@ import pandas as pd   # used for Census PCA CSV path
 # False → uses real government data in the data/ directories
 # Run python setup_data_dirs.py to check which files are present/missing.
 # ─────────────────────────────────────────────────────────────────────────────
-DEMO_MODE = False
+DEMO_MODE = os.environ.get("DEMO_MODE", "True").lower() in ("true", "1", "yes")
 
 
 NFHS_INDICATORS = [
